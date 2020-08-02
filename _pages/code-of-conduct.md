@@ -45,4 +45,4 @@ Understand that speech and actions have consequences, and unacceptable behaviour
 * There are [moderation guidelines](/modguide).
 * If you believe that a Moderator or Administrator has not followed the moderation guidelines properly, please report this using the same methods as a Code of Conduct violation.
 
-Derived from the Slack Developer Community Code of Conduct and Citizen Code of Conduct under a Creative Commons Attribution-ShareAlike license.
+<sub>Derived from the Slack Developer Community Code of Conduct and Citizen Code of Conduct under a Creative Commons Attribution-ShareAlike license.</sub>
