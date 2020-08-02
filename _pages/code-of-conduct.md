@@ -1,5 +1,5 @@
 ---
-permalink: /codeofconduct
+permalink: /codeofconduct/
 title: "Code of Conduct"
 ---
 
