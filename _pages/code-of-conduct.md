@@ -40,7 +40,7 @@ This is not an exhaustive list. Remember the expected behaviours.
 
 Understand that speech and actions have consequences, and unacceptable behaviour will not be tolerated.
 
-* If an issue occurs, please contact an Moderator or Administrator. On Discord their names are highlighted in green.
+* If an issue occurs, please contact a Moderator or Administrator. On Discord their names are at the top of the list.
 * If violations occur, Moderators or Administrators will take any action they deem appropriate for the infraction, up to and including expulsion.
 * There are [moderation guidelines](/modguide).
 * If you believe that a Moderator or Administrator has not followed the moderation guidelines properly, please report this using the same methods as a Code of Conduct violation.
