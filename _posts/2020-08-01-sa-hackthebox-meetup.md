@@ -2,6 +2,7 @@
 title: "Announcing the Hack The Box Meetup"
 header:
   teaser: /assets/images/first-meetup-SouthAfrica.png
+excerpt_separator: "<!--more-->"
 categories:
  - Meetup
 tags:
@@ -9,7 +10,7 @@ tags:
  - Announcements
 ---
 
-We are excited to announce the first official Hack The Box meetup in South Africa. Our first meetup will be on Tuesday 1 September, followed by monthly meetings on the first Tuesday of every month. Hack The Box is online platform to test and advance your skills in penetration testing and cyber security. Join and RSVP now on [Meetup.com/Hack-The-Box-Meetup-South-Africa](https://www.meetup.com/Hack-The-Box-Meetup-South-Africa)
+We are excited to announce the first official Hack The Box meetup in South Africa. Our first meetup will be on Tuesday 1 September, followed by monthly meetings on the first Tuesday of every month. Hack The Box is online platform to test and advance your skills in penetration testing and cyber security. Join and RSVP for the meeting now<!--more--> on [Meetup.com/Hack-The-Box-Meetup-South-Africa](https://www.meetup.com/Hack-The-Box-Meetup-South-Africa)
 
 [![meeting details](/assets/images/first-meetup-SouthAfrica.png "First Meeting")](https://www.meetup.com/Hack-The-Box-Meetup-South-Africa/events/272077209/)
 
@@ -31,8 +32,8 @@ You must start somewhere, so why not stop by and let us help? We encourage peopl
 ### Virtual machine setup
 We recommend trying to setup a virtual machine before the meetup as this will give us more time to attack the dedicated machines. Please follow the instruction video below if you can. We are happy to help set up your machine with you on the day as this will be our first session. We do ask that you try to download the software and operating system before the time.
 
-#### YouTube instructions for VirtualBox & Kali Linux setup
-* https://www.youtube.com/watch?v=qH8Igk2wF9o
+#### VirtualBox & Kali Linux setup video
+* [Youtube instructions](https://www.youtube.com/watch?v=qH8Igk2wF9o)
 
 #### Virtual Machine Software (choose 1)
 * VirtualBox - [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)

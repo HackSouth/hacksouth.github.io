@@ -19,7 +19,7 @@ description: Hack South is the premier open cyber community in South Africa.
 twitter_username: hack_south
 github_username: hacksouth
 minimal_mistakes_skin: dark
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
