@@ -10,7 +10,7 @@ tags:
  - Announcements
 ---
 
-We are excited to announce the first official Hack The Box meetup in South Africa. Our first meetup will be on Tuesday 1 September, followed by monthly meetings on the first Tuesday of every month. Hack The Box is online platform to test and advance your skills in penetration testing and cyber security. Join and RSVP for the meeting now<!--more--> on [Meetup.com/Hack-The-Box-Meetup-South-Africa](https://www.meetup.com/Hack-The-Box-Meetup-South-Africa)
+We are excited to announce the first official Hack The Box meetup in South Africa. All meetings will be online due to Covid-19. Our first meeting will be on Tuesday 1 September, followed by monthly meetings on the first Tuesday of every month. Hack The Box is an online platform to test and advance your skills in penetration testing and cyber security. Join and RSVP for the meeting now<!--more--> on [Meetup.com/Hack-The-Box-Meetup-South-Africa](https://www.meetup.com/Hack-The-Box-Meetup-South-Africa)
 
 [![meeting details](/assets/images/first-meetup-SouthAfrica.png "First Meeting")](https://www.meetup.com/Hack-The-Box-Meetup-South-Africa/events/272077209/)
 
