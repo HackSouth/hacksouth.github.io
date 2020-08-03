@@ -3,7 +3,7 @@ permalink: /codeofconduct/
 title: "Code of Conduct"
 ---
 
-# Introduction
+## Introduction
 
 Diversity and inclusion make our community strong. We encourage participation from the most varied and diverse backgrounds possible and want to be very clear about where we stand.
 
@@ -11,13 +11,13 @@ Our goal is to maintain a safe, helpful and friendly community for everyone.
 
 This code and related procedures also apply to unacceptable behaviour occurring outside the scope of community activities, in all community venues— online and in-person— as well as in all one-on-one communications, and anywhere such behaviour has the potential to adversely affect the safety or well-being of community members.
 
-# Expected Behaviour
+## Expected Behaviour
 
 * Be welcoming.
 * Be kind.
 * Look out for each other.
 
-# Unacceptable Behaviour
+## Unacceptable Behaviour
 
 The following behaviours are unacceptable in all Hack De Wereld Discord channels and direct messages, and in any physical or online events officially organised by its administrative team:
 
@@ -36,7 +36,7 @@ The following behaviours are unacceptable in all Hack De Wereld Discord channels
 
 This is not an exhaustive list. Remember the expected behaviours.
 
-# Enforcement
+## Enforcement
 
 Understand that speech and actions have consequences, and unacceptable behaviour will not be tolerated.
 
