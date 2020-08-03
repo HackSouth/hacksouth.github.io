@@ -1,4 +1,6 @@
 main:
+  - title: "Events"
+    url: /events/
   - title: "Code of Conduct"
     url: /codeofconduct/
   - title: "Posts"

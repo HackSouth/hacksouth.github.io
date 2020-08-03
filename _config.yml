@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Hack South
 email: hacksouthza@gmail.com
-description: Hack South is South Africa's largest cybersecurity community. Hackers, makers, breakers, InfoSec professionals and students are welcome. Join our Discord server for industry news, cyber events, CTF competitions, and professional development.
+description: South Africa's largest cybersecurity community. Hackers, makers, breakers, infosec professionals and students welcome. Join our Discord for cyber events, CTFs and professional development.
 twitter_username: hack_south
 github_username: hacksouth
 minimal_mistakes_skin: dark
@@ -59,15 +59,23 @@ author:
   flag     : "/assets/images/south-africa-flag-32.png"
   location : "South Africa"
   avatar   : "/assets/images/bio-photo.png"
-  bio      : "Home of the nefarious South.\n\nWe welcome hackers, makers, breakers, security professionals and students - even the curious! Join our Discord community."
-  email    : "hacksouthza@gmail.com"
+  bio      : "Home of the ubiquitous South.\n\nWe welcome hackers, makers, breakers, security professionals, students - even the curious! Join our Discord community."
   twitter  : "hack_south"
-  github   : "hacksouth"
-  discord_widget: "https://discordapp.com/widget?id=687602309395382282&theme=dark"
+  discord_widget: "https://discord.com/widget?id=687602309395382282&theme=dark"
   links:
     - label: "HTB Meetup"
       icon: "fab fa-fw fa-meetup"
       url: "https://www.meetup.com/Hack-The-Box-Meetup-South-Africa"
+    - label: "CTFtime"
+      icon: "fab fa-fw fa-font-awesome-flag"
+      url: "https://ctftime.org/team/120550"
+
+# Analytics
+analytics:
+  provider: "google-universal"
+  google:
+    tracking_id: "UA-174550030-1"
+    anonymize_ip: true
 
 footer:
   links:
@@ -99,3 +107,4 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
