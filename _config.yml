@@ -16,10 +16,11 @@
 title: Hack South
 email: hacksouthza@gmail.com
 description: South Africa's largest cybersecurity community. Hackers, makers, breakers, infosec professionals and students welcome. Join our Discord for cyber events, CTFs and professional development.
-twitter_username: hack_south
-github_username: hacksouth
 minimal_mistakes_skin: dark
 search: false
+
+twitter:
+  username: hack_south
 
 # Build settings
 markdown: kramdown
