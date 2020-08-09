@@ -1,27 +1,11 @@
 ---
 title: "Events"
 permalink: /events/
-calendarId: "hacksouthza@gmail.com"
-apiKey: "AIzaSyDBYQkd46PpGDbk2sl0ya-SiyZ_z9a790s"
+after_footer_scripts:
+  - "/assets/js/moment.min.js"
+  - "/assets/js/events.min.js"
 ---
 
 <p>Upcoming industry and local events from our <a href="https://calendar.google.com/calendar/b/2?cid=aGFja3NvdXRoemFAZ21haWwuY29t" target="_blank">Google Calendar</a></p>
 
 <ul class="calendar-events"><ul>
-
-<script src="/assets/js/main.min.js"></script>
-<script src="/assets/js/moment.min.js"></script>
-<script>
-  var start = encodeURIComponent(moment().format("YYYY-MM-DDTHH:mm:ssZ"));
-  var end = encodeURIComponent(moment().add(2, 'M').format("YYYY-MM-DDTHH:mm:ssZ"));
-  var dateRange = `timeMin=${start}&timeMax=${end}`;
-
-  var $eventsEl = $('.calendar-events');
-  $.getJSON('https://www.googleapis.com/calendar/v3/calendars/{{ page.calendarId }}/events?singleEvents=true&orderBy=startTime&key={{ page.apiKey }}&' + dateRange, function(data) {
-    $.each(data.items, function(key, val) {
-      var eventStart = moment(val.start.dateTime ?? val.start.date).format("D MMM");
-      var $summaryLink = $(`<a href="${val.htmlLink}" target="_blank"></a>`).text(val.summary);
-      $eventsEl.append($(`<li><span class="calendar-event-date">${eventStart}</span> - </li>`).append($summaryLink));
-    });
-  });
-</script>
