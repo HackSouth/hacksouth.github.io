@@ -21,7 +21,7 @@ We will host a monthly, informal meeting occurring on the first Tuesday of every
 Some electricity (Yikes Eskom), a computer and an internet connection! Being the first session, we fully intend to help everybody setup virtual machines running a penetration testing distribution and help people setup a Hack The Box account. For those that do not know, Hack The Box requires you to hack your way into the site in order to create a task and although this can be extremely fun, it can also be daunting. Do no worry though as we will be walking people through this when necessary.
 
 ### What's in the box?
-Well we will be choosing the first few boxes for our first Meetup but after this we will be polling what you want next on our Twitter account - [@hacktheboxsa](https://twitter.com/hacktheboxsa)
+Well we will be choosing the first few boxes for our first Meetup but after this we will be polling which you would like to see on Discord.
 
 ### What can I expect in the future?
 Following the introductory Meetup, we will be providing insight into the world of offensive security through monthly presentations. These can be anything from niche exploits, tools to add to your toolkit, guest speakers, InfoSec career development as well as a chance for you to share what you want to see in the future! This is a community driven initiative so don’t be shy to make requests!
