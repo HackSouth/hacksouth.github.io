@@ -1,5 +1,5 @@
 ---
-title: "How To Access Our Dedicated Meetup Lab"
+title: "How To Access Our Ded Meetup Lab"
 header:
   teaser: /assets/images/dedicated-labs/dedicated-labs.png
 excerpt_separator: "<!--more-->"
