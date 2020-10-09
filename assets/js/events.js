@@ -13,7 +13,7 @@ $(function() {
           var eventStart = moment(val.start.date).format("D MMM");
         }
         
-        var $summaryLink = $(`<a href="${val.htmlLink}" target="_blank"></a>`).text(val.summary);
+        var $summaryLink = $(`<a href="${val.htmlLink}" target="_blank" rel="noopener noreferrer"></a>`).text(val.summary);
         $eventsEl.append($(`<li><span class="calendar-event-date">${eventStart}</span> - </li>`).append($summaryLink));
       });
     });
