@@ -1,5 +1,6 @@
 ---
 title: "How To Access Our Dedicated Meetup Lab"
+author: spymky
 header:
   teaser: /assets/images/dedicated-labs/dedicated-labs.png
 excerpt_separator: "<!--more-->"

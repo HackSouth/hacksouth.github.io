@@ -1,5 +1,6 @@
 ---
 title: "Announcing the Hack The Box Meetup"
+author: spymky
 header:
   teaser: /assets/images/sa-hackthebox-meetup/first-meetup-SouthAfrica.png
 excerpt_separator: "<!--more-->"

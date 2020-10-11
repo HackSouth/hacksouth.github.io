@@ -1,0 +1,38 @@
+AngusRed:
+  name: AngusRed
+  bio: "Technical Security Recruiter to the highest bidder!"
+  avatar: "/assets/images/authors/angusred.png"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/chwroth/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/AngusRedBlue"
+    - label: "Keybase"
+      icon: "fas fa-fw fa-key"
+      url: "https://keybase.io/angusred"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/AngusRed"
+
+spymky:
+  name: spymky
+  bio: "Systems architect, security ethusiast, CTF player."
+  avatar: "/assets/images/authors/spymky.png"
+  links:
+    - label: "Hack The Box"
+      icon: "fab fa-fw fa-font-awesome-flag"
+      url: "https://www.hackthebox.eu/home/users/profile/128268"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/carlmon"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/carlmonnig"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/carlmon"
+    - label: "Keybase"
+      icon: "fas fa-fw fa-key"
+      url: "https://keybase.io/spymky"

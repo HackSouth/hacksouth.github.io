@@ -1,5 +1,6 @@
 ---
 title: "0x00 - Starting from zero on Hack The Box"
+author: spymky
 header:
   teaser: /assets/images/0x00-starting-from-zero/wannacry.png
 excerpt_separator: "<!--more-->"

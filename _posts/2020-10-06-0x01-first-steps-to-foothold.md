@@ -1,5 +1,6 @@
 ---
 title: "0x01 - First steps towards a foothold"
+author: spymky
 header:
   teaser: /assets/images/0x01-first-steps/enumeration.png
 excerpt_separator: "<!--more-->"
