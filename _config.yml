@@ -71,6 +71,9 @@ author:
     - label: "CTFtime"
       icon: "fab fa-fw fa-font-awesome-flag"
       url: "https://ctftime.org/team/120550"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/company/hack-south/"
 
 # Analytics
 analytics:
