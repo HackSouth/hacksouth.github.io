@@ -36,3 +36,15 @@ spymky:
     - label: "Keybase"
       icon: "fas fa-fw fa-key"
       url: "https://keybase.io/spymky"
+
+dane.g:
+  name: dane.g
+  bio: "Technical tinkerer, security consultant, pun enthusiast"
+  avatar: "/assets/images/authors/dane.png"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/dane_goodwin"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/0xc0ffee_jhb"
