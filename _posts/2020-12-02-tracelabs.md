@@ -2,7 +2,7 @@
 title: "TraceLabs Missing Persons CTF Podium"
 author: AngusRed
 header:
-  teaser: /assets/images/Tracelabs/Trace%20Labs%20-%20Bronze%20Badge%20-%20Global%20OSINT%20Search%20Party%20CTF%20-%202020-10-19.png
+  teaser: /assets/images/Tracelabs/TraceLabs-BronzeBadge.png
 excerpt_separator: "<!--more-->"
 categories:
  - CTF
