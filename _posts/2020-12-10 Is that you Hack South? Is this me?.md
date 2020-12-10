@@ -163,7 +163,11 @@ We as an industry have many struggles related to diversity. On Hack South are nu
 
 ###### Education Zone  
 
-We have slowly but surely built up a decent hacker Education Zone, kitted out with a channels catering for Certifications, Resources packed with discounts and deals, an area dedicated to Uni Students and the general channel. Find your peers! Get your universities involved!
+We have slowly but surely built up a decent hacker Education Zone, kitted out with a channels catering for Certifications, Resources packed with discounts and deals, an area dedicated to Uni Students and the general channel. Find your peers! Get your universities involved!  
+
+###### Employment Zone  
+
+We have a dedicated area for people looking to hire, people looking to advertise they are looking for a gig and business leaders to share insight and advice. It is OPT IN, get the roles in **[Role Assignment](https://discord.com/channels/687602309395382282/687692950272344069)** or ask a mod.  
 
 ###### Diffie The Tailess  
 
