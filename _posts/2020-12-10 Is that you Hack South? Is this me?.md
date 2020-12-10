@@ -133,7 +133,45 @@ The foundation is at the ideas stage. We have great ideas and thoughts and hope 
 
 The future is hard to call. We will continue speading the word about the Hack South Server. We will continue to do CTF's and learn something along the way. We are considering things that are centric to the community (Both local and security related) where we can make a difference and uplift a population or cluster of people. We want to start hosting small workshops every month, delivered by our local industry leaders. We may even start a little podcast, dedicated to Hack South and what we are doing. We will continue to build lasting friendships. Why be lonely, when 379 something or other of your friends are waiting here to welcome you, learn from you or teach you something. 
 
-> We continue down the path of a continued pursuit of excellence, whether that be in a technical field, or meme'ory
+> We continue down the path of our continued pursuit of excellence, whether that be in a technical field, or meme'ory  
+
+## Roles and Channels  
+
+I briefly wanted to highlight some roles and channels for you to keep an eye on and check out.
+
+###### Gaining Access  
+
+Somehow many people struggle with this, and it is rather simple. When you click to connect or join the server you will have 1 role, which is **FNG**. This gives you access to 2 channels. **[Code Of Conduct](https://discord.com/channels/687602309395382282/687607981038108712)** and [New To Hack South](https://discord.com/channels/687602309395382282/759798831528935455]**. In your DM's and in [New To Hack South](https://discord.com/channels/687602309395382282/759798831528935455) you will have a message welcoming you and telling you to accept the Code Of Conduct. Go on the CoC Channel, read it and if you accept, click the emoji at the bottom, which will give you **COC Accepted** as a role and this will open up [WHOAMI-Introductions](https://discord.com/channels/687602309395382282/687607958942646330), in this channel simply intro yourself. No need for any personal info just your handle, where you from, what you do, and where you heard about Hack South. Once you have done that a MOD will delete your **FNG** Role and assign you **HUMAN** which gives you access to 90% of the server. From here go on down to **[MAIN](https://discord.com/channels/687602309395382282/687602309395382286)** to say hi or head to **[Role Assignment](https://discord.com/channels/687602309395382282/687692950272344069)** to get more roles (Using the corresponding emojis) and then read up on the latest announcements!
+
+###### CTF's  
+
+We want to and welcome anyone to take part in a CTF. In **[Role Assignment](https://discord.com/channels/687602309395382282/687692950272344069)** we have roles for **Hack The Box**, **Try Hack Me** and the server wide **CTF Crew**. Get on it, and come join us. We have a group of channels dedicated to this, like **[CTF General](https://discord.com/channels/687602309395382282/687605864559018066)**. We have Opt In channels dedicated to specific CTF's as well.   
+
+###### Community SA  
+
+We have a myriad of channels and roles dedicated to the wider Hacker community of South Africa. We have space for DC2711, DC2744, 0xCoffee CPT, LDN and JHB. This can all be found under the **SOCIALS** Segment/category.   
+
+Once a month we host the HTB South Africa Meetup and also host 0xCoffeeCPT!  
+
+###### Gigs  
+
+With the lockdown there are a lot of people looking for jobs or advice and also many companies looking for suitable candidates. Head over to **[Role Assignment](https://discord.com/channels/687602309395382282/687692950272344069)** to get the correct corresponding Employment roles to gain access as this is Opt in. 
+
+###### Diffie The Tailess  
+
+We are not sure either. [Diffie](https://discord.com/channels/687602309395382282/775704552854126614)  is a mystical [Dassie](https://en.wikipedia.org/wiki/Rock_hyrax) that has become our defacto mascot. Some say he has a Wifi antenna for a back left leg. 
+
+
+
+## What can I do?  
+
+Simple. Invite your friends and colleagues that work in security, tech or IT. Invite those that have an interest. We want all the people. Get active and become part of the conversation. Take on a CTF! Even if you dont get a single point!  
+
+Have alternate skills we could use like web design, graphic design etc, get in touch! We need logos, branding and leet merch!  
+
+Got the moneys? Think about contributing to boosting the server or make a donation when we are fully set up with the foundation.  
+
+Most importantly, **Have fun, learn something and Hack the Planet, on the South side!**  
 
 
 
