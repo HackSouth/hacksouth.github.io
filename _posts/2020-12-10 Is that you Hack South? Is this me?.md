@@ -42,10 +42,10 @@ From here, an invite was issued, and the Hack South Originals joined, numbering 
 
 The early days were crazy. We got excited with each person joining, many of which we knew. The server was not pushed at all. On the 13th of March 2020, we had a Nazi Raid. Angus was on his way to the airport to pick someone up when he got a Whatsapp from a friend, [Mooncake](https://twitter.com/GeoffChisnall) who told him there was a Raid spreading Nazi propaganda. We were clearly not ready. AngusRed then posted in Main saying ***"Who wants MOD"*** and immediatly 4 People were assigned MOD and started fixing perms, banning raiders and resolving the chaos. Those for were  
 
-* *[Megladon](https://twitter.com/IPmegladon)  
-* *[Mooncake](https://twitter.com/GeoffChisnall)  
-* *[Rewtd](https://twitter.com/rewtd)  
-* *[RagSec](https://twitter.com/rag_sec)  
+* [Megladon](https://twitter.com/IPmegladon)  
+* [Mooncake](https://twitter.com/GeoffChisnall)  
+* [Rewtd](https://twitter.com/rewtd)  
+* [RagSec](https://twitter.com/rag_sec)  
 
 ![The survivors of the NAZI Raid](https://media.giphy.com/media/3reGZ5XDFWPte/source.gif){: .align-right} 
 
@@ -104,9 +104,9 @@ Our priorities are as follows
 * Where is the limit? What is the ceiling?
 > Within reason, there is none. Imagine it. We take an at risk youth, 16 years of age, maybe they live a life where the influence of gangsterism is previlent. They come join us for a open day. We should then some RasberryPI's, do some cool hacking wizardry that is asthetically simple to grasp and looks interesting. That kid they shows their interest. We assess them and realize they know nothing outside of a smart phone. We train them in the fundementals of a computer, and they progress from that to understanding Windows, MS Office and using the internet. From there they progress and start learning more about what is under the bonnet, how do these components talk to each other. They grow and grow, learn more each day. They get involved with an affialiated computer lab, and maybe pop their first shell. We invite them to take part in a CTF and they do well. We get sponsored a Net+ and Sec+ from CompTIA and due to this candidates performance we decide to allocate these vouchers to them and support them in their learning.  
 
-Candidate X smashes it and starts doing really well on HTB and they progress to something more salty like OSCP. They pass it just before their 18th birthday! They matriculate and now what? Due to the inroads we have built with companies in SA we manage to get them on a summer internship which they excel at. From all their hardwork and effort we have a chain of evidence and manage to get them a scholarship to Stellenbosch, or Rhodes University.  
+> Candidate X smashes it and starts doing really well on HTB and they progress to something more salty like OSCP. They pass it just before their 18th birthday! They matriculate and now what? Due to the inroads we have built with companies in SA we manage to get them on a summer internship which they excel at. From all their hardwork and effort we have a chain of evidence and manage to get them a scholarship to Stellenbosch, or Rhodes University.  
 
-We fast forward 6 years and now Candidate X has become a top performing Security Engineer. They create an idea, get support from Hack South and start a company which employees 10 people. With this, Candidate X is able to hire people from the Hack South Foundation Program of learnership.
+> We fast forward 6 years and now Candidate X has become a top performing Security Engineer. They create an idea, get support from Hack South and start a company which employees 10 people. With this, Candidate X is able to hire people from the Hack South Foundation Program of learnership.
 
 Repeat....  
 **PROFIT!!!!**  
@@ -157,10 +157,17 @@ Once a month we host the HTB South Africa Meetup and also host 0xCoffeeCPT!
 
 With the lockdown there are a lot of people looking for jobs or advice and also many companies looking for suitable candidates. Head over to **[Role Assignment](https://discord.com/channels/687602309395382282/687692950272344069)** to get the correct corresponding Employment roles to gain access as this is Opt in. 
 
+###### Diversity  
+
+We as an industry have many struggles related to diversity. On Hack South are numbers are vastly slumped to 1 demographic, but we see that as nothing more than circumstance, but we do see the numbers. We want to encourage more Woman to come join in the fun. Stay at home mom that was always a geek? Come join us! Dev that is perhaps curious? Come join us! We have a decent mix of colours which is great and we look forward to welcoming more people and varying colours, beliefs and backgrounds, except if you are not good people.  
+
+###### Education Zone  
+
+We have slowly but surely built up a decent hacker Education Zone, kitted out with a channels catering for Certifications, Resources packed with discounts and deals, an area dedicated to Uni Students and the general channel. Find your peers! Get your universities involved!
+
 ###### Diffie The Tailess  
 
 We are not sure either. [Diffie](https://discord.com/channels/687602309395382282/775704552854126614)  is a mystical [Dassie](https://en.wikipedia.org/wiki/Rock_hyrax) that has become our defacto mascot. Some say he has a Wifi antenna for a back left leg. 
-
 
 
 ## What can I do?  
