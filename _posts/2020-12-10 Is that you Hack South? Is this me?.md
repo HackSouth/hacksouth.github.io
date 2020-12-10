@@ -2,7 +2,7 @@
 title: "Is that you Hack South? Is this me?"
 author: AngusRed
 header:
-  teaser: /assets/images/Tracelabs/TraceLabs-BronzeBadge.png
+  teaser: /assets/images/Hack_South_Story/HS%20Original%203.png
 excerpt_separator: "<!--more-->"
 categories:
  - Community
@@ -53,7 +53,7 @@ After the dust had settled, we decided to keep pushing, keep building and grow t
 
 ###### Uncle Cyril and the lockdown  
 
-With a small group of us we started monitoring COVID19 and cases in South Africa. Back when each case was recorded with detail. Back in the days were a daily increase of 5 people was big. Soon numbers started creeping up and more people took notice. Then we heard that the President would make a big announcement on the evening of 23 March 2020. We set up a channel called [Pandemic Chat](https://discord.com/channels/687602309395382282/687620236824150134) to relay information and stats both locally and internationally. On the eve of 23 March 2020, the President announced a full and total lockdown of the country. All ports of entry, movement and business would shut on 27 March 2020. Fear spread around the country and people started stocking up on supplies to weather the storm. Smokes and booze would even be banned. We as team quickly realized that people, some of which were friends and family would be stuck in our homes for a undetermined amount of time and that would affect peoples mental health. We then realized that Hack South could be more than a place to just hangout.  
+With a small group of us we started monitoring COVID19 and cases in South Africa. Back when each case was recorded with detail. Back in the days were a daily increase of 5 people was big. Soon numbers started creeping up and more people took notice. Then we heard that the President would make a big announcement on the evening of 23 March 2020. We set up a channel called [Pandemic Chat](https://discord.com/channels/687602309395382282/687620236824150134) to relay information and stats both locally and internationally. On the eve of 23 March 2020, the President announced a full and total lockdown of the country. All ports of entry, movement and business would shut on 27 March 2020. Fear spread around the country and people started stocking up on supplies to weather the storm. Smokes and booze would even be banned. We as team quickly realised that people, some of which were friends and family would be stuck in our homes for a undetermined amount of time and that would affect peoples mental health. We then realised that Hack South could be more than a place to just hangout.  
 
 With the lockdown coming and varying levels of uncertainty we soute purpose. We started seeing constant fake news and media being shared and posted on Facebook, LinkedIn, Whatsapp and alike. We decided to be a voice of reason and create a channel dedicated to researching and either validating or debunking this information. The [Media Verification](https://discord.com/channels/687602309395382282/691737511722090539) channel was established and all sorts of trash was posted. Whether it be troops and supplies massing in Cape Town, a million graves being dug in Johannesburg or some crazy Voicenotes, we dumped them and debunked them. I feel this was our first innitiative for good.  
 
@@ -61,13 +61,13 @@ Throughout the initial and protracted lock down we would hang out, work together
 
 ###### Settling in and finding purpose  
 
-With the time going slowly and many of us wondering what to do with ourselves we started talking about the community in South Africa. The different players in the field, the challenges we faced and what was being done about it. Knowing infosec means knowing there is a skills shortage and a lack of qualified, competant and experienced security people in South Africa. It was from this that various ideas and innitiatives were shared and discussed. We realized that in South Africa we have a big void for talent and were losing people to the USA, UK, Australia faster than we as a community could replace them. If we were in trouble now, we were going to be in even bigger trouble in the years to come. We then decided, for anyone that wanted to be involved and contribute to start paving a path to resolving this industrial hurdle.  We decided to start forming both legally and idiologically what needed to be done. The Hack South Foundation (BETA) was born, another force for good.
+With the time going slowly and many of us wondering what to do with ourselves we started talking about the community in South Africa. The different players in the field, the challenges we faced and what was being done about it. Knowing infosec means knowing there is a skills shortage and a lack of qualified, competant and experienced security people in South Africa. It was from this that various ideas and innitiatives were shared and discussed. We realised that in South Africa we have a big void for talent and were losing people to the USA, UK, Australia faster than we as a community could replace them. If we were in trouble now, we were going to be in even bigger trouble in the years to come. We then decided, for anyone that wanted to be involved and contribute to start paving a path to resolving this industrial hurdle.  We decided to start forming both legally and idiologically what needed to be done. The Hack South Foundation (BETA) was born, another force for good.
 
 ## Changing of the Vanguard  
 
 ###### Understanding the dilemma  
 
-For various reasons, we struggle to find and employee good talent in South Africa. I will not get into the politics of things but one of the biggest factors to the lack of good talent in South Africa is due to the geo-political situation here. 51% unemployment, challenges of race and bearocratic red tape. A country facing recession after recession, failing SEO's, constant risk of Black Outs/Load Shedding with no support for businesses struggling, a weekending currency, rampant crime and overt corruption at varying levels of state and provincial.  
+For various reasons, we struggle to find and employ good talent in South Africa. I will not get into the politics of things but one of the biggest factors to the lack of good talent in South Africa is due to the geo-political situation here. 51% unemployment, challenges of race and bearocratic red tape. A country facing recession after recession, failing SEO's, constant risk of Black Outs/Load Shedding with no support for businesses struggling, a weekending currency, rampant crime and overt corruption at varying levels of state and provincial.  
 
 Another factor is the "lay of the professional land". With limited investment from overseas, or the corruptions and stifling of international investment, opportunities are reduced. With there not being as many tech companies in SA, and the underperforming evolution of government to grow with the demand and enforcement of cyber security education and policy, we are a behind the required curve of evolution. Due to this lack of demand, consultiing companies can only hire as many consultants as there is need. This also means that a security consult could earn half the money for twice the work, compared to a place like America, whilst facing all the local geopolitical hurdles bearing infront of them. It is partly due to this, that many, once gaining industry recognition and offers of greener pastures tend to leave the country and build a new life elsewhere. We as a collective do not hold this against them and we support peoples desires to better their lives and the lives of their families, wherever that is and in whatever form that occurs.  
 With the mindset that we do not and cannot stand in the way of industry leaders leaving the country in search a better opportunities we established that the way we resolve this, or attempt to resolve this vacumme is to fill up the pipeline leading to careers in IT and information security. We can use Hack South as a vessel, the foundation as backing and the community to identify, educate, support and nuture budding new careers for daring ethical hackers into the industry.  
@@ -99,10 +99,10 @@ Our priorities are as follows
 > We would have to do this with a multi pronged approach. We would look to partner with local consulting companies, universities, training providers, certification companies (CompTIA, ISC2, SANS, OffSEC, EC Council, etc), donors, investers and like minded NGO/NPO's ([The Diana Innititive](https://www.dianainitiative.org/), [DEF CON](https://www.defcon.org/), [WWHF](https://wildwesthackinfest.com/deadwood/), [B Sides Cape Town](https://bsidescapetown.co.za/), [DerbyCon Communities](https://twitter.com/derbycon?lang=en), etc) and selling SWAG/MERCH . We will only be able to do as much as we can afford. If we have R5000 in the kitty, we probably focus on the low level skills. If we have R50k we can focus on bigger things, fund certifications etc etc.  
 
 * Water down system  
-> Do we want a OSEE certifief Black Hat trainer to teach a noob about the basics of a PC and its components? Do we want a Staff Level Software Engineer to teach a candidate how MS Word works? No. Due to the challenges we may have with gaining access to this potential candidates, and the need to be efficient and impactful with our training we will support a system where knowledge travels downhill and progress upwards. Did you smash Module 1, and your friend down the street just got started? That Level 1 candidate helps mentor the noob. We would support a system of mentorship in bite sized form. We would encourage every candidate to be a "mini-mentor". Always seaking knowledge from someone just ahead of you, always passing down the knowledge you have gained. Training days with industry experts will still happen, but in the in between time we, as we do in this community will learn from each other.    
+> Do we want a OSEE certified Black Hat trainer to teach a noob about the basics of a PC and its components? Do we want a Staff Level Software Engineer to teach a candidate how MS Word works? No. Due to the challenges we may have with gaining access to this potential candidates, and the need to be efficient and impactful with our training we will support a system where knowledge travels downhill and progress upwards. Did you smash Module 1, and your friend down the street just got started? That Level 1 candidate helps mentor the noob. We would support a system of mentorship in bite sized form. We would encourage every candidate to be a "mini-mentor". Always seeking knowledge from someone just ahead of you, always passing down the knowledge you have gained. Training days with industry experts will still happen, but in the in between time we, as we do in this community will learn from each other.    
 
 * Where is the limit? What is the ceiling?
-> Within reason, there is none. Imagine it. We take an at risk youth, 16 years of age, maybe they live a life where the influence of gangsterism is previlent. They come join us for a open day. We should then some RasberryPI's, do some cool hacking wizardry that is asthetically simple to grasp and looks interesting. That kid they shows their interest. We assess them and realize they know nothing outside of a smart phone. We train them in the fundementals of a computer, and they progress from that to understanding Windows, MS Office and using the internet. From there they progress and start learning more about what is under the bonnet, how do these components talk to each other. They grow and grow, learn more each day. They get involved with an affialiated computer lab, and maybe pop their first shell. We invite them to take part in a CTF and they do well. We get sponsored a Net+ and Sec+ from CompTIA and due to this candidates performance we decide to allocate these vouchers to them and support them in their learning.  
+> Within reason, there is none. Imagine it. We take an at risk youth, 16 years of age, maybe they live a life where the influence of gangsterism is previlent. They come join us for a open day. We should then some RasberryPI's, do some cool hacking wizardry that is asthetically simple to grasp and looks interesting. That kid they shows their interest. We assess them and realise they know nothing outside of a smart phone. We train them in the fundementals of a computer, and they progress from that to understanding Windows, MS Office and using the internet. From there they progress and start learning more about what is under the bonnet, how do these components talk to each other. They grow and grow, learn more each day. They get involved with an affialiated computer lab, and maybe pop their first shell. We invite them to take part in a CTF and they do well. We get sponsored a Net+ and Sec+ from CompTIA and due to this candidates performance we decide to allocate these vouchers to them and support them in their learning.  
 
 > Candidate X smashes it and starts doing really well on HTB and they progress to something more salty like OSCP. They pass it just before their 18th birthday! They matriculate and now what? Due to the inroads we have built with companies in SA we manage to get them on a summer internship which they excel at. From all their hardwork and effort we have a chain of evidence and manage to get them a scholarship to Stellenbosch, or Rhodes University.  
 
@@ -114,7 +114,7 @@ Repeat....
 There is almost no limit to what we can achieve. It will not be easy. It will take time, capital and resources but education is the biggest key we have to saving our country and unlocking its vast talent. 
 
 * MzanziPunk2077  
-> There have been some crazy and great ideas throughout discussions this year. One thing we looked at is how feasible it would be to host a website that does not cost anyone data. We realized that many of the kids we would perhaps work with will not have a PC, but might have access to a smart phone. The idea comes from how some Telcos in SA allow free browsing of websites like FB and Twitter, in low res, limited graphic versions. If we are able to host social media sites, what is to stop us hosting a website that has a similar partnership with the telcos? This would mean irrespective of whether a candidate has access to a PC or not, they can learn.  
+> There have been some crazy and great ideas throughout discussions this year. One thing we looked at is how feasible it would be to host a website that does not cost anyone data. We realised that many of the kids we would perhaps work with will not have a PC, but might have access to a smart phone. The idea comes from how some Telcos in SA allow free browsing of websites like FB and Twitter, in low res, limited graphic versions. If we are able to host social media sites, what is to stop us hosting a website that has a similar partnership with the telcos? This would mean irrespective of whether a candidate has access to a PC or not, they can learn.  
 
 There have also been ideas around minimum resource intensive computers (Like Linux based RasberryPi's) that could be set up for kids to learn.   
 
@@ -123,7 +123,7 @@ There have also been ideas around minimum resource intensive computers (Like Lin
 
 ###### The community  
 
-Hack South at the time of writting this is about 425 Members, of which 379 have the Human role (Have verified CoC and introduced themselves). We have hosted a conference, namely [0xCon 2020](https://0xcon.co.za/). We have taken part in numerous CTF's from Jeopardy Style, to attack/defend and also OSINT. We have helped each other learn. We have shared understanding and training resources. We have been there for each other through a really tough year. We have done some small acts of goodness, from veryfying fake media, to giving people unaware of this industry a place to learn. Through OSINT we have helped contribute to open cases of missing adults and children. We have done so much, and yet there is so much to be done.  
+At the time of writting this, **Hack South** is about 425 Members, of which 379 have the Human role (Have verified CoC and introduced themselves). We have hosted a conference, namely [0xCon 2020](https://0xcon.co.za/). We have taken part in numerous CTF's from Jeopardy Style, to attack/defend and also OSINT. We have helped each other learn. We have shared understanding and training resources. We have been there for each other through a really tough year. We have done some small acts of goodness, from verifying fake media, to giving people unaware of this industry a place to learn. Through OSINT we have helped contribute to open cases of missing adults and children. We have done so much, and yet there is so much to be done.  
 
 ###### The foundation  
 
@@ -187,10 +187,10 @@ We have a HUGE amount of roles. Some are dedicated to OS, some to certs, some ar
 
 The rule of thumb is as follows.  
 
-Yellow/Gold  These are our LEET level roles. These are for our legends, our Honorable Members (Comes with some perks)  
-Red  Typically these are for big community things. BSides, Black Hat, DEF CON   
-Light Green  Certifications   
-Neon Green  CTF's  
+**Yellow/Gold**  These are our LEET level roles. These are for our legends, our Honorable Members (Comes with some perks)  
+**Red**  Typically these are for big community things. BSides, Black Hat, DEF CON   
+**Light Green**  Certifications   
+**Neon Green**  CTF's  
 
 If you are not super familiar with Discord, you will realize 1 persons text or they handle is a different colour to others. This is pretty much to represent the colour of their highest role.  
 
@@ -198,6 +198,8 @@ If you are not super familiar with Discord, you will realize 1 persons text or t
 ###### Diffie The Tailess  
 
 We are not sure either. [Diffie](https://discord.com/channels/687602309395382282/775704552854126614)  is a mystical [Dassie](https://en.wikipedia.org/wiki/Rock_hyrax) that has become our defacto mascot. Some say he has a Wifi antenna for a back left leg. 
+
+![Diffie being a Dassie](/assets/images/Hack_South_Story/Dassie.jpg){: .align-center}
 
 
 ## What can I do?  
@@ -212,7 +214,13 @@ Most importantly, **Have fun, learn something and Hack the Planet, on the South 
 
 ## Special Thanks  
 
-I would personally like to thank all our Humans, Honorable Members, CTF Crew, Mods and Staff members. Without you, I would just be talking to myself, and that would be weird. I also want to give a special thanks to our resident El'Presidente. Studying full time and still always being their to fix my mistakes. We have all got through a tough year, and the wounds of it will continue into 2021, but we can hope for the best and that things get better. Here is to making many friends of no faces. Have a fantastic festive season, be careful on the roads, wear your mask and dont be a stranger.   
+I would personally like to thank all our Humans, Honorable Members, CTF Crew, Mods and Staff members. Without you, I would just be talking to myself, and that would be weird. I also want to give a special thanks to our resident El'Presidente. Studying full time and still always being their to fix my mistakes. We have all got through a tough year, and the wounds of it will continue into 2021, but we can hope for the best and that things get better. Here is to making many friends of no faces. Have a fantastic festive season, be careful on the roads, wear your mask and dont be a stranger.  
+
+I am really proud of what we have done this year and what we have achieved.  Our solar system is the limit, unless DNS fails us.  
+
+Please be sure to follow us on [Twitter](https://twitter.com/hack_south) and [LinkedIn](https://www.linkedin.com/company/69224578/)  
+
+![Mandela Quote](/assets/images/Hack_South_Story/Mandela.jpg){: .align-center}
 
 
 
