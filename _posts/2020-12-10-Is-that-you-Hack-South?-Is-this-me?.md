@@ -10,6 +10,7 @@ tags:
  - Infosec
  - Community
  - Hack South
+ - History
 ---
 
 
@@ -18,7 +19,7 @@ tags:
 
 ## The History    
 
-Hack South was started for various reasons. [@AngusRed](https://twitter.com/AngusRedBlue) who is fairly well involved in the wider hacker community in South Africa had seen the various offshoots, factions and segmented groups of people. Different people have different conversations in various places. Whatsapp Groups, Slack Workplaces etc etc. Everyone seemingly with their own purpose and agenda. After realizing the true value of Discord and having some dramas on a well know Slack Workspace for South Africans, @AngusRed decided to take a leap and attempt to bring all the people together in 1 place, dedicated to infosec, devoid of bias, misconception, corporate rivalry or rank on the proverbial pecking order of the community.  
+Hack South was started for various reasons. [@AngusRed](https://twitter.com/AngusRedBlue) who is fairly well involved in the wider hacker community in South Africa had seen the various offshoots, factions and segmented groups of people. Different people have different conversations in various places. Whatsapp Groups, Slack Workplaces etc etc. Everyone seemingly with their own purpose and agenda. After realizing the true value of Discord and having some dramas on a well know Slack Workspace for South Africans, [@AngusRed](https://twitter.com/AngusRedBlue) decided to take a leap and attempt to bring all the people together in 1 place, dedicated to infosec, devoid of bias, misconception, corporate rivalry or rank on the proverbial pecking order of the community.  
 
 From this innitiative, Hack South was born. A server, on Discord dedicated to the entire past, present and future generation of hackers, tinkerers and enthusiasts that South Africa has to offer. Early on we took a stance to keep it focussed and centric to South Africa, then evolving it to Southern Africa. We also decided that we would welcome internationals, but that the core values and direction of the community would be focussed on Sout Africa.  
 
