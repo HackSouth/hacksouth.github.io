@@ -106,7 +106,9 @@ Our priorities are as follows
 
 * Where is the limit? What is the ceiling?
 > Within reason, there is none. Imagine it. We take an at risk youth, 16 years of age, maybe they live a life where the influence of gangsterism is previlent. They come join us for a open day. We could get some RasberryPI's, do some cool hacking wizardry that is asthetically simple to grasp and looks interesting. That kid that shows interest, we assess them and realise they know nothing outside of a smart phone. We train them in the fundementals of a computer, and they progress from that to understanding Windows, MS Office and using the internet. From there they progress and start learning more about what is under the bonnet, how do these components talk to each other. They grow and grow, learn more each day. They get involved with an affialiated computer lab, and maybe pop their first shell. We invite them to take part in a CTF and they do well. We get sponsored a Net+ and Sec+ from CompTIA and due to this candidates performance we decide to allocate these vouchers to them and support them in their learning.
+
 > Candidate X smashes it and starts doing really well on HTB and they progress to something more salty like OSCP. They pass it just before their 18th birthday! They matriculate and now what? Due to the inroads we have built with companies in SA we manage to get them on a summer internship which they excel at. From all their hardwork and effort we have a chain of evidence and manage to get them a scholarship to Stellenbosch, or Rhodes University.  
+
 > We fast forward 6 years and now Candidate X has become a top performing Security Engineer. They create an idea, get support from Hack South and start a company which employees 10 people. With this, Candidate X is able to hire people from the Hack South Foundation Program of learnership.
 
 Repeat....  
@@ -142,7 +144,7 @@ I briefly wanted to highlight some roles and channels for you to keep an eye on 
 
 ###### Gaining Access  
 
-Somehow many people struggle with this, and it is rather simple. When you click to connect or join the server you will have 1 role, which is **FNG**. This gives you access to 2 channels. **[Code Of Conduct](https://discord.com/channels/687602309395382282/687607981038108712)** and [New To Hack South](https://discord.com/channels/687602309395382282/759798831528935455]**. In your DM's and in [New To Hack South](https://discord.com/channels/687602309395382282/759798831528935455) you will have a message welcoming you and telling you to accept the Code Of Conduct. Go on the CoC Channel, read it and if you accept, click the emoji at the bottom, which will give you **COC Accepted** as a role and this will open up [WHOAMI-Introductions](https://discord.com/channels/687602309395382282/687607958942646330), in this channel simply intro yourself. No need for any personal info just your handle, where you from, what you do, and where you heard about Hack South. Once you have done that a MOD will delete your **FNG** Role and assign you **HUMAN** which gives you access to 90% of the server. From here go on down to **[MAIN](https://discord.com/channels/687602309395382282/687602309395382286)** to say hi or head to **[Role Assignment](https://discord.com/channels/687602309395382282/687692950272344069)** to get more roles (Using the corresponding emojis) and then read up on the latest announcements!
+Somehow many people struggle with this, and it is rather simple. When you click to connect or join the server you will have 1 role, which is **FNG**. This gives you access to 2 channels. **[Code Of Conduct](https://discord.com/channels/687602309395382282/687607981038108712)** and [New To Hack South](https://discord.com/channels/687602309395382282/759798831528935455)**. In your DM's and in [New To Hack South](https://discord.com/channels/687602309395382282/759798831528935455) you will have a message welcoming you and telling you to accept the Code Of Conduct. Go on the CoC Channel, read it and if you accept, click the emoji at the bottom, which will give you **COC Accepted** as a role and this will open up [WHOAMI-Introductions](https://discord.com/channels/687602309395382282/687607958942646330), in this channel simply intro yourself. No need for any personal info just your handle, where you from, what you do, and where you heard about Hack South. Once you have done that a MOD will delete your **FNG** Role and assign you **HUMAN** which gives you access to 90% of the server. From here go on down to **[MAIN](https://discord.com/channels/687602309395382282/687602309395382286)** to say hi or head to **[Role Assignment](https://discord.com/channels/687602309395382282/687692950272344069)** to get more roles (Using the corresponding emojis) and then read up on the latest announcements!
 
 ###### CTF's  
 
@@ -181,6 +183,8 @@ Seeing that the levelling on the Server has become a thing that interest people 
 **The Noble Friend** Level 15 Orange  
 **The Beast** Level 20 Red  
 **The Lifer** Level 30 Gold  
+
+Go check your ranking in #Level-to-the-metal or check your user, you might have a new role!  
 
 ###### Roles  
 
