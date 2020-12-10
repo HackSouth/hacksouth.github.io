@@ -31,7 +31,7 @@ On a 12 March 2020, before COVID19 hit us, we got geared up and set up the serve
 
 The first people to join Hack South was [Fenrirsec](https://twitter.com/SecFenrir) who was kekked for some reason, Shadowrizla and [Megladon](https://twitter.com/IPmegladon).   
 
-![The first](/assets/images/Hack_South_Story/HS%20Original%203.pngs/Tracelabs/Twitter_win_post.png){: .align-center}  
+![The first](/assets/images/Hack_South_Story/HS%20Original%203.png){: .align-center}  
 
 From here, an invite was issued, and the Hack South Originals joined, numbering 13 in that first week. You will know them on the serve by the GOLD Role, **Hack South Original** 
 
