@@ -13,6 +13,7 @@ tags:
 ---
 
 
+# What is Hack South?
 
 ###### Many have asked, what is Hack South, why Hack South and where is this all going. This blog will try to lay out the foundation, the activity and the vision for **Hack South**, Home of the ubiqitious South <!--more-->
 
@@ -101,8 +102,38 @@ Our priorities are as follows
 > Do we want a OSEE certifief Black Hat trainer to teach a noob about the basics of a PC and its components? Do we want a Staff Level Software Engineer to teach a candidate how MS Word works? No. Due to the challenges we may have with gaining access to this potential candidates, and the need to be efficient and impactful with our training we will support a system where knowledge travels downhill and progress upwards. Did you smash Module 1, and your friend down the street just got started? That Level 1 candidate helps mentor the noob. We would support a system of mentorship in bite sized form. We would encourage every candidate to be a "mini-mentor". Always seaking knowledge from someone just ahead of you, always passing down the knowledge you have gained. Training days with industry experts will still happen, but in the in between time we, as we do in this community will learn from each other.    
 
 * Where is the limit? What is the ceiling?
-> Within reason, there is none. Imagine it. We take an at risk youth, 16 years of age, maybe they live a life where the influence of gangsterism is previlent. They come join us for a open day. We should then some RasberryPI's, do some cool hacking wizardry that is asthetically simple to grasp and looks interesting. That kid they shows their interest. We assess them and realize they know nothing outside of a smart phone. We train them in the fundementals of a computer, and they progress from that to understanding Windows, MS Office and using the internet. From there they progress and start learning more about what is under the bonnet, how do these components talk to each other. They grow and grow, learn more each day. They get involved with an affialiated computer lab, and maybe pop their first shell. We invite them to take part in a CTF and they do well. We get sponsored a Net+ and Sec+ from CompTIA 
+> Within reason, there is none. Imagine it. We take an at risk youth, 16 years of age, maybe they live a life where the influence of gangsterism is previlent. They come join us for a open day. We should then some RasberryPI's, do some cool hacking wizardry that is asthetically simple to grasp and looks interesting. That kid they shows their interest. We assess them and realize they know nothing outside of a smart phone. We train them in the fundementals of a computer, and they progress from that to understanding Windows, MS Office and using the internet. From there they progress and start learning more about what is under the bonnet, how do these components talk to each other. They grow and grow, learn more each day. They get involved with an affialiated computer lab, and maybe pop their first shell. We invite them to take part in a CTF and they do well. We get sponsored a Net+ and Sec+ from CompTIA and due to this candidates performance we decide to allocate these vouchers to them and support them in their learning.  
 
+Candidate X smashes it and starts doing really well on HTB and they progress to something more salty like OSCP. They pass it just before their 18th birthday! They matriculate and now what? Due to the inroads we have built with companies in SA we manage to get them on a summer internship which they excel at. From all their hardwork and effort we have a chain of evidence and manage to get them a scholarship to Stellenbosch, or Rhodes University.  
+
+We fast forward 6 years and now Candidate X has become a top performing Security Engineer. They create an idea, get support from Hack South and start a company which employees 10 people. With this, Candidate X is able to hire people from the Hack South Foundation Program of learnership.
+
+Repeat....  
+**PROFIT!!!!**  
+
+There is almost no limit to what we can achieve. It will not be easy. It will take time, capital and resources but education is the biggest key we have to saving our country and unlocking its vast talent. 
+
+* MzanziPunk2077  
+> There have been some crazy and great ideas throughout discussions this year. One thing we looked at is how feasible it would be to host a website that does not cost anyone data. We realized that many of the kids we would perhaps work with will not have a PC, but might have access to a smart phone. The idea comes from how some Telcos in SA allow free browsing of websites like FB and Twitter, in low res, limited graphic versions. If we are able to host social media sites, what is to stop us hosting a website that has a similar partnership with the telcos? This would mean irrespective of whether a candidate has access to a PC or not, they can learn.  
+
+There have also been ideas around minimum resource intensive computers (Like Linux based RasberryPi's) that could be set up for kids to learn.   
+
+
+## Where are we now?  
+
+###### The community  
+
+Hack South at the time of writting this is about 425 Members, of which 379 have the Human role (Have verified CoC and introduced themselves). We have hosted a conference, namely [0xCon 2020](https://0xcon.co.za/). We have taken part in numerous CTF's from Jeopardy Style, to attack/defend and also OSINT. We have helped each other learn. We have shared understanding and training resources. We have been there for each other through a really tough year. We have done some small acts of goodness, from veryfying fake media, to giving people unaware of this industry a place to learn. Through OSINT we have helped contribute to open cases of missing adults and children. We have done so much, and yet there is so much to be done.  
+
+###### The foundation  
+
+The foundation is at the ideas stage. We have great ideas and thoughts and hope to start formalizing things in 2021. We will start small and grow it, and see where it goes. The foundation will also fund/support the upkeep of the website and server bots. If it does not go down the path mentioned above, that is fine. If we can uplift 1 kid, and get them on a achieveable career path into infosec, and by doing so improve their life and solve a skills shortage at the same time, that is a big result that previously was not there.   
+
+###### The Future  
+
+The future is hard to call. We will continue speading the word about the Hack South Server. We will continue to do CTF's and learn something along the way. We are considering things that are centric to the community (Both local and security related) where we can make a difference and uplift a population or cluster of people. We want to start hosting small workshops every month, delivered by our local industry leaders. We may even start a little podcast, dedicated to Hack South and what we are doing. We will continue to build lasting friendships. Why be lonely, when 379 something or other of your friends are waiting here to welcome you, learn from you or teach you something. 
+
+> We continue down the path of a continued pursuit of excellence, whether that be in a technical field, or meme'ory
 
 
 
