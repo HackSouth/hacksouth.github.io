@@ -169,6 +169,32 @@ We have slowly but surely built up a decent hacker Education Zone, kitted out wi
 
 We have a dedicated area for people looking to hire, people looking to advertise they are looking for a gig and business leaders to share insight and advice. It is OPT IN, get the roles in **[Role Assignment](https://discord.com/channels/687602309395382282/687692950272344069)** or ask a mod.  
 
+###### Activity  
+
+Activity and gaining more members is the key to unlocking partnered with Discord. We have a steady steam but we have about 20% of the server that is active, and the remainder pop in from time to time (Which we are cool with) and then a big majority that are lurking. We feel all are welcome and we want to hear from you. Dont be shy. Speak your opinion, tell us what you think.   
+
+Seeing that the levelling on the Server has become a thing that interest people we have created 5 roles with the good colours for those active people.  
+
+**The Dabbler** Level 5 Orange  
+**The Talker**  Level 10 Orange  
+**The Noble Friend** Level 15 Orange  
+**The Beast** Level 20 Red  
+**The Lifer** Level 30 Gold  
+
+###### Roles  
+
+We have a HUGE amount of roles. Some are dedicated to OS, some to certs, some are for achievements in the community and the rest are either banter or things to remember a legendary night on VC.  
+
+The rule of thumb is as follows.  
+
+Yellow/Gold  These are our LEET level roles. These are for our legends, our Honorable Members (Comes with some perks)  
+Red  Typically these are for big community things. BSides, Black Hat, DEF CON   
+Light Green  Certifications   
+Neon Green  CTF's  
+
+If you are not super familiar with Discord, you will realize 1 persons text or they handle is a different colour to others. This is pretty much to represent the colour of their highest role.  
+
+
 ###### Diffie The Tailess  
 
 We are not sure either. [Diffie](https://discord.com/channels/687602309395382282/775704552854126614)  is a mystical [Dassie](https://en.wikipedia.org/wiki/Rock_hyrax) that has become our defacto mascot. Some say he has a Wifi antenna for a back left leg. 
