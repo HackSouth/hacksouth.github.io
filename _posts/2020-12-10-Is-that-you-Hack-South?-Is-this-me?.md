@@ -39,7 +39,7 @@ From here, an invite was issued, and the Hack South Originals joined, numbering 
 
 ###### The Nazi raid
 
-The early days were crazy. We got excited with each person joining, many of which we knew. The server was not pushed at all. On the 13th of March 2020, we had a Nazi Raid. Angus was on his way to the airport to pick someone up when he got a Whatsapp from a friend, [Mooncake](https://twitter.com/GeoffChisnall) who told him there was a Raid spreading Nazi propaganda. We were clearly not ready. AngusRed then posted in Main saying ***"Who wants MOD"*** and immediatly 4 People were assigned MOD and started fixing perms, banning raiders and resolving the chaos. Those four were  
+The early days were crazy. We got excited with each person joining, many of which we knew. The server was not pushed at all. On the 13th of March 2020, we had a Nazi Raid. Angus was on his way to the airport to pick someone up when he got a Whatsapp from a friend, [Mooncake](https://twitter.com/GeoffChisnall) who told him there was a Raid spreading Nazi propaganda. We were clearly not ready. AngusRed then posted in Main saying ***"Who wants MOD??!!?"*** and immediatly 4 People were assigned MOD and started fixing perms, banning raiders and resolving the chaos. Those four were  
 
 ![The survivors of the NAZI Raid](https://media.giphy.com/media/3reGZ5XDFWPte/source.gif){: .align-right} 
     
