@@ -133,7 +133,7 @@ The foundation is at the ideas stage. We have great ideas and thoughts and hope 
 
 The future is hard to call. We will continue speading the word about the Hack South Server. We will continue to do CTF's and learn something along the way. We are considering things that are centric to the community (Both local and security related) where we can make a difference and uplift a population or cluster of people. We want to start hosting small workshops every month, delivered by our local industry leaders. We may even start a little podcast, dedicated to Hack South and what we are doing. We will continue to build lasting friendships. Why be lonely, when 379 something or other of your friends are waiting here to welcome you, learn from you or teach you something. 
 
-> We continue down the path of our continued pursuit of excellence, whether that be in a technical field, or meme'ory  
+> We go hence forth, down the path of our continued pursuit of excellence, whether that be in a technical field, or meme'ory  
 
 ## Roles and Channels  
 
@@ -209,6 +209,12 @@ Have alternate skills we could use like web design, graphic design etc, get in t
 Got the moneys? Think about contributing to boosting the server or make a donation when we are fully set up with the foundation.  
 
 Most importantly, **Have fun, learn something and Hack the Planet, on the South side!**  
+
+## Special Thanks  
+
+I would personally like to thank all our Humans, Honorable Members, CTF Crew, Mods and Staff members. Without you, I would just be talking to myself, and that would be weird. I also want to give a special thanks to our resident El'Presidente. Studying full time and still always being their to fix my mistakes. We have all got through a tough year, and the wounds of it will continue into 2021, but we can hope for the best and that things get better. Here is to making many friends of no faces. Have a fantastic festive season, be careful on the roads, wear your mask and dont be a stranger.   
+
+
 
 
 
