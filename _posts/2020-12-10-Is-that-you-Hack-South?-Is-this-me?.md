@@ -221,6 +221,8 @@ Most importantly, **Have fun, learn something and Hack the Planet, on the South 
 
 I would personally like to thank all our Humans, Honorable Members, CTF Crew, Mods and Staff members. Without you, I would just be talking to myself, and that would be weird. I also want to give a special thanks to our resident El'Presidente. Studying full time and still always being their to fix my mistakes. We have all got through a tough year, and the wounds of it will continue into 2021, but we can hope for the best and that things get better. Here is to making many friends of no faces. Have a fantastic festive season, be careful on the roads, wear your mask and don't be a stranger.  
 
+I, AngusRed would also like to give a special thanks to my Missus (Sheller) and my daughter for being cool with me spending many hours at my desk, plodding away. Without them, nothing would be possible for me.  
+
 I am really proud of what we have done this year and what we have achieved.  Our solar system is the limit, unless DNS fails us.  
 
 Please be sure to follow us on [Twitter](https://twitter.com/hack_south) and [LinkedIn](https://www.linkedin.com/company/69224578/)  
