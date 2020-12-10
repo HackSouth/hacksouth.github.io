@@ -2,7 +2,7 @@
 title: "Is that you Hack South? Is this me?"
 author: AngusRed
 header:
-  teaser: /assets/images/Hack_South_Story/HS%20Original%203.png
+  teaser: /assets/images/Hack_South_Story/R9007-SA-Flag_96b72b0b-0f88-4dbe-8068-045b52b5fa89_1024x1024-1200x1200.png
 excerpt_separator: "<!--more-->"
 categories:
  - Community
@@ -42,12 +42,12 @@ From here, an invite was issued, and the Hack South Originals joined, numbering 
 
 The early days were crazy. We got excited with each person joining, many of which we knew. The server was not pushed at all. On the 13th of March 2020, we had a Nazi Raid. Angus was on his way to the airport to pick someone up when he got a Whatsapp from a friend, [Mooncake](https://twitter.com/GeoffChisnall) who told him there was a Raid spreading Nazi propaganda. We were clearly not ready. AngusRed then posted in Main saying ***"Who wants MOD"*** and immediatly 4 People were assigned MOD and started fixing perms, banning raiders and resolving the chaos. Those for were  
 
+![The survivors of the NAZI Raid](https://media.giphy.com/media/3reGZ5XDFWPte/source.gif){: .align-right} 
 * [Megladon](https://twitter.com/IPmegladon)  
 * [Mooncake](https://twitter.com/GeoffChisnall)  
 * [Rewtd](https://twitter.com/rewtd)  
 * [RagSec](https://twitter.com/rag_sec)  
 
-![The survivors of the NAZI Raid](https://media.giphy.com/media/3reGZ5XDFWPte/source.gif){: .align-right} 
 
 After the dust had settled, we decided to keep pushing, keep building and grow the server.  
 
