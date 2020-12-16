@@ -14,7 +14,9 @@ tags:
 ---
 
 
-###### What is Hack South? Many have asked, what is Hack South, why Hack South and where is this all going. This blog will try to lay out the foundation, the activity and the vision for **Hack South**, Home of the ubiquitous South <!--more-->
+###### What is Hack South? Many have asked, what is Hack South, why Hack South and where is this all going? This blog will try to lay out the foundation, the activity and the vision for **Hack South**, Home of the ubiquitous South.  
+
+###### We will also highlight some things we are working on, highlight some roles, channels and activities.<!--more-->
 
 
 ## The History    
