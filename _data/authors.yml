@@ -40,7 +40,7 @@ spymky:
 parity0x1:
   name: parity0x1
   avatar: "/assets/images/authors/parity0x1.png"
-  bio: "A parity bit is a check bit, which is added to a block of data for error detection purposes. It is used to validate the integrity of the data. The value of the parity bit is assigned either 0 or 1 that makes the number of 1s in the message block either even or odd depending upon the type of parity."
+  bio: "Just a simple form of error detection."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
