@@ -37,6 +37,21 @@ spymky:
       icon: "fas fa-fw fa-key"
       url: "https://keybase.io/spymky"
 
+parity0x1:
+  name: parity0x1
+  avatar: "/assets/images/authors/parity0x1.png"
+  bio: "A parity bit is a check bit, which is added to a block of data for error detection purposes. It is used to validate the integrity of the data. The value of the parity bit is assigned either 0 or 1 that makes the number of 1s in the message block either even or odd depending upon the type of parity."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://parity0x1.github.io/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/parity0x1"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:paritybit@tutanota.com"
+
 dane.g:
   name: dane.g
   bio: "Technical tinkerer, security consultant, pun enthusiast"
