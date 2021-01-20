@@ -13,7 +13,6 @@ tags:
  - Original Content
  - External
 ---
-
 <h1>~$ eNCA Interview on the WhatsApp Privacy Policy Changes</h1>
 
 <p>I had the distinct privilege of being interviewed on eNCA yesterday !</p>
