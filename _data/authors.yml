@@ -63,3 +63,24 @@ dane.g:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/0xc0ffee_jhb"
+      
+AtomicNicos:
+  name: AtomicNicos
+  bio: "Developer, Hackademic, OSINTeer, Wannabe Infosec Contributor"
+  avatar: "/assets/images/authors/atomicnicos.jpg"
+  links:
+    - label: "Blog"
+      icon: "fas fa-fw fa-blog"
+      url: "https://atomicnicos.me"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/nicolas-boeckh/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/AtomicNicos"
+    - label: "Keybase"
+      icon: "fas fa-fw fa-key"
+      url: "https://keybase.io/atomicnicos"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/AtomicNicos"
