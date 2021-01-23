@@ -19,7 +19,7 @@ This code and related procedures also apply to unacceptable behaviour occurring 
 
 ## Unacceptable Behaviour
 
-The following behaviours are unacceptable in all Hack De Wereld Discord channels and direct messages, and in any physical or online events officially organised by its administrative team:
+The following behaviours are unacceptable in all Hack South Discord channels and direct messages, and in any physical or online events officially organised by its administrative team:
 
 * Violence, threats of violence or violent language directed against another person.
 * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
