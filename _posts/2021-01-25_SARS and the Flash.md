@@ -15,7 +15,7 @@ tags:
 
 
 
-A few weeks Adobe announced it would discontinue support for [Adobe Flash](https://www.adobe.com/africa/products/flashplayer/end-of-life.html) from 31 December 2020 and blocked Flash content from running in Flash Player on 12 January 2021 many have been caught unprepared. [SARS/South African Revenue Services](https://www.sars.gov.za/Pages/default.aspx) recently announced it would start using its own Browser. We aim to tackle the challenge this presents and what to think about. <!--more-->
+In 2017 Adobe announced it would discontinue support for [Adobe Flash](https://www.adobe.com/africa/products/flashplayer/end-of-life.html) from 31 December 2020 and blocked Flash content from running in Flash Player on 12 January 2021 many have been caught unprepared. [SARS/South African Revenue Services](https://www.sars.gov.za/Pages/default.aspx) recently announced it would start using its own Browser. We aim to tackle the challenge this presents and what to think about and also why with a 2+ year warning things are not in place. <!--more-->
 
 
 ![SARS Guide to using Flash POST discontinuation](/assets/images/SARS/Screenshot_3.png){: .align-center}
