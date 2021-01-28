@@ -22,7 +22,7 @@ After many years of faithful service, Adobe announced in 2017 it would discontin
 
 ![SARS Guide to using Flash POST discontinuation](/assets/images/SARS/Screenshot_3.png){: .align-center}
 
-### What is flash and what is it used for?
+### What is Flash and what is it used for?
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Adobe_Flash#:~:text=Adobe%20Flash%20is%20a%20multimedia,%2C%20video%20games%2C%20and%20applications) it states:
 
