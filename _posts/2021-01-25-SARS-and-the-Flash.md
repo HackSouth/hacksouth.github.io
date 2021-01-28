@@ -63,12 +63,7 @@ To add insult to injury, an invisible “onlooker” known as COVID-19 hit for a
 
 Ramped up development, which must have required nightowls jacked up on coffee seems to have ensued as over the past week we’ve seen the release of a [SARS Browser](https://tools.sars.gov.za/webtools/sarsbrowser/browserdownload.aspx) that can still run Flash to address any forms that aren’t yet migrated. Whilst definitely not a user friendly and secure solution, the browser does offer SARS a little bit of breathing room provided it is actually adopted by tax practitioners.
 
-
-
 “In line with the service commitment of SARS, the organisation will spare no effort in resolving these matters as speedily as possible.“ - SARS
-
-Godspeed SARS, you’re going to need it.
-
 
 ### Why is SARS continuing use of Flash and how?
 
@@ -182,6 +177,8 @@ ii) In the event that the agreement which licenses the Software to SARS terminat
 
 [SARS: Some taxpayers’ tax forms gone in a Flash
 ](https://www.dailymaverick.co.za/article/2021-01-24-sars-some-taxpayers-tax-forms-gone-in-a-flash/)
+
+Godspeed SARS, you’re going to need it.
 
 
 
