@@ -22,18 +22,6 @@ After many years of faithful service, Adobe announced in 2017 it would discontin
 
 ![SARS Guide to using Flash POST discontinuation](/assets/images/SARS/Screenshot_3.png){: .align-center}
 
-### What's all the tech?
-
-[Adobe](https://www.adobe.com/africa/products/flashplayer/end-of-life.html) announced back in 2017 that it would be EOL'ing (End of Life) Flash and this discontinue support (Including vulnerability management) and block Flash content from 12 January 2021. It stated quote:
-
-`Since Adobe no longer supports Flash Player after 31 December 2020 and blocked Flash content from running in Flash Player beginning 12 January 2021, Adobe strongly recommends all users immediately uninstall Flash Player to help protect their systems.`  
-
-`Some users may continue to see reminders from Adobe to uninstall Flash Player from their system.  See below for more details on how to uninstall Flash Player.`
-
-
-End quote.
-
-
 ### What is flash and what is it used for?
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Adobe_Flash#:~:text=Adobe%20Flash%20is%20a%20multimedia,%2C%20video%20games%2C%20and%20applications) it states:
@@ -44,6 +32,15 @@ An article was also published by [howtogeek.com](https://www.howtogeek.com/70022
 
 When Flash was first introduced some 25 years ago, it was one of the only ways to make dynamic content available to the end user on the internet. Technology has vastly grown since then and the IT community saw many vulnerabilities in Flash over time. To illustrate this point, see [this article](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/despite-decline-use-adobe-flash-vulnerabilities-will-continue-cause-concern/) by McAfee Research. Adobe has accordingly sunset Flash as of December 2020 so it was a surprise to many when the ship did not want to leave the SARS dock. For many years, SARS has used it to provide users with the ability to work with forms and do their e-Filing. 
 
+## What's all the fuss?
+
+[Adobe](https://www.adobe.com/africa/products/flashplayer/end-of-life.html) announced back in 2017 that it would be EOL'ing (End of Life) Flash and this discontinue support (Including vulnerability management) and block Flash content from 12 January 2021. It stated quote:
+
+`Since Adobe no longer supports Flash Player after 31 December 2020 and blocked Flash content from running in Flash Player beginning 12 January 2021, Adobe strongly recommends all users immediately uninstall Flash Player to help protect their systems.`  
+
+`Some users may continue to see reminders from Adobe to uninstall Flash Player from their system.  See below for more details on how to uninstall Flash Player.`
+
+End quote.
 
 ### How did we get here and where are we going?
 
