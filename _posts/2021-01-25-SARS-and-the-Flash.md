@@ -89,7 +89,7 @@ Be sure you have your info near you and are not copying and pasting.
 
 A tip on sharing:
 You may not under any circumstances: [...] decompile, reverse engineer, disassemble or otherwise reduce the Software to a human-perceivable form
-In the event that the agreement which licenses the Software to SARS terminates, then in such an event taxpayers and traders will not be permitted to use the Software under any circumstances and any such use will place taxpayers and traders at risk for infringement.
+In the event that the agreement which licenses the Software to SARS terminates, then in such an event Taxpayers and traders will not be permitted to use the Software under any circumstances and any such use will place Taxpayers and traders at risk for infringement.
 
 ### An interesting read from a user’s perspective:
 
@@ -99,9 +99,9 @@ In the event that the agreement which licenses the Software to SARS terminates, 
 
 ### What does this mean for your tax return?
 
-On 25 January 2021, SARS introduced a new SARS WEB BROWSER to assist with the migration from Adobe Flash Player to the HTML5 platform.  Whilst they not entirely there yet, the browser has come at a much-needed time for Taxpayers. 
+On 25 January 2021, SARS introduced a new SARS WEB BROWSER to assist with the migration from Adobe Flash Player to the HTML5 platform.  Whilst they are not entirely there yet with a suitable and secure solution, the browser has come at a much-needed time for Taxpayers. 
 Over the past few weeks Taxpayers have been very frustrated with eFiling as they were not able to access many forms due to the end of Adobe Flash Player on 31 December 2020.  Though it was announced that Adobe Flash Player would end by 31 December 2020, some browsers still continued to support in into the new year.  Taxpayers were able to continue with their filing obligations until 12 January 2021, when Adobe Flash came to a complete standstill.
-Whilst SARS started with the migration process towards the end of 2020, there seemed to be some hiccups along the way.  Whilst not ideal they released a temporary workaround to assist Taxpayer with their filing obligations.  With month end looming they have been working tirelessly to find a more suitable solution.
+Whilst SARS started with the migration process towards the end of 2020, there seemed to be some hiccups along the way.  Whilst not ideal they released a temporary workaround to assist Taxpayers with their filing obligations.  With month-end looming they have been working tirelessly to find a more suitable solution.
 
 The new browser is compatible with Microsoft Windows devices.  After numerous testing SARS has also confirmed that they are satisfied that it meets the necessary security requirements.
 All forms that have not yet been migrated can now be accessed via the new browser.
@@ -128,6 +128,8 @@ So long to Adobe Flash! We are looking at a new age of digitization and moderniz
 
 On a positive note and to support the thought process that SARS is trying to resolve their current technology woes they have posted multiple [jobs](https://career2.successfactors.eu/career?company=southafr01&career_ns=job_listing_summary&navBarLevel=JOB_SEARCH&_s.crb=d4hoO8l24XafqM1BWG7MElc67kRHdZXci4Z%2bR39YOKk%3d), hiring Systems Engineers, Database specialists and Security Engineers. Maybe you could be joining SARS soon?
 
+SARS has also [extended the deadline](https://www.sars.gov.za/Media/MediaReleases/Pages/28-January-2021-SARS-extends-Filing-Season-deadline-for-online-filers.aspx#:~:text=SARS%20extends%20Filing%20Season%20deadline%20for%20online%20filers,-Pretoria%2C%20Thursday%2028&text=In%20light%20of%20these%20challenges,2021%2C%20to%2015%20February%202021.) for e-Filing from 29 January 2021, to 15 February 2021, so that does help!
+
 ![Jobs at SARS](/assets/images/SARS/JobsAtSARS.png){: .align-center}  
 
 
@@ -150,6 +152,9 @@ i) You may not under any circumstances: distribute or copy the functionality; mo
 ii) In the event that the agreement which licenses the Software to SARS terminates, then in such an event taxpayers and traders will not be permitted to use the Software under any circumstances and any such use will place taxpayers and traders at risk for infringement.
 
 ==================
+
+[SARS extends e-Filling Deadline - Media Release 28Jan2021](https://www.sars.gov.za/Media/MediaReleases/Pages/28-January-2021-SARS-extends-Filing-Season-deadline-for-online-filers.aspx#:~:text=SARS%20extends%20Filing%20Season%20deadline%20for%20online%20filers,-Pretoria%2C%20Thursday%2028&text=In%20light%20of%20these%20challenges,2021%2C%20to%2015%20February%202021.)    
+
 [Chromium License](https://chromium.googlesource.com/chromium/src/+/master/LICENSE)
 
 [Electron License](https://github.com/electron/electron/blob/master/LICENSE)
