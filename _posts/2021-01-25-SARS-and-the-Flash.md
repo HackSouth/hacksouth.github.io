@@ -1,5 +1,5 @@
 ---
-title: "SARS and the eFilling quagmire with Adobe Flash discontinuation"
+title: "SARS and the e-Filing quagmire with Adobe Flash discontinuation"
 author: 
 header:
   teaser: /assets/images/SARS/Sars-logo-800x321.jpg
@@ -8,14 +8,17 @@ categories:
  - Community
 tags:
  - SARS
- - eFilling
+ - e-Filing
  - Adobe
  - Adobe Flash
+ - Vulnerability
 ---
 
 
 
-After many years of faithful service, Adobe announced in 2017 it would discontinue support for [Adobe Flash](https://www.adobe.com/africa/products/flashplayer/end-of-life.html) from 31 December 2020 and blocked Flash content from running in Flash Player on 12 January 2021 many have been caught unprepared. [SARS/South African Revenue Services](https://www.sars.gov.za/Pages/default.aspx) recently announced it would start using its own Browser. We aim to tackle the challenge this presents and what to think about and also why with a 2+ year warning things are not in place. <!--more-->
+After many years of faithful service, Adobe announced in 2017 it would discontinue support for [Adobe Flash](https://www.adobe.com/africa/products/flashplayer/end-of-life.html) from 31 December 2020 and blocked Flash content from running in Flash Player on 12 January 2021 many have been caught unprepared.   
+
+[SARS/South African Revenue Services](https://www.sars.gov.za/Pages/default.aspx) recently announced it would start using its own Browser. We aim to tackle the challenge this presents and what to think about and also why with a 2+ year warning things are not in place. <!--more-->
 
 ![SARS Guide to using Flash POST discontinuation](/assets/images/SARS/Screenshot_3.png){: .align-center}
 
@@ -23,12 +26,12 @@ After many years of faithful service, Adobe announced in 2017 it would discontin
 
 [Adobe](https://www.adobe.com/africa/products/flashplayer/end-of-life.html) announced back in 2017 that it would be EOL'ing (End of Life) Flash and this discontinue support (Including vulnerability management) and block Flash content from 12 January 2021. It stated quote:
 
-`Since Adobe no longer supports Flash Player after 31 December 2020 and blocked Flash content from running in Flash Player beginning 12 January 2021, Adobe strongly recommends all users immediately uninstall Flash Player to help protect their systems.  
+`Since Adobe no longer supports Flash Player after 31 December 2020 and blocked Flash content from running in Flash Player beginning 12 January 2021, Adobe strongly recommends all users immediately uninstall Flash Player to help protect their systems.`  
 
-Some users may continue to see reminders from Adobe to uninstall Flash Player from their system.  See below for more details on how to uninstall Flash Player.`
+`Some users may continue to see reminders from Adobe to uninstall Flash Player from their system.  See below for more details on how to uninstall Flash Player.`
+
 
 End quote.
-
 
 
 ### What is flash and what is it used for?
@@ -39,7 +42,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Adobe_Flash#:~:text=Adobe%20Flash
 
 An article was also published by [howtogeek.com](https://www.howtogeek.com/700229/adobe-flash-is-dead%C2%A0heres-what-that-means/) highlighting Adobe Flashes life and why it is going away forever.
 
-When Flash was first introduced some 25 years ago, it was one of the only ways to make dynamic content available to the end user on the internet. Technology has vastly grown since then and the IT community saw many vulnerabilities in Flash over time. To illustrate this point, see [this article](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/despite-decline-use-adobe-flash-vulnerabilities-will-continue-cause-concern/) by McAfee Research. Adobe has accordingly sunset Flash as of December 2020 so it was a surprise to many when the ship did not want to leave the SARS dock. For many years, SARS has used it to provide users with the ability to work with forms and do their eFilling. 
+When Flash was first introduced some 25 years ago, it was one of the only ways to make dynamic content available to the end user on the internet. Technology has vastly grown since then and the IT community saw many vulnerabilities in Flash over time. To illustrate this point, see [this article](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/despite-decline-use-adobe-flash-vulnerabilities-will-continue-cause-concern/) by McAfee Research. Adobe has accordingly sunset Flash as of December 2020 so it was a surprise to many when the ship did not want to leave the SARS dock. For many years, SARS has used it to provide users with the ability to work with forms and do their e-Filing. 
 
 
 ### How did we get here and where are we going?
@@ -69,7 +72,7 @@ Godspeed SARS, you’re going to need it.
 
 ### Why is SARS continuing use of Flash and how?
 
-Just a note on the tech here - SARS has rolled their own browser based off of chromium. I downloaded and unpacked the MSI file and there are references to chromium.
+Just a note on the tech here - With SARS rolling out their own browser based off of chromium, some have downloaded and unpacked the MSI file and found references to chromium.
 
 ![Decompiled](/assets/images/SARS/Screenshot_4.png){: .align-center}  
 
@@ -78,7 +81,13 @@ Modernisation and digitisation has become a rather steep mountain to climb that 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vh-nZCaDWHE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### How does this affect me as a user?
+### How does this affect me and is it bad?
+
+The three most popular browsers today are Chrome, Safari, and Firefox. Vendors of these browsers spend a considerable amount of time and money keeping them secure. Despite this, bugs are frequently found in them. See for example [this](https://threatpost.com/firefox-chrome-edge-bugs-system-hijacking/162873/)  
+
+When vendors patch these bugs, IT departments frequently have control of their environment and ensure that their users update their browsers accordingly.   
+
+The concern is that SARS does not possess the adequate time, resources and know how to effectively and efficiently manage its own dedicated WebBrowser from a security and vulnerability management perspective leaving users at risk, increasing as more vulnerabilites are discovered.    
 
 Some good to know points we have come across:
 
@@ -92,13 +101,9 @@ In the event that the agreement which licenses the Software to SARS terminates, 
 
 ### An interesting read from a user’s perspective:
 
-https://twitter.com/HypnInfoSec/status/1354104748740390913
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Breaking the SARS browser&#39;s &quot;You may not under any circumstances: [...] decompile, reverse engineer, disassemble&quot; Terms and Conditions (maybe?) using... <br><br>The SARS browser \:D/ <a href="https://t.co/x9ERbhyAD7">pic.twitter.com/x9ERbhyAD7</a></p>&mdash; HypnInfoSec (@HypnInfoSec) <a href="https://twitter.com/HypnInfoSec/status/1354104748740390913?ref_src=twsrc%5Etfw">January 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
-### How does this affect me and is it bad?
 
-The three most popular browsers today are Chrome, Safari, and Firefox. Vendors of these browsers spend a considerable amount of time and money keeping them secure. Despite this, bugs are frequently found in them. See for example [this](https://threatpost.com/firefox-chrome-edge-bugs-system-hijacking/162873/)
-
-When vendors patch these bugs, IT departments frequently have control of their environment and ensure that their users update their browsers accordingly. 
 
 ### What does this mean for your tax return?
 
@@ -129,6 +134,15 @@ As good as this is, there are also points of awareness for individuals and compa
 
 So long to Adobe Flash! We are looking at a new age of digitization and modernization from online shops to South African Revenue Services. We hope you are not left uninformed and ill prepared, but find this article useful and informative.
 
+On a positive note and to support the thought process that SARS is trying to resolve their current technology woes they have posted multiple [jobs](https://career2.successfactors.eu/career?company=southafr01&career_ns=job_listing_summary&navBarLevel=JOB_SEARCH&_s.crb=d4hoO8l24XafqM1BWG7MElc67kRHdZXci4Z%2bR39YOKk%3d), hiring Systems Engineers, Database specialists and Security Engineers. Maybe you could be joining SARS soon?
+
+![Jobs at SARS](/assets/images/SARS/JobsAtSARS.png){: .align-center}  
+
+
+So long to Adobe Flash! We are looking at a new age of digitization and modernization from online shops to South African Revenue Services. We hope you are not left uninformed and ill prepared, but find this article useful and informative.  
+
+
+
 ### References and reading material
 
 
@@ -141,8 +155,9 @@ Terms and Conditions: Taxpayers and traders must note that the software solution
 ---
 i) You may not under any circumstances: distribute or copy the functionality; modify or create any derivative works from the Software; decompile, reverse engineer, disassemble or otherwise reduce the Software to a human-perceivable form, nor use the Software for open web browsing;  
 
-ii ) In the event that the agreement which licenses the Software to SARS terminates, then in such an event taxpayers and traders will not be permitted to use the Software under any circumstances and any such use will place taxpayers and traders at risk for infringement.
----
+ii) In the event that the agreement which licenses the Software to SARS terminates, then in such an event taxpayers and traders will not be permitted to use the Software under any circumstances and any such use will place taxpayers and traders at risk for infringement.
+
+==================
 [Chromium License](https://chromium.googlesource.com/chromium/src/+/master/LICENSE)
 
 [Electron License](https://github.com/electron/electron/blob/master/LICENSE)
