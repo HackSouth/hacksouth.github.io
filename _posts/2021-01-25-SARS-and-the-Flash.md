@@ -126,12 +126,11 @@ As good as this is, there are also points of awareness for individuals and compa
 
 So long to Adobe Flash! We are looking at a new age of digitization and modernization from online shops to South African Revenue Services. We hope you are not left uninformed and ill prepared, but find this article useful and informative.
 
-On a positive note and to support the thought process that SARS is trying to resolve their current technology woes they have posted multiple [jobs](https://career2.successfactors.eu/career?company=southafr01&career_ns=job_listing_summary&navBarLevel=JOB_SEARCH&_s.crb=d4hoO8l24XafqM1BWG7MElc67kRHdZXci4Z%2bR39YOKk%3d), hiring Systems Engineers, Database specialists and Security Engineers. Maybe you could be joining SARS soon?
-
-SARS has also [extended the deadline](https://www.sars.gov.za/Media/MediaReleases/Pages/28-January-2021-SARS-extends-Filing-Season-deadline-for-online-filers.aspx#:~:text=SARS%20extends%20Filing%20Season%20deadline%20for%20online%20filers,-Pretoria%2C%20Thursday%2028&text=In%20light%20of%20these%20challenges,2021%2C%20to%2015%20February%202021.) for e-Filing from 29 January 2021, to 15 February 2021, so that does help!
+On a positive note and to support the thought process that SARS is trying to resolve their current technology woes they have posted multiple [jobs](https://career2.successfactors.eu/career?company=southafr01&career_ns=job_listing_summary&navBarLevel=JOB_SEARCH&_s.crb=d4hoO8l24XafqM1BWG7MElc67kRHdZXci4Z%2bR39YOKk%3d), hiring Systems Engineers, Database specialists and Security Engineers. Maybe you could be joining SARS soon?  
 
 ![Jobs at SARS](/assets/images/SARS/JobsAtSARS.png){: .align-center}  
 
+SARS has also [extended the deadline](https://www.sars.gov.za/Media/MediaReleases/Pages/28-January-2021-SARS-extends-Filing-Season-deadline-for-online-filers.aspx#:~:text=SARS%20extends%20Filing%20Season%20deadline%20for%20online%20filers,-Pretoria%2C%20Thursday%2028&text=In%20light%20of%20these%20challenges,2021%2C%20to%2015%20February%202021.) for e-Filing from 29 January 2021, to 15 February 2021, so that does help!
 
 So long to Adobe Flash! We are looking at a new age of digitization and modernization from online shops to South African Revenue Services. We hope you are not left uninformed and ill prepared, but find this article useful and informative.  
 
