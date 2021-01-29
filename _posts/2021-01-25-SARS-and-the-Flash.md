@@ -1,5 +1,5 @@
 ---
-title: "SARS and the e-Filing quagmire with Adobe Flash discontinuation"
+title: "SARS and the eFiling quagmire with Adobe Flash discontinuation"
 author: 
 header:
   teaser: /assets/images/SARS/Sars-logo-800x321.jpg
@@ -8,7 +8,7 @@ categories:
  - Community
 tags:
  - SARS
- - e-Filing
+ - eFiling
  - Adobe
  - Adobe Flash
  - Vulnerability
@@ -16,9 +16,9 @@ tags:
 
 
 
-After many years of faithful service, Adobe announced in 2017 it would discontinue support for [Adobe Flash](https://www.adobe.com/africa/products/flashplayer/end-of-life.html) from 31 December 2020 and blocked Flash content from running in Flash Player on 12 January 2021 many have been caught unprepared.   
+After many years of faithful service, Adobe announced in 2017 it would discontinue support for [Adobe Flash](https://www.adobe.com/africa/products/flashplayer/end-of-life.html) from 31 December 2020 and blocked Flash content from running in Flash Player.Many have been caught unprepared.   
 
-[SARS/South African Revenue Services](https://www.sars.gov.za/Pages/default.aspx) recently announced it would start using its own Browser. We aim to tackle the challenge this presents and what to think about and also why with a 2+ year warning things are not in place. <!--more-->
+[The South African Revenue Service (SARS)](https://www.sars.gov.za/Pages/default.aspx) recently announced it would start using its own browser. We aim to tackle the challenge this presents and what to think about and also why with a 2+ year warning things are not in place. <!--more-->
 
 ![SARS Guide to using Flash POST discontinuation](/assets/images/SARS/Screenshot_3.png){: .align-center}
 
@@ -30,7 +30,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Adobe_Flash#:~:text=Adobe%20Flash
 
 An article was also published by [howtogeek.com](https://www.howtogeek.com/700229/adobe-flash-is-dead%C2%A0heres-what-that-means/) highlighting Adobe Flashes life and why it is going away forever.
 
-When Flash was first introduced some 25 years ago, it was one of the only ways to make dynamic content available to the end user on the internet. Technology has vastly grown since then and the IT community saw many vulnerabilities in Flash over time. To illustrate this point, see [this article](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/despite-decline-use-adobe-flash-vulnerabilities-will-continue-cause-concern/) by McAfee Research. Adobe has accordingly sunset Flash as of December 2020 so it was a surprise to many when the ship did not want to leave the SARS dock. For many years, SARS has used it to provide users with the ability to work with forms and do their e-Filing. 
+When Flash was first introduced some 25 years ago, it was one of the only ways to make dynamic content available to the end user on the internet. Technology has vastly grown since then and the IT community saw many vulnerabilities in Flash over time. To illustrate this point, see [this article](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/despite-decline-use-adobe-flash-vulnerabilities-will-continue-cause-concern/) by McAfee Research. Adobe has accordingly sunset Flash as of December 2020 so it was a surprise to many when the ship did not want to leave the SARS dock. For many years, SARS has used it to provide users with the ability to work with forms and do their eFiling. 
 
 ### What's all the fuss?
 
@@ -46,7 +46,7 @@ End quote.
 
 The de facto response for a frustrated nation is to apportion blame. We quickly jump to all the things we would have done differently (better) were we at the helm, but as the saying goes “hindsight is 20/20”. 
 
-Before looking at the current state of affairs and what is expected to come, it’s critical that we examine the timeline that led to this position our South African Revenue Services finds itself in today.
+Before looking at the current state of affairs and what is expected to come, it’s critical that we examine the timeline that led to the position that SARS finds itself in today.
 
 SARS has been aware that Adobe Flash had a limited lifespan since the announcement by Adobe back in July 2017, this ultimately put pressure to expedite the migration of forms to HTML5. In total there are roughly 44 forms, complex in nature with conditional logic and key calculations. No easy task.
 
@@ -62,7 +62,7 @@ Ramped up development, which must have required nightowls jacked up on coffee se
 
 “In line with the service commitment of SARS, the organisation will spare no effort in resolving these matters as speedily as possible.“ - SARS
 
-### Why is SARS continuing use of Flash and how?
+### Why is SARS continuing to use of Flash and how?
 
 Just a note on the tech here - With SARS rolling out their own browser based off of chromium, some have downloaded and unpacked the MSI file and found references to chromium.
 
@@ -79,7 +79,7 @@ The three most popular browsers today are Chrome, Safari, and Firefox. Vendors o
 
 When vendors patch these bugs, IT departments frequently have control of their environment and ensure that their users update their browsers accordingly.   
 
-The concern is that SARS does not possess the adequate time, resources and know how to effectively and efficiently manage its own dedicated WebBrowser from a security and vulnerability management perspective leaving users at risk, increasing as more vulnerabilites are discovered.    
+The concern is that SARS does not possess the adequate time, resources and know how to effectively and efficiently manage its own dedicated browser from a security and vulnerabilities management perspective leaving users at risk, increasing as more vulnerabilites are discovered.    
 
 Some good to know points we have come across:
 
@@ -99,7 +99,7 @@ In the event that the agreement which licenses the Software to SARS terminates, 
 
 ### What does this mean for your tax return?
 
-On 25 January 2021, SARS introduced a new SARS WEB BROWSER to assist with the migration from Adobe Flash Player to the HTML5 platform.  Whilst they are not entirely there yet with a suitable and secure solution, the browser has come at a much-needed time for Taxpayers. 
+On 25 January 2021, SARS introduced a new SARS Browser to assist with the migration from Adobe Flash Player to the HTML5 platform.  Whilst they are not entirely there yet with a suitable and secure solution, the browser has come at a much-needed time for Taxpayers. 
 Over the past few weeks Taxpayers have been very frustrated with eFiling as they were not able to access many forms due to the end of Adobe Flash Player on 31 December 2020.  Though it was announced that Adobe Flash Player would end by 31 December 2020, some browsers still continued to support in into the new year.  Taxpayers were able to continue with their filing obligations until 12 January 2021, when Adobe Flash came to a complete standstill.
 Whilst SARS started with the migration process towards the end of 2020, there seemed to be some hiccups along the way.  Whilst not ideal they released a temporary workaround to assist Taxpayers with their filing obligations.  With month-end looming they have been working tirelessly to find a more suitable solution.
 
@@ -130,7 +130,7 @@ On a positive note and to support the thought process that SARS is trying to res
 
 ![Jobs at SARS](/assets/images/SARS/JobsAtSARS.png){: .align-center}  
 
-SARS has also [extended the deadline](https://www.sars.gov.za/Media/MediaReleases/Pages/28-January-2021-SARS-extends-Filing-Season-deadline-for-online-filers.aspx#:~:text=SARS%20extends%20Filing%20Season%20deadline%20for%20online%20filers,-Pretoria%2C%20Thursday%2028&text=In%20light%20of%20these%20challenges,2021%2C%20to%2015%20February%202021.) for e-Filing from 29 January 2021, to 15 February 2021, so that does help!
+SARS has also [extended the deadline](https://www.sars.gov.za/Media/MediaReleases/Pages/28-January-2021-SARS-extends-Filing-Season-deadline-for-online-filers.aspx#:~:text=SARS%20extends%20Filing%20Season%20deadline%20for%20online%20filers,-Pretoria%2C%20Thursday%2028&text=In%20light%20of%20these%20challenges,2021%2C%20to%2015%20February%202021.) for eFiling from 29 January 2021, to 15 February 2021, so that does help!
 
 So long to Adobe Flash! We are looking at a new age of digitization and modernization from online shops to South African Revenue Services. We hope you are not left uninformed and ill prepared, but find this article useful and informative.  
 
