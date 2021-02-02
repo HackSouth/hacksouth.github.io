@@ -95,7 +95,7 @@ Now with a breach like this, if they released the database they found there will
 * Your address  
 * Your email address  
 * Your password (That you used for this website)  
-* Other Personal information  
+* Other PII (Personal Identifying Information)
 
 Now if you used unique, complex passwords (Long complex passwords that are only used once, and different passwords for each site) then the effect on you will be limited to that website and info released. But, if you are maybe unaware or somewhat lazy, you might be using the same password in multiple places, or (Not as bad but still bad) you use iterations of the same password. Eg. (Spring=2020FB, Spring=2020IG)
 
@@ -186,7 +186,8 @@ The lessons are small and few, but rather important.
 
 - Share this with friends and "Influencers"  
 - Tell your friends  
-- Advocate complex PW's through password managers and 2FA.  
+- Advocate complex PW's through password managers and 2FA. 
+- On [HaveIBeenPwned](https://haveibeenpwned.com/NotifyMe) you can add your email address and you will be notified if any of your accounts get breached or leaked. And it is FREE!  
 
 ### Interesting Reading Material
 
