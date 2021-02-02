@@ -1,20 +1,20 @@
 ---
-title: "Pesky Hackers and your social media accounts? "
+title: "Those damn hackers hacked my Facebook!"
 author: AngusRed
 header:
   teaser: /assets/images/Acc_Takeover/hacked%20image%20(1).jpg
 excerpt_separator: "<!--more-->"
 categories:
  - Community
-- PSA
+ - PSA
 tags:
  - Public Service Announcement
  - Facebook
  - Instagram
  - Hacked
-- Hackers 
+ - Hackers 
  - Passwords
-- 2FA
+ - 2FA
 ---
 
 
