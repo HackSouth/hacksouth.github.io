@@ -174,19 +174,19 @@ Lastly, if you see a friend post something that looks off, with a link, tell the
 
 ### Lessons learnt
 
-The lessons are small and few, but rather important.
+The lessons are small and few, but rather important.  
 
-*Use unique and complex passwords, ideally with a password manager
-*Enable 2FA
-*Tell your friends about this stuff
-*Dont click on stupid links
-*Be more aware
+*Use unique and complex passwords, ideally with a password manager  
+*Enable 2FA  
+*Tell your friends about this stuff  
+*Dont click on stupid links   
+*Be more aware  
 
 ### What can I do to help?
 
-- Share this with friends and "Influencers"
-- Tell your friends
-- Advocate complex PW's through password managers and 2FA.
+- Share this with friends and "Influencers"  
+- Tell your friends  
+- Advocate complex PW's through password managers and 2FA.  
 
 ### Interesting Reading Material
 
