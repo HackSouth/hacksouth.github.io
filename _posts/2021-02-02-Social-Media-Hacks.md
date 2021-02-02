@@ -57,10 +57,10 @@ On almost all social media sites on the internet today efforts have been made to
 
 Password management on a websites tend to be determined by the website creators, and ideally this is governed by a security standard or known and approved methodology. Some websites however enforce more rules than others.
 
-Some websites may only require a 8 character password  
-Some websites may require a 8 character password with Capitals and Numbers  
-Some websites may require 8+ character length with Capitals, Numbers and special characters.   
-Some websites may only allow you to use a 8 character length password, and thankfully some will let you use a 64+ Character password.   
+* Some websites may only require a 8 character password  
+* Some websites may require a 8 character password with Capitals and Numbers  
+* Some websites may require 8+ character length with Capitals, Numbers and special characters.   
+* Some websites may only allow you to use a 8 character length password, and thankfully some will let you use a 64+ Character password.   
 
 As a direct example, Facebook enforces that the password must be at least six characters and should be a mix of uppercase and lowercase characters, numbers and punctuation.
 
