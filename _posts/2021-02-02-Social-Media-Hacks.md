@@ -57,10 +57,10 @@ On almost all social media sites on the internet today efforts have been made to
 
 Password management on a websites tend to be determined by the website creators, and ideally this is governed by a security standard or known and approved methodology. Some websites however enforce more rules than others.
 
-Some websites may only require a 8 character password
-Some websites may require a 8 character password with Capitals and Numbers
-Some websites may require 8+ character length with Capitals, Numbers and special characters. 
-Some websites may only allow you to use a 8 character length password, and thankfully some will let you use a 64+ Character password. 
+Some websites may only require a 8 character password  
+Some websites may require a 8 character password with Capitals and Numbers  
+Some websites may require 8+ character length with Capitals, Numbers and special characters.   
+Some websites may only allow you to use a 8 character length password, and thankfully some will let you use a 64+ Character password.   
 
 As a direct example, Facebook enforces that the password must be at least six characters and should be a mix of uppercase and lowercase characters, numbers and punctuation.
 
@@ -91,11 +91,11 @@ Somewhere in the world, a motivated individual found this vulnerability on the s
 
 Now with a breach like this, if they released the database they found there will be an assortment of personal data. This can include
 
--Your Name
--Your address
--Your email address
--Your password (That you used for this website)
--Other Personal information
+* Your Name  
+* Your address  
+* Your email address  
+* Your password (That you used for this website)  
+* Other Personal information  
 
 Now if you used unique, complex passwords (Long complex passwords that are only used once, and different passwords for each site) then the effect on you will be limited to that website and info released. But, if you are maybe unaware or somewhat lazy, you might be using the same password in multiple places, or (Not as bad but still bad) you use iterations of the same password. Eg. (Spring=2020FB, Spring=2020IG)
 
