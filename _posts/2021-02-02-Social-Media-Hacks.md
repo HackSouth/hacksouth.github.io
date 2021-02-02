@@ -79,16 +79,8 @@ When it comes to accounts with a high following, it is more likely to have been 
 
 We will research these options and try give some insight but we found the following:
 
-[Instagram Business](https://business.instagram.com/)
+[Instagram Business](https://business.instagram.com/)  
 [Hootsuite](https://signuptoday.hootsuite.com/pua-zaf-en-integrations-2020/?utm_source=google&gclid=CjwKCAiAjeSABhAPEiwAqfxURUlT7ELijtGC_8lovnTX7j7mejnMIvla3iYDWiv7Uvg0SHxZ1rne0hoCeKsQAvD_BwE)
-
-
-
-Hi friend accounts
-Simply having details in breach
-Age
-Influence (High followers)
-Corp Espionage
 
 ### How was my account taken over?
 
