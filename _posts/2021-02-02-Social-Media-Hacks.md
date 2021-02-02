@@ -192,7 +192,9 @@ The lessons are small and few, but rather important.
 ### Interesting Reading Material
 
 
-Please go check out our recent technical blog on [Password Cracking](https://hacksouth.africa/meetup/0x04-password-cracking/) or the video on [Youtube](https://www.youtube.com/watch?v=p2TadlS6VbU&t=658) !
+Please go check out our recent technical blog on [Password Cracking](https://hacksouth.africa/meetup/0x04-password-cracking/) or the video on [Youtube](https://www.youtube.com/watch?v=p2TadlS6VbU&t=658) !  
+
+Check out our friend [Bushido's](https://twitter.com/BushidoToken) write up on [Operational Security Tips](https://blog.bushidotoken.net/2020/12/operational-security-tips-and-tricks.html)  
 
 A great talk from DEF CON, the worlds biggest Hacker Conference attended by 50000+ Hackers from all over the world. This covers security tips on social media and what those random and harmless surveys and “What Game of Thrones character am I” type posts are really after **DEF CON 26 SE VILLAGE - Hannah Silvers - My Stripper Name Is Bubbles Sunset**
 
