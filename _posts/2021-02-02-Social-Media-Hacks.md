@@ -66,7 +66,7 @@ As a direct example, Facebook enforces that the password must be at least six ch
 
 We will illustrate the importance of “Longer and complex is best practice”
 
-![How Long it takes to crack your password](/images/Acc_Takeover/Crack-Password-Infographic-1-2.png){: .align-center}
+![How Long it takes to crack your password](/assets/images/Acc_Takeover/Crack-Password-Infographic-1-2.png){: .align-center}  
 
 
 ### Why me? Why this account?
