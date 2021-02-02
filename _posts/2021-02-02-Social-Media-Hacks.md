@@ -210,7 +210,7 @@ A great talk from DEF CON, the worlds biggest Hacker Conference attended by 5000
 
 [Experian Breach](https://www.infosecurity-magazine.com/news/experian-data-breach-24-million/)
 
-**Mywot - Source of the Password cracking graphic - Also a great [article](https://www.mywot.com/blog/this-chart-will-show-you-how-long-it-takes-to-crack-your-password) about password strength and cracking.**
+*Mywot - Source of the Password cracking graphic - Also a great [article](https://www.mywot.com/blog/this-chart-will-show-you-how-long-it-takes-to-crack-your-password) about password strength and cracking.**
 
 ## Thanks for reading and just remember...
 <iframe src="https://giphy.com/embed/2wgW2gSpqQoVSpYYve" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/levarburton-2wgW2gSpqQoVSpYYve">via GIPHY</a></p>
