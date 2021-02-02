@@ -19,7 +19,8 @@ tags:
 
 
 
-“Don’t watch the video I inboxed you, my FB has been Hacked by Hackers!”
+> “Don’t watch the video I inboxed you, my FB has been Hacked by Hackers!”
+
 Seen this before? Seen this more than once? You probably have. Accounts on Facebook have been hacked and taken over by hackers and they are working hard to hack your friends and families accounts, or have they, and are they, and who are these Hackers? And whilst we are on this subject, what are Hackers?   
 
 ![OMG is this you video](/assets/images/Acc_Takeover/Screenshot_6.png){: .align-center}
@@ -40,11 +41,11 @@ So this person that broke into your account using computer wizardry and devilish
 
 Taken from [Wikipedia](https://en.wikipedia.org/wiki/Hacker#:~:text=A%20computer%20hacker%20is%20a,system%20by%20non%2Dstandard%20means.&text=For%20example%2C%20law%20enforcement%20agencies,criminals%20and%20other%20malicious%20actors.) 
 
-“A computer hacker is a computer expert who uses their technical knowledge to achieve a goal or overcome an obstacle, within a computerized system by non-standard means.
+> “A computer hacker is a computer expert who uses their technical knowledge to achieve a goal or overcome an obstacle, within a computerized system by non-standard means.
 
-Though the term "hacker" has become associated in popular culture with a "security hacker" – someone who utilizes their technical know-how of bugs or exploits to break into computer systems and access data which would otherwise be unavailable to them – hacking can also be utilized by legitimate figures in legal situations. For example, law enforcement agencies sometimes use hacking techniques in order to collect evidence on criminals and other malicious actors. This could include using anonymity tools (such as a VPN, or the dark web) to mask their identities online, posing as criminals themselves.[1][2] Likewise, covert world agencies can employ hacking techniques in the legal conduct of their work.”
+> Though the term "hacker" has become associated in popular culture with a "security hacker" – someone who utilizes their technical know-how of bugs or exploits to break into computer systems and access data which would otherwise be unavailable to them – hacking can also be utilized by legitimate figures in legal situations. For example, law enforcement agencies sometimes use hacking techniques in order to collect evidence on criminals and other malicious actors. This could include using anonymity tools (such as a VPN, or the dark web) to mask their identities online, posing as criminals themselves.[1][2] Likewise, covert world agencies can employ hacking techniques in the legal conduct of their work.”
 
-The term Hacker is a derivative of the phase/ethos known as “[Hacking Culture](https://en.wikipedia.org/wiki/Hacker_culture)”. This culture began back in the 1960s at [MIT](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology), where students banded together to release information on the internet they thought should be public information. Often referred to as, "computer-science freaks”.
+> The term Hacker is a derivative of the phase/ethos known as “[Hacking Culture](https://en.wikipedia.org/wiki/Hacker_culture)”. This culture began back in the 1960s at [MIT](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology), where students banded together to release information on the internet they thought should be public information. Often referred to as, "computer-science freaks”.
 
 So with the above in mind, you can now see that Hackers are not the bad guys, in fact most Hackers believe in privacy, freedom of information, freedom of speech, they help to secure the very same internet you are using to browse this article and furthermore help secure the technology on your computer or smartphone. They are either working for the companies that build the technology you use in your everyday life, or they are independent, unvested security researchers telling/disclosing found vulnerabilities to the hackers in the tech companies. 
 
@@ -75,7 +76,7 @@ The biggest reason is most likely the simple fact that your email and password i
 
 Account cloning has been known to target pensioners as they are sadly easy targets and probably don't have the the technical access to see something is wrong or perhaps know something is wrong. 
 
-When it comes to accounts with a high following, it is more likely to have been targeted. The attacker can take over the account, wipe your content and see the account with all its followers to someone else. Another common occurrence is that “Influencers” will share their account details with promoters/marketing people or SEO boosters, instead of using a service that can keep your account safe. If your promoter gets compromised, so do you. Try using a service where multiple users can access the same account, with different login details with varying privileges. 
+When it comes to accounts with a high following, it is more likely to have been targeted. The attacker can take over the account, wipe your content and see the account with all its followers to someone else. Another common occurrence is that **“Influencers”** will share their account details with promoters/marketing people or SEO boosters, instead of using a service that can keep your account safe. If your promoter gets compromised, so do you. Try using a service where multiple users can access the same account, with different login details with varying privileges. 
 
 We will research these options and try give some insight but we found the following:
 
