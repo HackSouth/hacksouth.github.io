@@ -208,7 +208,7 @@ A great talk from DEF CON, the worlds biggest Hacker Conference attended by 5000
 
 ### References and Links
 
-* [Google Authenticator-Google Authenticator will add a formidable layer of protection to your e-mail account ](https://mashable.com/2017/10/29/how-to-set-up-google-authenticator/)
+* [Google Authenticator-Google Authenticator will add a formidable layer of protection to your e-mail account](https://mashable.com/2017/10/29/how-to-set-up-google-authenticator/)
 
 * [Google Authenticator - Apple Store Download](https://apps.apple.com/us/app/google-authenticator/id388497605)
 
