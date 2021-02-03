@@ -151,9 +151,9 @@ Facebook has a how to guide which you can review [here](https://www.facebook.com
 
 This is more simple to explain. Whatever you have publicly available someone can copy. Photos, names, details. With this, they create an account duplicating yours. The play here is that they will then go through your friends list (If it is publicly available), add your friends and then have a message they would send to a friend. Something like “I am in trouble and need help, can you send me R100-200”. The “Play’ here is that whoever they message will be concerned but not realize your message is suspicious. If you, yourself get a message like this then ask the person a question that only you 2 would know. 
 
-“Where did Peter (Her son) get married?”
-“Where did we first meet?”
-“What is my dogs name”
+* “Where did Peter (Her son) get married?”  
+* “Where did we first meet?”  
+* “What is my dogs name”  
 
 If they can't answer this you know the account is compromised. From here report the profile and use an alternate communications method to notify them, the real them. 
 
