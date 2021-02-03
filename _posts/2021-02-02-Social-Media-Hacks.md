@@ -170,6 +170,10 @@ If someone like your friend, your cousin, your partner, your mother sends you a 
 
 Also, as mentioned above, if you get a message from someone you know, about needing to do something urgently, or send money, VERIFY it is them and if that does not work, call them and verify. What can also work is bombarding them with messages. Sometimes your account can get taken over, but the attacker won't have changed your email or password, and therefore they still have access. If you bombard them with messages, they will see it, and when they respond, tell them to read this article and then change their passwords!
 
+ 
+![Facebook Hacked by Hacker](/assets/images/Acc_Takeover/fbhack.jpg ){: .align-center}  
+
+
 Lastly, if you see a friend post something that looks off, with a link, tell them!
 
 ### Lessons learnt
