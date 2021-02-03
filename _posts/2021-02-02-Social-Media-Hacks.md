@@ -131,7 +131,9 @@ Secondly, and far worse is that by having access to your email, they could gain 
 
 Having access to your email address is like them having your front door key to your entire online presence. Once again, 2FA solves this problem. 
 
-As you can see with this section, this is not some elite level, government sponsored, NCIS Cyber hacking technic. Its as simple as them going to a “Digital Library” and taking they publicly accessible “Breach Yellow Pages” book labelled “The 2 Billion user accounts breached and leaked” and looking you up on the internet. 
+As you can see with this section, this is not some elite level, government sponsored, NCIS Cyber hacking technic. Its as simple as them going to a “Digital Library” and taking they publicly accessible “Breach Yellow Pages” book labelled “The 2 Billion user accounts breached and leaked” and looking you up on the internet. Nothing like this....
+
+<iframe src="https://giphy.com/embed/Z543HuFdQAmkg" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacker-Z543HuFdQAmkg">via GIPHY</a></p>
 
 ### What should I do first after my account takeover?
 
@@ -180,22 +182,22 @@ Lastly, if you see a friend post something that looks off, with a link, tell the
 
 The lessons are small and few, but rather important.  
 
-*Use unique and complex passwords, ideally with a password manager  
-*Enable 2FA  
-*Tell your friends about this stuff  
-*Dont click on stupid links   
-*Be more aware  
+* **Use unique and complex passwords, ideally with a password manager**    
+* **Enable 2FA**   
+* **Tell your friends about this stuff**   
+* **Dont click on stupid links**   
+* **Be more aware**  
 
 ### What can I do to help?
 
-- Share this with friends and "Influencers"  
-- Tell your friends  
-- Advocate complex PW's through password managers and 2FA. 
-- On [HaveIBeenPwned](https://haveibeenpwned.com/NotifyMe) you can add your email address and you will be notified if any of your accounts get breached or leaked. And it is FREE!  
+* Share this with friends and "Influencers"  
+* Tell your friends  
+* Advocate complex PW's through password managers and 2FA. 
+* On [HaveIBeenPwned](https://haveibeenpwned.com/NotifyMe) you can add your email address and you will be notified if any of your accounts get breached or leaked. And it is FREE!  
 
 ![HIBP Notifier](/assets/images/Acc_Takeover/hibp_notifier.png){: .align-right}
   
-    
+ <br/>   
     
 ### Interesting Reading Material
 
@@ -211,17 +213,17 @@ A great talk from DEF CON, the worlds biggest Hacker Conference attended by 5000
 
 ### References and Links
 
-[Google Authenticator-Google Authenticator will add a formidable layer of protection to your e-mail account ](https://mashable.com/2017/10/29/how-to-set-up-google-authenticator/)
+* [Google Authenticator-Google Authenticator will add a formidable layer of protection to your e-mail account ](https://mashable.com/2017/10/29/how-to-set-up-google-authenticator/)
 
-[Google Authenticator - Apple Store Download](https://apps.apple.com/us/app/google-authenticator/id388497605)
+* [Google Authenticator - Apple Store Download](https://apps.apple.com/us/app/google-authenticator/id388497605)
 
-[Google Authentication - Google Play Store Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en)
+* [Google Authentication - Google Play Store Download](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en)
 
-[1Password- Password Manager](https://1password.com/)
+* [1Password- Password Manager](https://1password.com/)
 
-[Experian Breach](https://www.infosecurity-magazine.com/news/experian-data-breach-24-million/)
+* [Experian Breach](https://www.infosecurity-magazine.com/news/experian-data-breach-24-million/)
 
-*Mywot - Source of the Password cracking graphic - Also a great [article](https://www.mywot.com/blog/this-chart-will-show-you-how-long-it-takes-to-crack-your-password) about password strength and cracking.**
+* Mywot - Source of the Password cracking graphic - Also a great [article](https://www.mywot.com/blog/this-chart-will-show-you-how-long-it-takes-to-crack-your-password) about password strength and cracking.**
 
 ## Thanks for reading and just remember...
 <iframe src="https://giphy.com/embed/2wgW2gSpqQoVSpYYve" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/levarburton-2wgW2gSpqQoVSpYYve">via GIPHY</a></p>
