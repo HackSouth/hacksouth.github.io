@@ -53,7 +53,7 @@ Hackers Good. Cyber Criminals, bad.
 
 ### Basics on personal security on social media
 
-On almost all social media sites on the internet today efforts have been made to empower you to keep what you want private, private and what you want public, publicly available. They have also taken steps to help identify who you are (A username, typically, an email address) and to validate or verify your identity they have put Passwords in place. Passwords are there to validate that the username being used to log into an account by you or someone else is, infact, you. 
+On almost all social media sites on the internet efforts have been made to keep your information and data private and secured. They have also taken steps to help identify who you are (A username, typically, an email address) and to validate or verify your identity they have put Passwords in place. Passwords are there to validate that the username being used to log into an account by you or someone else is, infact, you. 
 
 Password management on a websites tend to be determined by the website creators, and ideally this is governed by a security standard or known and approved methodology. Some websites however enforce more rules than others.
 
@@ -188,6 +188,8 @@ The lessons are small and few, but rather important.
 - Tell your friends  
 - Advocate complex PW's through password managers and 2FA. 
 - On [HaveIBeenPwned](https://haveibeenpwned.com/NotifyMe) you can add your email address and you will be notified if any of your accounts get breached or leaked. And it is FREE!  
+
+![HIBP Notifier](/assets/images/Acc_Takeover/hibp_notifier.png){: .align-right}
 
 ### Interesting Reading Material
 
