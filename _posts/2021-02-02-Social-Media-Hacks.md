@@ -107,7 +107,7 @@ If your page has a decent amount of followers they can rebrand it and see it (Wi
 They can use your page to post Phishing links
 They can use your page to unsuspectedly change donation banking details so if someone wants to make a donation to NPO “Help the kids” they actually end up paying “Joe Soap scammer Ltd”
 
-## Has my personal data been in a breach?
+### Has my personal data been in a breach?
 
 So, there is a Hacker and his name is [Troy Hunt](https://twitter.com/troyhunt) and he built a website called [haveibeenpwned](https://haveibeenpwned.com/) and what this site does is it hunts for all these breaches. They get access to the leaked databases, they verify it and then load that database to their own database. The thing is, Troy actually works extremely hard to secure his stuff and encrypts everything. 
 
@@ -190,7 +190,9 @@ The lessons are small and few, but rather important.
 - On [HaveIBeenPwned](https://haveibeenpwned.com/NotifyMe) you can add your email address and you will be notified if any of your accounts get breached or leaked. And it is FREE!  
 
 ![HIBP Notifier](/assets/images/Acc_Takeover/hibp_notifier.png){: .align-right}
-
+  
+    
+    
 ### Interesting Reading Material
 
 
