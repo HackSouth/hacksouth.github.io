@@ -145,7 +145,10 @@ If the above happens things get really tricky. You first want to try to regain a
 
 ### How do I gain access again?
 
-On most social media sites you can report your own profile as being compromised. It also helps to ask your friends to go on your profile and report it as compromised.
+On most social media sites you can report your own profile as being compromised. It also helps to ask your friends to go on your profile and report it as compromised.  
+
+<iframe src="https://giphy.com/embed/YO3icZKE2G8OoGHWC9" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theoffice-YO3icZKE2G8OoGHWC9">via GIPHY</a></p>  
+
 
 Facebook has a how to guide which you can review [here](https://www.facebook.com/help/1216349518398524/?helpref=hc_fnav). Once reports pile up Facebook will deactivate the account and investigate. They will then contact you to do the reset. MAKE SURE it is from a legitimate FB email account. Hopefully they can recover anything that was lost or changed, but you have to prepare yourself for the worst.
 
