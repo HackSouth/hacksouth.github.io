@@ -2,7 +2,7 @@
 title: "Is that you Hack South? Is this me?"
 author: AngusRed
 header:
-  teaser: /assets/images/Hack_South_Story/R9007-SA-Flag_96b72b0b-0f88-4dbe-8068-045b52b5fa89_1024x1024-1200x1200.png
+  teaser: /assets/images/Hack_South_Story/R9007-SA-Flag.png
 excerpt_separator: "<!--more-->"
 categories:
  - Community
