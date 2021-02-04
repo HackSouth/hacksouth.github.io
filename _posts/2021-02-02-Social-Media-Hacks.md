@@ -5,7 +5,6 @@ header:
   teaser: /assets/images/Acc_Takeover/hacked%20image%20(1).jpg
 excerpt_separator: "<!--more-->"
 categories:
- - Community
  - PSA
 tags:
  - Public Service Announcement
