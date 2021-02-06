@@ -111,7 +111,7 @@ They can use your page to unsuspectedly change donation banking details so that 
 
 ### Has my personal data been in a breach?
 
-So, there is a Hacker called [Troy Hunt](https://twitter.com/troyhunt) and he built a website called [haveibeenpwned](https://haveibeenpwned.com/) and what this site does is it hunts for all these breaches. They get access to the leaked databases, they verify it and then load that database to their own database. The thing is, Troy actually works extremely hard to secure his stuff and encrypts everything.
+So, there is a Security Researcher called [Troy Hunt](https://twitter.com/troyhunt) and he built a website called [haveibeenpwned](https://haveibeenpwned.com/) and what this site does is it hunts for all these breaches. They get access to the leaked databases, they verify it and then load that database to their own database. The thing is, Troy actually works extremely hard to secure his stuff and encrypts everything.
 
 Below is what they have in their database. This also includes the recent [Experian Breach](https://www.infosecurity-magazine.com/news/experian-data-breach-24-million/).
 
