@@ -42,9 +42,9 @@ So this person that broke into your account using computer wizardry and devilish
 Taken from [Wikipedia](https://en.wikipedia.org/wiki/Hacker#:~:text=A%20computer%20hacker%20is%20a,system%20by%20non%2Dstandard%20means.&text=For%20example%2C%20law%20enforcement%20agencies,criminals%20and%20other%20malicious%20actors.) 
 
 > “A computer hacker is a computer expert who uses their technical knowledge to achieve a goal or overcome an obstacle, within a computerized system by non-standard means.
-
+>
 > Though the term "hacker" has become associated in popular culture with a "security hacker" – someone who utilizes their technical know-how of bugs or exploits to break into computer systems and access data which would otherwise be unavailable to them – hacking can also be utilized by legitimate figures in legal situations. For example, law enforcement agencies sometimes use hacking techniques in order to collect evidence on criminals and other malicious actors. This could include using anonymity tools (such as a VPN, or the dark web) to mask their identities online, posing as criminals themselves.[1][2] Likewise, covert world agencies can employ hacking techniques in the legal conduct of their work.”
-
+>
 > The term Hacker is a derivative of the phase/ethos known as “[Hacking Culture](https://en.wikipedia.org/wiki/Hacker_culture)”. This culture began back in the 1960s at [MIT](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology), where students banded together to release information on the internet they thought should be public information. Often referred to as, "computer-science freaks”.
 
 So with the above in mind, you can now see that Hackers are not the bad guys, in fact most Hackers believe in privacy, freedom of information, freedom of speech, they help to secure the very same internet you are using to browse this article and furthermore help secure the technology on your computer or smartphone. They are either working for the companies that build the technology you use in your everyday life, or they are independent, unvested security researchers telling/disclosing found vulnerabilities to the hackers in the tech companies.
