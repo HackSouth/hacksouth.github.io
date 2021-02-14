@@ -7,14 +7,8 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-@font-face {
-  font-family: LilyScriptOne;
-  src: url("../fonts/lilyscriptone-regular.ttf");
-}
-
 .site-title {
-  font-family: LilyScriptOne;
-  font-size: 32px;
+  visibility: hidden;
 }
 
 a:link, a:visited {
@@ -22,7 +16,7 @@ a:link, a:visited {
 }
 
 .social-icons .fas, .social-icons .fab, .social-icons .far, .social-icons .fal {
-    color: #eaeaea;
+  color: #eaeaea;
 }
 
 html {
@@ -54,7 +48,6 @@ img.bio-flag {
     text-align: center;
     padding: 0 10px 0 10px;
     width: 100%;
-
   }
 }
 

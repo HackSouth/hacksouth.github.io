@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Hack South
+logo: "/assets/images/hslogo.png"
 email: hacksouthza@gmail.com
 description: South Africa's largest cybersecurity community. Hackers, makers, breakers, infosec professionals and students welcome. Join our Discord for cyber events, CTFs and professional development.
 minimal_mistakes_skin: dark
@@ -105,11 +106,6 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-
 tag_archive:
   type: liquid
   path: /tags/
-

@@ -152,7 +152,7 @@ ii) In the event that the agreement which licenses the Software to SARS terminat
 
 ==================
 
-[SARS extends e-Filling Deadline - Media Release 28Jan2021](https://www.sars.gov.za/Media/MediaReleases/Pages/28-January-2021-SARS-extends-Filing-Season-deadline-for-online-filers.aspx#:~:text=SARS%20extends%20Filing%20Season%20deadline%20for%20online%20filers,-Pretoria%2C%20Thursday%2028&text=In%20light%20of%20these%20challenges,2021%2C%20to%2015%20February%202021.)    
+[SARS extends e-Filling Deadline - Media Release 28Jan2021](https://www.sars.gov.za/Media/MediaReleases/Pages/28-January-2021-SARS-extends-Filing-Season-deadline-for-online-filers.aspx#:~:text=SARS%20extends%20Filing%20Season%20deadline%20for%20online%20filers,-Pretoria%2C%20Thursday%2028&text=In%20light%20of%20these%20challenges,2021%2C%20to%2015%20February%202021.)
 
 [Chromium License](https://chromium.googlesource.com/chromium/src/+/master/LICENSE)
 
