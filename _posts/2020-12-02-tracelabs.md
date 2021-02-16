@@ -1,5 +1,5 @@
 ---
-title: "How to win TraceLabs CTF, or at least come close"
+title: "How to win the TraceLabs CTF, or at least come close"
 author: AngusRed
 header:
   teaser: /assets/images/Tracelabs/TraceLabs-BronzeBadge.png
