@@ -1,5 +1,5 @@
 ---
-title: " "Those damn hackers hacked my Facebook!" "
+title: " Those damn hackers hacked my Facebook! "
 author: AngusRed
 header:
   teaser: /assets/images/Acc_Takeover/hacked%20image%20(1).jpg
