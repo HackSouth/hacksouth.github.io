@@ -14,7 +14,7 @@ It is still early days for the Hack South community and our future is bright. We
 
 ***Hack South, stronger together.***
 
-We have set out some core values and initiatives our Discord server to steer the community in a positive direction: To make contributions to the wider security community and the people of South Africa.
+We have set out some core values and initiatives on our Discord server to steer the community in a positive direction: To make contributions to the wider security community and the people of South Africa.
 
 ## Inclusion
 We believe in *all for one and one for all*. Hack South aims to grow a diverse group of members from different backgrounds, cultures, experiences and having faced various obstacles in life. Welcome all shapes and sizes in an effort to grow together and meet today’s difficult challenges. Diversity makes us better. We know this, we live by it, we encourage it, we protect it, and we celebrate it.
