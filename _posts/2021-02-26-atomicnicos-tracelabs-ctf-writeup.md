@@ -28,7 +28,7 @@ tags:
 </style>
 
 <p>On the weekend of the 22nd, I participated once more in the TraceLabs OSINT CTF. For context, this CTF is a bit different from other CTF's. It's not something where you compromise machines or map some networks. It's something where you actually try to dig up as much information as possible on missing people, as per the cases provided to TraceLabs by various law enforcement departments.</p>
-
+<!--more-->
   <p>This time though I participated as part of a team from one of the communities I regularly frequent -- <a target="_blank" href="https://hacksouth.africa"><i class="fas fa-external-link-square-alt"></i> Hack South</a>, the home of the Ubiquitous South. My team members were members from Hack South that had not participated in a TraceLabs CTF either much or at all in recent editions, namely <a target="_blank" href="https://twitter.com/The_MunX"><i class="fab fa-twitter-square"></i> Munx</a>, <a target="_blank" href="https://twitter.com/DotBecca"><i class="fab fa-twitter-square"></i> Becca</a> and <a target="_blank" href="https://twitter.com/s0duil"><i class="fab fa-twitter-square"></i> S0duil</a>. We came in 18th place, which is a pretty solid score.</p>
 
   <p>Participating in this kind of CTF is not about winning. Well OK, it's not <em>only</em> about winning. What I personally love about these kinds of CTF's is that I'm not only helping a cause that can potentially bring long lost family members together again, but that I am also pursuing a fun, entertaining and educationally profitable endeavor in a perfectly ethical context -- whereas OSINTing random people is a tad in the gray area.</p>
