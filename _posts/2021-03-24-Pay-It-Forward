@@ -1,41 +1,89 @@
-PAY IT FORWARD
+---
+title: "Pay IT Forward - PWK Vouchers"
+author: munx
+header:
+  teaser: /assets/images/AtomicNicos-posts/Feb2021-Tracelabs/cover.png
+excerpt_separator: "<!--more-->"
+categories:
+ - Community
+tags:
+ - OffensiveSecurity
+ - PWK
+ - OSCP
+ - Paying It Forward
+---
+---
 
-There is no such thing in life as a free lunch. 
-Well, welcome to the exception to the rule (cos, who likes rules anyway - yuck!)
+<style>
+.media-container {
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  margin: 10px 0;
+}
 
-A few years ago I was given an opportunity, one without expectation or strings attached. It changed my life, and I am so grateful that there are people in the world who do this kind of thing. It became a personal priority to be able to keep this kind of momentum going, and do my utmost to give the same kind of opportunities to others that I had been lucky enough to receive.
+.media-container > * {
+  margin: 0 auto;
+  max-width: 100%;
+}
+</style>
 
-DRUM ROLL
-As South Africans in the industry will know, training is an expense that a lot of people in our country simply cannot afford, so I am excited to see what can be achieved if that barrier is completely removed.
+<iframe src="https://giphy.com/embed/VIujgxqJPYLHVocwsG" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/verizon-transparent-VIujgxqJPYLHVocwsG">via GIPHY</a></p>
 
-It is with great excitement, that I'm able to share that this intention has become a reality. After discussions with the Social Responsibility Program group at Offensive Security, HackSouth have been given 10 PWK Vouchers.
-Yes, you read that correctly - TEN!
-Each voucher includes 90 days lab time, the course PDF and videos, as well as one exam voucher.
+<h1>There is no such thing in life as a free lunch. </br> Well, welcome to the exception to the rule (cos, who likes rules anyway - yuck!)</h1>
+<!--more-->
 
-I have no doubt that this is going to change the lives of 10 people, and I'm grateful to be a part of this process. So, enough rambling - let's get to the important stuff!
-Do you wanna get certified, but don't have the means? HOW CAN WE HELP YOU?
+<p> A few years ago I was given an opportunity, one without expectation or strings attached. It changed my life, and I am so grateful that there are people in the world who do this kind of thing. It became a personal priority to be able to keep this kind of momentum going, and do my utmost to give the same kind of opportunities to others that I had been lucky enough to receive.</p>
 
-REQUIREMENTS:
-Simply put, these vouchers are earmarked for individuals who are underrepresented in the community, or cannot afford the training required to get into the Information Security industry.
+<h2> DRUM ROLL </h2>
+<p> As South Africans in the industry will know, training is an expense that a lot of people in our country simply cannot afford, so I am excited to see what can be achieved if that barrier is completely removed. </br> It is with great excitement, that I'm able to share that this intention has become a reality. After discussions with the Social Responsibility Program group at <a target="_blank" href="https://www.offensive-security.com/"><i class="fas fa-external-link-square-alt"></i> Offensive Security</a>, <a target="_blank" href="https://hacksouth.africa/"><i class="fas fa-external-link-square-alt"></i> HackSouth</a> have been given 10 <a target="_blank" href="https://www.offensive-security.com/pwk-oscp//"><i class="fas fa-external-link-square-alt"></i> PWK</a> Vouchers. </p>
+<p><strong><span style="background-color: white; color: black;padding: 2px;">Yes, you read that correctly - TEN!</span></strong>
+<p> Each voucher includes 90 days lab time, the course PDF and videos, as well as one exam voucher. </p>
+<p> I have no doubt that this is going to change the lives of 10 people, and I'm grateful to be a part of this process. So, enough rambling - let's get to the important stuff! </p>
 
-This means we're looking for people who have basic technical abilities, the drive and passion required in this industry, as well as the time to dedicate to the labs in order to make the most of this opportunity.
+<h3> Do you wanna get certified, but don't have the means? HOW CAN WE HELP YOU? </h3>
 
-CRITERIA:
-We want to make it as simple as possible to "apply" for a voucher, and it's broken down into these three steps.
+  <h4>OVERVIEW</h4>
+  <ul>
+    <li><a class="no-underline" href="#REQUIREMENTS:">REQUIREMENTS:</a></li>
+    <li><a class="no-underline" href="#CRITERIA">CRITERIA</a></li>
+    <li><a class="no-underline" href="#MOTIVATION">1. MOTIVATION</a></li>
+    <li><a class="no-underline" href="#WALK-THE-WALK">2. WALK THE WALK</a></li>
+    <li><a class="no-underline" href="#TALK-THE-TALK">3. TALK THE TALK</a></li>
+    <li><a class="no-underline" href="#DC2711">DC2711</a></li>
+  </ul>
 
-1. MOTIVATION
-We want to know a bit about you, why do you want to get your OSCP, and we need to know more about how you meet the requirements above. You can email this through to amy at telspace dot com. 
+  <br/>
+  <h4 id="REQUIREMENTS:">REQUIREMENTS:</h4>
+  <p>Simply put, these vouchers are earmarked for individuals who are underrepresented in the community, or cannot afford the training required to get into the Information Security industry. </br> This means we're looking for people who have basic technical abilities, the drive and passion required in this industry, as well as the time to dedicate to the labs in order to make the most of this opportunity.</p>
 
-2. WALK THE WALK
-This is your chance to show us what you can do! Are you active on Hack The Box? OffSec Proving Grounds? TryHackMe? Have you built your own home lab?
-Do you have a blog where you share what you've learnt? Do you build or create?
-We don't care how you get your hacky on, we just want to see it in action!
 
-3. TALK THE TALK
-Lastly, we’ll want to "meet" you (under the current circumstances, this is likely to happen virtually) for a casual chat.
+  <br/>
+  <h4 id="CRITERIA">CRITERIA</h4>
+  <p>We want to make it as simple as possible to "apply" for a voucher, and it's broken down into these three steps.</p>
 
-Do your best to impress us and you could find yourself with one of these PWK vouchers!
+  <br/>
+  <h4 id="MOTIVATION">1. MOTIVATION</h4>
+  <p>We want to know a bit about you, why do you want to get your OSCP, and we need to know more about how you meet the requirements above. You can email this through to amy at telspace dot com. </p>
 
-I recommend you join HackSouth Discord and look for the XX to be confirmed XX channel dedicated to this giveaway. That's the place where we can answer any questions, provide feedback, provide mentorship and put you in touch with other industry professionals.
 
-Looking forward to this adventure, best of luck - now go forth and HACK!
+  <br/>
+  <h4 id="WALK-THE-WALK">2. WALK THE WALK</h4>
+
+
+  <p>This is your chance to show us what you can do! Are you active on <a target="_blank" href="https://www.hackthebox.eu/"><i class="fas fa-external-link-square-alt"></i> Hack The Box?</a>, <a target="_blank" href="https://www.offensive-security.com/labs/"><i class="fas fa-external-link-square-alt"></i> OffSec Proving Grounds?</a>, <a target="_blank" href="https://tryhackme.com/"><i class="fas fa-external-link-square-alt"></i> TryHackMe</a>? Have you built your own home lab? </br> Do you have a blog where you share what you've learnt? Do you build or create? We don't care how you get your hacky on, we just want to see it in action!</p>
+
+
+
+  <br/>
+  <h4 id="TALK-THE-TALK">3. TALK THE TALK</h4>
+  <p>Lastly, we’ll want to "meet" you (under the current circumstances, this is likely to happen virtually) for a casual chat.</p>
+
+  <br/>
+  <h4 id="DC2711">DC2711</h4>
+  <p>Word on the street is participants (who meet the criteria) and participate at the upcoming <a target="_blank" href="https://dc2711.co.za/"><i class="fas fa-external-link-square-alt"></i> DC2711</a> CTF could win a voucher. So keep an eye on my <a target="_blank" href="https://www.the-munx.com/"><i class="fas fa-external-link-square-alt"></i> website</a>, the HackSouth <a target="_blank" href="https://discord.com/invite/U3FDH5nv?utm_source=Discord%20Widget&utm_medium=Connect"><i class="fas fa-external-link-square-alt"></i> discord</a> and associated social media pages for more details closer to the time.</p>
+  
+  <h4>Do your best to impress us and you could find yourself with one of these PWK vouchers!</h4>
+
+  <p>I recommend you join HackSouth Discord and look for the <strong> pay-it-forward</strong> channel (under "certs") dedicated to this giveaway. That's the place where the mods can answer any questions, provide feedback, provide mentorship and put you in touch with other industry professionals.</p>
+  
