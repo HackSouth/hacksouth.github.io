@@ -54,7 +54,7 @@ So you're ready to embark on the journey! One that will unlock a community that 
 
 No surprises here, but you're going to need Discord. You can grab it directly from the official website [Discord](https://discord.com/download). Don't be nervous, it's not some sketchy dark-web application or 31337 hacking tool, but with anything you download and install it's worth doing some research.
 
-Discord was originally built for the browser, so if you’re on the go or prefer to save some hard-drive space go ahead and use it via your browser instead (https://discord.com/app).
+Discord was originally built for the browser, so if you’re on the go or prefer to save some hard-drive space go ahead and use it via your browser instead [Discord App](https://discord.com/app).
 
 > "Discord is a VoIP, instant messaging and digital distribution platform designed for creating communities. Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers"
 
