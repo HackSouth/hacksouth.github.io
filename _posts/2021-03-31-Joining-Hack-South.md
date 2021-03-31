@@ -13,13 +13,13 @@ tags:
 
 ### TL;DR
 
-Create a Discord Account
-Join the Hack South Server
-Accept the Code of Conduct (#coc-members)
-Introduce yourself on #whoami-introduction
-Assign roles by visiting #roles-assignment
-Explore our channels
-Get involved
+* Create a Discord Account
+* Join the Hack South Server
+* Accept the Code of Conduct (#coc-members)
+* Introduce yourself on #whoami-introduction
+* Assign roles by visiting #roles-assignment
+* Explore our channels
+* Get involved
 
 ### What is Hack South
 
@@ -50,9 +50,9 @@ We regularly have teams participating in Capture The Flag (CTF) competitions und
 
 So you're ready to embark on the journey! One that will unlock a community that teaches you how things work, how things break, supports you when you need it most and adds a bit of randomness to a world that often feels far too cookie cut. Here, take the red pill and see how far the rabbit hole goes.
 
-**Step 1: Download Discord**
+### **Step 1: Download Discord**
 
-No surprises here, but you're going to need Discord. You can grab it directly from the official website [https://discord.com/download]. Don't be nervous, it's not some sketchy dark-web application or 31337 hacking tool, but with anything you download and install it's worth doing some research.
+No surprises here, but you're going to need Discord. You can grab it directly from the official website [Discord](https://discord.com/download). Don't be nervous, it's not some sketchy dark-web application or 31337 hacking tool, but with anything you download and install it's worth doing some research.
 
 Discord was originally built for the browser, so if you’re on the go or prefer to save some hard-drive space go ahead and use it via your browser instead (https://discord.com/app).
 
@@ -60,15 +60,15 @@ Discord was originally built for the browser, so if you’re on the go or prefer
 
 Discord has multiple servers and within those servers, channels that are created to guide people on the server to places of interest, like CTF channels and so on. For the OG's, think of it like IRC but with less eye-scorching background colour combinations and no need for cloaking. There's also these animated pictures called gifs. You'll see what we mean soon enough.
 
-**Step 2: Create an Account**
+### **Step 2: Create an Account**
 
-Alright now for the hardest part, settling on a username and creating an account [https://discord.com/register]. It's obligatory for your username to strike fear in the hearts of other community members, so use words like "skull", "dead" and "shaun" and add a few special characters and numbers to make it more hacker-ish. That's a joke, just choose something meaningful to you, what's in a name anyway.
+Alright now for the hardest part, settling on a username and creating an account [Register](https://discord.com/register). It's obligatory for your username to strike fear in the hearts of other community members, so use words like "skull", "dead" and "shaun" and add a few special characters and numbers to make it more hacker-ish. That's a joke, just choose something meaningful to you, what's in a name anyway.
 
-**Step 3: Join The Hack South Server**
+### **Step 3: Join The Hack South Server**
 
 This is it, your last chance to turn back... Nope, you're still in? Awesome! Click the button below and become one of us (you’ve already been chosen).
 
-[ Insert Join Hack South server button here ]
+[Join Hack South](https://discord.com/invite/hJFU3VA6?utm_source=Discord%20Widget&utm_medium=Connect)
 
 ### Code of Conduct (COC) & General House Rules
 
