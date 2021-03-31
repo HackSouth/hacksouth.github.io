@@ -1,4 +1,4 @@
-s---
+---
 title: "Joining Hack South - The Skid guide to HS and Discord"
 author: 
 header:
