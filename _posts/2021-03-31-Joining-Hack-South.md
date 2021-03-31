@@ -208,9 +208,9 @@ While the city of Gotham sleeps, our superheroes are keeping watch. Our mods are
 
 **Commemorate achievements**
 
-Lastly, you’ll see some of our members wear specific roles like badges of honour. Boost the server (https://support.discord.com/hc/en-us/articles/360028038352-Server-Boosting-) and become a **Server Boosting Legend.** Speak at a major conference like Defcon, BlackHat and BSides and get a speaker role. Be a great human, help out and contribute and become an **Honourable Member.**
+Lastly, you’ll see some of our members wear specific roles like badges of honour. [Boost the server]((https://support.discord.com/hc/en-us/articles/360028038352-Server-Boosting-) and become a **Server Boosting Legend.** Speak at a major conference like Defcon, BlackHat and BSides and get a speaker role. Be a great human, help out and contribute and become an **Honourable Member.**
 
-We also have some automatic roles that kick in when you reach a certain amount of XP. You get XP for being active and for the competitive people… there’s even a community leaderboard (https://mee6.xyz/leaderboard/687602309395382282). Stay active, contribute regularly and work your way up from **The Dabbler** to **The Lifer.**
+We also have some automatic roles that kick in when you reach a certain amount of XP. You get XP for being active and for the competitive people… there’s even a [community leaderboard](https://mee6.xyz/leaderboard/687602309395382282). Stay active, contribute regularly and work your way up from **The Dabbler** to **The Lifer.**
 
 Last but not least, there are some fun and humorous roles that we like to hand out. We won’t tell you what these are now, but you’ll know when you get one.
 
