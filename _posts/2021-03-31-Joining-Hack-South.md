@@ -10,7 +10,11 @@ tags:
  - Discord
  - Joining Hack South
 ---
+Hack South is first and foremost a community of people based in South Africa but open to the world. Our growing community has a great variety of members, some of which are passionate information security practitioners, open-source investigators, developers, digital rights advocates and some are from a variety of other fields (even some totally unrelated to computers).
 
+Come read more!
+
+<!--more-->
 ### TL;DR
 
 - [Create a Discord Account](https://hacksouth.africa/community/Joining-Hack-South/#step-2-create-an-account)
@@ -26,7 +30,7 @@ tags:
 Hack South is first and foremost a community of people based in South Africa but open to the world. Our growing community has a great variety of members, some of which are passionate information security practitioners, open-source investigators, developers, digital rights advocates and some are from a variety of other fields (even some totally unrelated to computers).
 
 ### Why should you join?
-<!--more-->
+
 The nature of the Cybersecurity field is a fast growing and rapidly changing environment where staying up to date can be daunting. We try our best to keep providing relevant threat intel, crazy exploits and cool tricks to add to your arsenal. Being a community driven platform, we encourage people to speak about what they've found and help the rest learn from you as you will learn from them.
 
 Looking at some of the positives that a global pandemic has bought us, we are loving the virtual conferences and training that some gracious people/companies have been offering. We have a bot that informs everybody about upcoming training or conferences that will even remind you of one that piqued your interest so there are no excuses for taking advantage of these great opportunities.
@@ -117,7 +121,7 @@ Highlight something that makes you unique.
 - Your passwords
 - Your mother's maiden name
 
-When you have completed your introduction all you have to do is wait. One of the **<span style="color: purple">Purple</span> Moderators** will check your intro, Remove **FNG** and assign you **Human**.
+When you have completed your introduction all you have to do is wait. One of the **<span style="color: purple">Moderators</span>** will check your intro, Remove **FNG** and assign you **Human**.
 
 Congrats! You are in!
 
@@ -186,16 +190,16 @@ Have you read Lord of The Flies? No, ok then just know that things don't work ou
 
 We want Hack South to remain a welcoming and safe community for everyone, and so we have to have some structure. You'll be able to identify the volunteers who dedicate time and energy to ensuring the lights stay on by the roles that they ‘wear'.
 
-**Root**  
+**<span style="color: yellow">ROOT</span>**    
 AngusRed is his name and making the final call and driving the direction of the community is his game. He's super passionate about the industry so reach out to say "Hi", offer a hand or drop a CV.
 
-**El'Presidente**  
+**<span style="color: yellow">El'Presidente</span>**
 A lucky few have seen his face but everyone has seen his work. Megladon is the man behind the scene, constantly tightening nuts and bolts of the server, ensuring it runs for all of our pleasure.
 
-**Staff**  
+**<span style="color: yellow">STAFF</span>**
 For a ship to set sail, many hands are required on deck. Our staff rise to this challenge by doing things like creating and assigning new roles, organising and running events, growing the community and contributing to Hack South in whatever way they can.
 
-**Moderators**  
+**<span style="color: pink">Moderator</span>**  
 While the city of Gotham sleeps, our superheroes are keeping watch. Our mods are ready to welcome newcomers, help out when you have a problem and ensure that everyone is sticking to the code of conduct.
 
 **Commemorate achievements**
