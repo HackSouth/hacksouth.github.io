@@ -125,7 +125,7 @@ Highlight something that makes you unique.
 - Your passwords
 - Your mother's maiden name
 
-When you have completed your introduction all you have to do is wait. One of the **<span style="color: purple">Moderators</span>** will check your intro, Remove **FNG** and assign you **Human**.
+When you have completed your introduction all you have to do is wait. One of the **<span style="color: #FD0061">Moderators</span>** will check your intro, Remove **FNG** and assign you **Human**.
 
 Congrats! You are in!
 
@@ -203,7 +203,7 @@ A lucky few have seen his face but everyone has seen his work. Megladon is the m
 **<span style="color: yellow">STAFF</span>**
 For a ship to set sail, many hands are required on deck. Our staff rise to this challenge by doing things like creating and assigning new roles, organising and running events, growing the community and contributing to Hack South in whatever way they can.
 
-**<span style="color: pink">Moderator</span>**  
+**<span style="color: #FD0061">Moderator</span>**  
 While the city of Gotham sleeps, our superheroes are keeping watch. Our mods are ready to welcome newcomers, help out when you have a problem and ensure that everyone is sticking to the code of conduct.
 
 **Commemorate achievements**
@@ -232,7 +232,7 @@ Our Discord server has a ton of channels to serve the various interests our comm
 
 - **Meetups** - Join us once a month for our Hack The Box meetup where you're likely to learn something new (and if not, why not help others learn).
 
-- **<span style="color: purple">CTF Crew*</span>** - Have you got an account Hack the Box, TryHackMe, VulnHub and TraceLabs? You'll find dedicated channels here.
+- **<span style="color: purple">CTF Crew</span>** - Have you got an account Hack the Box, TryHackMe, VulnHub and TraceLabs? You'll find dedicated channels here.
 
 - **Hacker Education Zone** - Dedicated to education and certification, these channels are where you'll find resources and advice on which path you should be following.
 
