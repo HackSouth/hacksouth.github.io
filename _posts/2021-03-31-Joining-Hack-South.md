@@ -2,7 +2,7 @@
 title: "Joining Hack South - The Skid guide to HS and Discord"
 author: 
 header:
-  teaser: /assets/images/Joining_HS/Hacksouth_9.png
+  teaser: /assets/images/Joining_HS/HSneon.png
 excerpt_separator: "<!--more-->"
 categories:
  - Community
