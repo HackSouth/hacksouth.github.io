@@ -233,19 +233,19 @@ Our Discord server has a ton of channels to serve the various interests our comm
 
 - **Meetups** - Join us once a month for our Hack The Box meetup where you're likely to learn something new (and if not, why not help others learn).
 
-- **CTF Crew** - Have you got an account Hack the Box, TryHackMe, VulnHub and TraceLabs? You'll find dedicated channels here.
+- **<span style="color: purple">CTF Crew*</span>* - Have you got an account Hack the Box, TryHackMe, VulnHub and TraceLabs? You'll find dedicated channels here.
 
 - **Hacker Education Zone** - Dedicated to education and certification, these channels are where you'll find resources and advice on which path you should be following.
 
 - **General Security** - #Coding, #hardware-hacking, #bug-bounty and more live here.
 
-- **Red Team** - Channels dedicated to the practice of challenging plans, policies, systems and assumptions.
+- **<span style="color: red">Red Team</span>** - Channels dedicated to the practice of challenging plans, policies, systems and assumptions.
 
-- **Blue Team** - Channels dedicated to the frontline fighters protecting critical assets against threats.
+- **<span style="color: blue">Blue Team</span>** - Channels dedicated to the frontline fighters protecting critical assets against threats.
 
 - **OSINT / SE** - Wondering how we know so much about you? Get involved with Open Source Intelligence. You can even hone your skills during a quiz or challenge.
 
-- **Employment** - If you're looking for a job opportunity or career change then share your CV in #job-seekers. Our community will also post to #job-opportunities when something comes up, so keep an eye on that channel.
+- **<span style="color: orange">Employment</span>** - If you're looking for a job opportunity or career change then share your CV in #job-seekers. Our community will also post to #job-opportunities when something comes up, so keep an eye on that channel.
 
 - **Missing Persons** - Dedicated to locating missing persons. If you need help locating someone, or want to help then this is where you'll want to spend your time.
 
