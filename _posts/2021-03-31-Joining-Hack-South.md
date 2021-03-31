@@ -78,8 +78,8 @@ When you join the server you will see the following prompt.
 
 Once you proceed you will see just 2 channels.
 
-**[New To HackSouth](https://discord.gg/SMpGnXNB)**
-<span>** style="color: red">**[Code Of Conduct](https://discord.gg/KJeYk4dv)**</span>
+- **[New To HackSouth](https://discord.gg/SMpGnXNB)**
+- <span style="color: red">**[Code Of Conduct](https://discord.gg/KJeYk4dv)**</span>
 
 With the **[New To HackSouth](https://discord.gg/SMpGnXNB)** channel you will see a message you are tagged in, welcoming you and explaining what you need to do. Your first job is to go over to <span style="color: red">**[Code Of Conduct](https://discord.gg/KJeYk4dv)**</span>  and read the Code of Conduct. If you are happy with it and good to accept, you scroll to the bottom and click on the `Thumbs Up` Emoji. As soon as you do, you will get the role **CoC Verified** and thus you have 2 roles.  
 
