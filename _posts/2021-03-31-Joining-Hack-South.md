@@ -91,8 +91,7 @@ As a growing community, we ask kindly that you adhere to the rules and respect t
 
 ### Introductions
 
-<br/>
-<iframe src="https://giphy.com/embed/fnuSiwXMTV3zmYDf6k" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fnuSiwXMTV3zmYDf6k">via GIPHY</a></p>  
+<iframe style="margin-top: 10px" src="https://giphy.com/embed/fnuSiwXMTV3zmYDf6k" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fnuSiwXMTV3zmYDf6k">via GIPHY</a></p>  
 
 In **[WhoAmI Introductions](https://discord.gg/j5ErcwbY)** you need to introduce yourself. Nothing crazy, we do not want to know your mother's maiden name. Keep it simple. For example.
 
@@ -124,8 +123,7 @@ Congrats! You are in!
 
 Now we will look at roles to improve your experience!  
 
-<br/>
-<iframe src="https://giphy.com/embed/3o6fJ1BM7R2EBRDnxK" width="480" height="234" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/congratulations-congrats-3o6fJ1BM7R2EBRDnxK">via GIPHY</a></p>
+<iframe style="margin-top: 10px" src="https://giphy.com/embed/3o6fJ1BM7R2EBRDnxK" width="480" height="234" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/congratulations-congrats-3o6fJ1BM7R2EBRDnxK">via GIPHY</a></p>
 
 ### Role Assignment
 
@@ -155,7 +153,7 @@ Highlight interests
 
 Role assignment is critical for ensuring a tailored experience on Discord and should be done as soon as possible. Assigning a role is simple, read through each of the the messages on #🔥-roles-assignment and react with the relevant emoji.
 
-For example; if you're interested in Capture The Flags and want to join the crew or be notified about CTF events you'd react with the 🚩 emoji. This will give you the “CTF Team” role and you'll be notified anytime the CTF Crew is mentioned.  
+For example; if you're interested in Capture The Flags and want to join the crew or be notified about CTF events you'd react with the 🚩 emoji. This will give you the "CTF Team" role and you'll be notified anytime the CTF Crew is mentioned.  
 
 ![CTF Roles]( /assets/images/Joining_HS/CTF_Roles.png){: .align-center}
 
