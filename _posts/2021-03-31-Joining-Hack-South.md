@@ -91,8 +91,8 @@ As a growing community, we ask kindly that you adhere to the rules and respect t
 
 ### Introductions
 
-<iframe src="https://giphy.com/embed/fnuSiwXMTV3zmYDf6k" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fnuSiwXMTV3zmYDf6k">via GIPHY</a></p>  
 <br/>
+<iframe src="https://giphy.com/embed/fnuSiwXMTV3zmYDf6k" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fnuSiwXMTV3zmYDf6k">via GIPHY</a></p>  
 
 In **[WhoAmI Introductions](https://discord.gg/j5ErcwbY)** you need to introduce yourself. Nothing crazy, we do not want to know your mother's maiden name. Keep it simple. For example.
 
@@ -118,12 +118,13 @@ Highlight something that makes you unique.
 - Your passwords
 - Your mother's maiden name
 
-When you have completed your introduction all you have to do is wait. One of the **<span style="color: purple">Purple</span>Moderators** will check your intro, Remove **FNG** and assign you **Human**.
+When you have completed your introduction all you have to do is wait. One of the **<span style="color: purple">Purple</span> Moderators** will check your intro, Remove **FNG** and assign you **Human**.
 
 Congrats! You are in!
 
 Now we will look at roles to improve your experience!  
 
+<br/>
 <iframe src="https://giphy.com/embed/3o6fJ1BM7R2EBRDnxK" width="480" height="234" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/congratulations-congrats-3o6fJ1BM7R2EBRDnxK">via GIPHY</a></p>
 
 ### Role Assignment
@@ -262,8 +263,13 @@ Come join us to find out more.
 Special thanks to the contributors of this post! If you have any questions or still find yourself struggling, please do DM a mod, or reach out on social media. We are here to help.
 
 Author [Parity](https://twitter.com/parity_0x1)
+
 Author [BeccaQ](https://twitter.com/DotBecca)
+
 Co-Author [Mooncake](https://twitter.com/GeoffChisnall)
+
 Co-Author [Megladon](https://twitter.com/IPmegladon)
+
 Co-Author [AngusRed](https://twitter.com/AngusRedBlue)
+
 Proof Editor [AtomicNicos](https://twitter.com/AtomicNicos)
