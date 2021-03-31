@@ -30,7 +30,7 @@ Come read more!
 
 Hack South is first and foremost a community of people based in South Africa but open to the world. Our growing community has a great variety of members, some of which are passionate information security practitioners, open-source investigators, developers, digital rights advocates and some are from a variety of other fields (even some totally unrelated to computers).
 
-<iframe src="https://giphy.com/embed/3oKIPlCroSFHV8uoko" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-glitch-matrix-3oKIPlCroSFHV8uoko">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/UFGj6EYw5JhMQ" width="480" height="273" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UFGj6EYw5JhMQ">via GIPHY</a></p>
 
 ### Why should you join?
 
