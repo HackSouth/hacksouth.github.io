@@ -266,6 +266,8 @@ Come join us to find out more.
 
 ### Special Thanks
 
+<iframe src="https://giphy.com/embed/V6nlJFiTiMmUnhh4PU" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ncaasports-V6nlJFiTiMmUnhh4PU">via GIPHY</a></p>
+
 Special thanks to the contributors of this post! If you have any questions or still find yourself struggling, please do DM a mod, or reach out on social media. We are here to help.
 
 Author [Parity](https://twitter.com/parity_0x1)
