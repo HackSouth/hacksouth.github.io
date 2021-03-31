@@ -13,13 +13,13 @@ tags:
 
 ### TL;DR
 
-* Create a Discord Account
-* Join the Hack South Server
-* Accept the Code of Conduct (#coc-members)
-* Introduce yourself on #whoami-introduction
-* Assign roles by visiting #roles-assignment
-* Explore our channels
-* Get involved
+* [Create a Discord Account](https://hacksouth.africa/community/Joining-Hack-South/#step-2-create-an-account)
+* [Join the Hack South Server](https://hacksouth.africa/community/Joining-Hack-South/#step-3-join-the-hack-south-server)
+* [Accept the Code of Conduct (#coc-members)](https://hacksouth.africa/community/Joining-Hack-South/#code-of-conduct-coc--general-house-rules)
+* [Introduce yourself on #whoami-introduction](https://hacksouth.africa/community/Joining-Hack-South/#introductions)
+* [Assign roles by visiting #roles-assignment](https://hacksouth.africa/community/Joining-Hack-South/#role-assignment)
+* [Explore our channels](https://hacksouth.africa/community/Joining-Hack-South/#channels)
+
 
 ### What is Hack South
 
@@ -56,9 +56,9 @@ No surprises here, but you're going to need Discord. You can grab it directly fr
 
 Discord was originally built for the browser, so if you’re on the go or prefer to save some hard-drive space go ahead and use it via your browser instead (https://discord.com/app).
 
-"Discord is a VoIP, instant messaging and digital distribution platform designed for creating communities. Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers"
+> "Discord is a VoIP, instant messaging and digital distribution platform designed for creating communities. Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers"
 
-Discord has multiple servers and within those servers, channels that are created to guide people on the server to places of interest, like CTF channels and so on. For the OG's, think of it like IRC but with less eye-scorching background colour combinations and no need for cloaking. There's also these animated pictures called gifs. You'll see what we mean soon enough.
+> Discord has multiple servers and within those servers, channels that are created to guide people on the server to places of interest, like CTF channels and so on. For the OG's, think of it like IRC but with less eye-scorching background colour combinations and no need for cloaking. There's also these animated pictures called gifs. You'll see what we mean soon enough.
 
 ### **Step 2: Create an Account**
 
@@ -131,10 +131,10 @@ Discord controls features through the use of roles. A single role can be assigne
 Our roles serve 4 primary purposes:
 
 
-Highlight interests
-Unlock specific channels
-Designate rank
-Commemorate achievements
+* Highlight interests
+* Unlock specific channels
+* Designate rank
+* Commemorate achievements
 
 You’re now verified, have access to most of the channels and can head over to the #🔥-roles-assignment channel to grab some more. 
 
@@ -159,7 +159,7 @@ For example; if you’re interested in Capture The Flags and want to join the cr
 
 Roles are constantly changing and expanding, so make sure you’re checking the #🔥-roles-assignment channel regularly.
 
-Unlock specific channels
+**Unlock specific channels**
 
 Whilst joining the Discord server automatically gives you access to most channels, there are a few that are opt-in only. You opt-in by assigning specific roles or having specific roles assigned to you by a moderator.
 
@@ -187,18 +187,22 @@ Have you read Lord of The Flies? No, ok then just know that things don’t work 
 
 We want Hack South to remain a welcoming and safe community for everyone, and so we have to have some structure. You’ll be able to identify the volunteers who dedicate time and energy to ensuring the lights stay on by the roles that they ‘wear’.
 
-**Root** - AngusRed is his name and making the final call and driving the direction of the community is his game. He’s super passionate about the industry so reach out to say “Hi”, offer a hand or drop a CV.
+**Root**  
+AngusRed is his name and making the final call and driving the direction of the community is his game. He’s super passionate about the industry so reach out to say “Hi”, offer a hand or drop a CV.
 
 
-**El’Presidente** - A lucky few have seen his face but everyone has seen his work. Megladon is the man behind the scene, constantly tightening nuts and bolts of the server, ensuring it runs for all of our pleasure.
+**El’Presidente**  
+A lucky few have seen his face but everyone has seen his work. Megladon is the man behind the scene, constantly tightening nuts and bolts of the server, ensuring it runs for all of our pleasure.
 
 
-**Staff** - For a ship to set sail, many hands are required on deck. Our staff rise to this challenge by doing things like creating and assigning new roles, organising and running events, growing the community and contributing to Hack South in whatever way they can.
+**Staff**  
+For a ship to set sail, many hands are required on deck. Our staff rise to this challenge by doing things like creating and assigning new roles, organising and running events, growing the community and contributing to Hack South in whatever way they can.
 
 
-**Moderators** - While the city of Gotham sleeps, our superheroes are keeping watch. Our mods are ready to welcome newcomers, help out when you have a problem and ensure that everyone is sticking to the code of conduct.
+**Moderators**  
+While the city of Gotham sleeps, our superheroes are keeping watch. Our mods are ready to welcome newcomers, help out when you have a problem and ensure that everyone is sticking to the code of conduct.
 
-Commemorate achievements
+**Commemorate achievements**
 
 Lastly, you’ll see some of our members wear specific roles like badges of honour. Boost the server (https://support.discord.com/hc/en-us/articles/360028038352-Server-Boosting-) and become a **Server Boosting Legend.** Speak at a major conference like Defcon, BlackHat and BSides and get a speaker role. Be a great human, help out and contribute and become an **Honourable Member.**
 
@@ -210,22 +214,19 @@ Last but not least, there are some fun and humorous roles that we like to hand o
 
 Our Discord server has a ton of channels to serve the various interests our community members hold. To help navigate the treacherous landscape we’ve grouped them into these primary categories;
 
-* Welcome Mat - When you’re new to HS this is where you’ll start out. It houses those critical channels like #coc-members, #whoami-introduction and #roles-assignment.
+* **Welcome Mat** - When you’re new to HS this is where you’ll start out. It houses those critical channels like #coc-members, #whoami-introduction and #roles-assignment.
+
+* **Hangouts** - Home of #main, the most popular channel where we share and discuss things relevant to most in the infosec community. Not really applicable to everyone, stick it in #random or make someone laugh by posting something humorous in #lulz-meme-jokes.
+
+* **Friend Zone** - Dedicated to specific interests like finance, books, gaming or to simply create braai envy among us.
+
+* **Hack South Collective** - Did you know we’re passionate about growth and upskilling? Get involved with our initiatives here.
+
+* **News Central** - Stay up to date with COVID stats or verify a piece of media before sharing it with your uncle and aunty. News related? It’s here.
 
 
-* Hangouts - Home of #main, the most popular channel where we share and discuss things relevant to most in the infosec community. Not really applicable to everyone, stick it in #random or make someone laugh by posting something humorous in #lulz-meme-jokes.
+* **Hacker Social** - Dedicated to conferences, events and socials.
 
-
-* Friend Zone - Dedicated to specific interests like finance, books, gaming or to simply create braai envy among us.
-
-
-* Hack South Collective - Did you know we’re passionate about growth and upskilling? Get involved with our initiatives here.
-
-
-* News Central - Stay up to date with COVID stats or verify a piece of media before sharing it with your uncle and aunty. News related? It’s here.
-
-
-* Hacker Social - Dedicated to conferences, events and socials.
 * **Meetups** - Join us once a month for our Hack The Box meetup where you’re likely to learn something new (and if not, why not help others learn).
 
 * **CTF Crew** - Have you got an account Hack the Box, TryHackMe, VulnHub and TraceLabs? You’ll find dedicated channels here.
@@ -250,7 +251,7 @@ Our Discord server has a ton of channels to serve the various interests our comm
 * **Missing Persons** - Dedicated to locating missing persons. If you need help locating someone, or want to help then this is where you’ll want to spend your time.
 
 
-VC or Voice Channels
+### VC or Voice Channels
 
 
 You’ll notice that some of the channels have a speaker icon and “VC” or “Voice” in their name. Hopefully you're sitting down for this shocker, but those are voice channels, as in audible channels, as in channels that relay your microphone (and camera) and broadcast it to everyone else in the channel. Point to note if you mute yourself, we wont hear you. Video and screen streaming is by default, off. 
@@ -273,4 +274,6 @@ Special thanks to the contributors of this post! If you have any questions or st
 
 Author [Parity](https://twitter.com/parity_0x1)
 Author [BeccaQ](https://twitter.com/DotBecca)
+Co-Author [Mooncake](https://twitter.com/GeoffChisnall)
+Co-Author [Megladon](https://twitter.com/IPmegladon)
 Co-Author [AngusRed](https://twitter.com/AngusRedBlue)
