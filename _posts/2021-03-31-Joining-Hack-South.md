@@ -29,6 +29,8 @@ Come read more!
 
 Hack South is first and foremost a community of people based in South Africa but open to the world. Our growing community has a great variety of members, some of which are passionate information security practitioners, open-source investigators, developers, digital rights advocates and some are from a variety of other fields (even some totally unrelated to computers).
 
+<iframe src="https://giphy.com/embed/3oKIPlCroSFHV8uoko" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-glitch-matrix-3oKIPlCroSFHV8uoko">via GIPHY</a></p>
+
 ### Why should you join?
 
 The nature of the Cybersecurity field is a fast growing and rapidly changing environment where staying up to date can be daunting. We try our best to keep providing relevant threat intel, crazy exploits and cool tricks to add to your arsenal. Being a community driven platform, we encourage people to speak about what they've found and help the rest learn from you as you will learn from them.
@@ -39,8 +41,9 @@ Maybe you are on the hunt for a job? We have an employment area where people pos
 
 We also know that sitting behind a keyboard and crushing war games is exhilarating but sometimes you need somebody to give a virtual high five to. With the like minded individuals on Hack South, you are sure to find somebody who is happy to work through some boxes and challenges with you for that extra satisfaction of sharing a win.
 
-It's not all cyber though! We have gaming channels, book clubs, meme channels, media verifiers, daily motivation, social areas for when you want to sit in the virtual lounge and talk about whatever, and more. We are always looking for unique interests and hobbies so bring them along and see if you can make some more friends in an unassuming place.
+It's not all cyber though! We have gaming channels, book clubs, meme channels, media verifiers, daily motivation, social areas for when you want to sit in the virtual lounge and talk about whatever, and more. We are always looking for unique interests and hobbies so bring them along and see if you can make some more friends in an unassuming place.  
 
+<iframe src="https://giphy.com/embed/oFvFtrhrmIFFe" width="412" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mr-robot-gif-art-portrait-oFvFtrhrmIFFe">via GIPHY</a></p>
 
 ### What can I do on Hack South's Discord
 
