@@ -234,7 +234,7 @@ Our Discord server has a ton of channels to serve the various interests our comm
 
 - **Meetups** - Join us once a month for our Hack The Box meetup where you're likely to learn something new (and if not, why not help others learn).
 
-- **<span style="color: purple">CTF Crew*</span>* - Have you got an account Hack the Box, TryHackMe, VulnHub and TraceLabs? You'll find dedicated channels here.
+- **<span style="color: purple">CTF Crew*</span>** - Have you got an account Hack the Box, TryHackMe, VulnHub and TraceLabs? You'll find dedicated channels here.
 
 - **Hacker Education Zone** - Dedicated to education and certification, these channels are where you'll find resources and advice on which path you should be following.
 
