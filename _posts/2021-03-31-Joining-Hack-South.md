@@ -95,6 +95,8 @@ As a growing community, we ask kindly that you adhere to the rules and respect t
 
 In **[WhoAmI Introductions](https://discord.gg/j5ErcwbY)** you need to introduce yourself. Nothing crazy, we do not want to know your mother’s maiden name. Keep it simple. For eg.  
 
+<iframe src="https://giphy.com/embed/fnuSiwXMTV3zmYDf6k" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fnuSiwXMTV3zmYDf6k">via GIPHY</a></p>  
+
 “Hi, I am Such and Such, I work in development and have a keen interest in infosec. I hail from JHB, and heard about Hack South from a friend”  
 
 All we are keen to understand is: 
@@ -122,7 +124,9 @@ When you have completed your introduction all you have to do is wait. One of the
 
 Congrats! You are in!
 
-Now we will look at roles to improve your experience!
+Now we will look at roles to improve your experience!  
+
+<iframe src="https://giphy.com/embed/3o6fJ1BM7R2EBRDnxK" width="480" height="234" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/congratulations-congrats-3o6fJ1BM7R2EBRDnxK">via GIPHY</a></p>
 
 ### Role Assignment
 
