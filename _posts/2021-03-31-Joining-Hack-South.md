@@ -12,8 +12,6 @@ tags:
 ---
 Hack South is first and foremost a community of people based in South Africa but open to the world. Our growing community has a great variety of members, some of which are passionate information security practitioners, open-source investigators, developers, digital rights advocates and some are from a variety of other fields (even some totally unrelated to computers).
 
-Come read more!
-
 <!--more-->
 ### TL;DR
 
