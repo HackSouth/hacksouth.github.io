@@ -23,6 +23,7 @@ Come read more!
 - [Introduce yourself on #whoami-introduction](https://hacksouth.africa/community/Joining-Hack-South/#introductions)
 - [Assign roles by visiting #roles-assignment](https://hacksouth.africa/community/Joining-Hack-South/#role-assignment)
 - [Explore our channels](https://hacksouth.africa/community/Joining-Hack-South/#channels)
+- [Voice Chat and VC Verified](https://hacksouth.africa/community/Joining-Hack-South/#vc-or-voice-channels) 
 
 
 ### What is Hack South
