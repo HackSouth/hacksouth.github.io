@@ -256,6 +256,8 @@ Most VC's (voice channels) are specific to events, like HTB Meetup a CTF or 0xCo
 
 In order to weed out any lurkers, you will be required to audibly introduce yourself to everyone currently in the channel. Satisfied with the intro, a staff or moderator will grant you the **VC-Verified** role and you'll be free to stay and hang out. Just remember to respect one another, mute your mic when you aren't talking and be careful not to dox yourself when sharing your screen or camera.
 
+Point to note, if we are using 1 of the 3 Music bots to play tunes, and it is a bit loud you can turn the music down, or up, including any other user. Just go to the corresponding user, right click and adjust the user volume. You also have the option to mute any user, and Mods have the ability to server mute people. This is usually only done during formal meetups where people join and do not mute themselves. 
+
 ### Things to check out
 
 From resources to community chats, we are growing fast and always have something for everyone. The cyber community has never been at a more exciting time.
