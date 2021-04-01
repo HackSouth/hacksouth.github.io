@@ -250,13 +250,13 @@ Our Discord server has a ton of channels to serve the various interests our comm
 
 ### VC or Voice Channels
 
-You'll notice that some of the channels have a speaker icon and "VC" or "Voice" in their name. Hopefully you're sitting down for this shocker, but those are voice channels, as in audible channels, as in channels that relay your microphone (and camera) and broadcast it to everyone else in the channel. Point to note if you mute yourself, we wont hear you. Video and screen streaming is by default, off.
+You'll notice that some of the channels have a speaker icon and "VC" or "Voice" in their name. Hopefully you're sitting down for this shocker, but those are voice channels, as in audible channels, as in channels that relay your microphone (and camera) and broadcast it to everyone else in the channel. Point to note if you mute yourself, we won't hear you. Video and screen streaming is by default, off.
 
 Most VC's (voice channels) are specific to events, like HTB Meetup a CTF or 0xCoffee, but there is one VC that rules them all and that is **Main VC - PG** This is where some of us like to hangout, listen to music and do life together. Anything goes (provided it doesn't contravene the COC) but if it's your first time at fight club, you have to fight.
 
 In order to weed out any lurkers, you will be required to audibly introduce yourself to everyone currently in the channel. Satisfied with the intro, a staff or moderator will grant you the **VC-Verified** role and you'll be free to stay and hang out. Just remember to respect one another, mute your mic when you aren't talking and be careful not to dox yourself when sharing your screen or camera.
 
-Point to note, if we are using 1 of the 3 Music bots to play tunes, and it is a bit loud you can turn the music down, or up, including any other user. Just go to the corresponding user, right click and adjust the user volume. You also have the option to mute any user, and Mods have the ability to server mute people. This is usually only done during formal meetups where people join and do not mute themselves. 
+Point to note, if we are using 1 of the 3 Music bots to play tunes, and it is a bit loud you can turn the music down, or up, including any other user. Just go to the corresponding user, right click and adjust the user volume. You also have the option to mute any user, and Mods have the ability to server mute people. This is usually only done during formal meetups where people join and do not mute themselves.
 
 ### Things to check out
 
@@ -268,7 +268,7 @@ Come join us to find out more.
 
 ### Special Thanks
 
-<iframe src="https://giphy.com/embed/V6nlJFiTiMmUnhh4PU" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ncaasports-V6nlJFiTiMmUnhh4PU">via GIPHY</a></p>
+<iframe style="margin-top: 10px" src="https://giphy.com/embed/V6nlJFiTiMmUnhh4PU" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ncaasports-V6nlJFiTiMmUnhh4PU">via GIPHY</a></p>
 
 Special thanks to the contributors of this post! If you have any questions or still find yourself struggling, please do DM a mod, or reach out on social media. We are here to help.
 
