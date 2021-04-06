@@ -180,6 +180,8 @@ Some common op-in channels include;
 **Employment area** - includes channels for job seekers and employers, if you are one of these, be sure to opt-in to this channel group.
 
 
+### Hack South Lite™️ 
+
 We also realise that such a large community with diverse interests can quickly lead to channel mania. It's for this reason that we have created the Hack South Lite role. This is the role for you if you just want to get your feet wet or refine your Discord experience to "must-know" content only.
 
 
@@ -188,7 +190,7 @@ We also realise that such a large community with diverse interests can quickly l
 
 Just hit the  emoji under #🔥-roles-assignment and immediately strip away 70% of what the server has to offer. We're not going to judge you for doing this, but don't blame us if you have FOMO or miss any 0-days.
 
-Designate rank
+### Designate rank
 
 Have you read Lord of The Flies? No, ok then just know that things don't work out so well for a bunch of kids, stranded on an island with a lack of leadership and boundaries.
 
