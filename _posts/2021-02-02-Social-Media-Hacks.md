@@ -209,8 +209,8 @@ A great talk from DEF CON, the worlds biggest Hacker Conference attended by 5000
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xyF7VyFRqjY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-How She Hacked My Instagram Account
-<iframe width="560" height="215" src="https://videos.wizer-training.com/videos/dba6a943ffde429890ca35e23b7c1314" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Great video of a 200k strong IG account suffering an account takeover from a verified account
+[How She Hacked My Instagram Account](https://videos.wizer-training.com/videos/dba6a943ffde429890ca35e23b7c1314)
 
 
 ### References and Links
