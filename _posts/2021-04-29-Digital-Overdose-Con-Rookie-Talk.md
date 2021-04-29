@@ -5,15 +5,13 @@ header:
   teaser: /assets/images/BeccaQ/page1.png
 excerpt_separator: "<!--more-->"
 categories:
- - 
+ - Conferences
 tags:
  - Digital Overdose Con 
- - 
+ - Rookie Speaker
 ---
 
-
-## Rookie
-
+<!--more-->
 
 ![DOC](/assets/images/BeccaQ/page1.png){: .align-center}
 ![DOC](/assets/images/BeccaQ/page2.png){: .align-center}
@@ -26,6 +24,3 @@ tags:
 ![DOC](/assets/images/BeccaQ/page9.png){: .align-center}
 ![DOC](/assets/images/BeccaQ/page10.png){: .align-center}
 ![DOC](/assets/images/BeccaQ/page11.png){: .align-center}
-
-
-

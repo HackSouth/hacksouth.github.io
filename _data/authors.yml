@@ -105,3 +105,15 @@ MunX:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/the-munx"
+
+BeccaQ:
+  name: BeccaQ
+  bio: "Hack South member and rookie speaker. BSA graduate with a passion for cybersec and tech."
+  avatar: "/assets/images/authors/beccaq.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/dotbecca"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/beccaish"
