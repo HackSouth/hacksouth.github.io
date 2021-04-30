@@ -13,14 +13,14 @@ tags:
 
 <!--more-->
 
-![DOC](/assets/images/BeccaQ/page1.png){: .align-center}
-![DOC](/assets/images/BeccaQ/page2.png){: .align-center}
-![DOC](/assets/images/BeccaQ/page3.png){: .align-center}
-![DOC](/assets/images/BeccaQ/page4.png){: .align-center}
-![DOC](/assets/images/BeccaQ/page5.png){: .align-center}
-![DOC](/assets/images/BeccaQ/page6.png){: .align-center}
-![DOC](/assets/images/BeccaQ/page7.png){: .align-center}
-![DOC](/assets/images/BeccaQ/page8.png){: .align-center}
-![DOC](/assets/images/BeccaQ/page9.png){: .align-center}
-![DOC](/assets/images/BeccaQ/page10.png){: .align-center}
-![DOC](/assets/images/BeccaQ/page11.png){: .align-center}
+![DOC](/assets/images/BeccaQ/page1.png)
+![DOC](/assets/images/BeccaQ/page2.png)
+![DOC](/assets/images/BeccaQ/page3.png)
+![DOC](/assets/images/BeccaQ/page4.png)
+![DOC](/assets/images/BeccaQ/page5.png)
+![DOC](/assets/images/BeccaQ/page6.png)
+![DOC](/assets/images/BeccaQ/page7.png)
+![DOC](/assets/images/BeccaQ/page8.png)
+![DOC](/assets/images/BeccaQ/page9.png)
+![DOC](/assets/images/BeccaQ/page10.png)
+![DOC](/assets/images/BeccaQ/page11.png)
