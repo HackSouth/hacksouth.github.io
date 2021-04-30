@@ -10,9 +10,13 @@ tags:
  - Digital Overdose Con 
  - Rookie Speaker
 ---
-// A journey through the rookie talk, prep and the details behind the amazing con. 
+A journey through my first rookie talk, how I prepped for it and the details behind the amazing con, which happened on the weekend of the 17th and the 18th of April 2021.
+
+I spoke about a topic close to me, namely the usage of technology in business, or as I put it: "Bizops in Motion".
+
 2021 is a year of opportunity. Let's make the most of this year.
-More posts to come !
+
+More posts to come!
 <!--more-->
 
 ![DOC](/assets/images/BeccaQ/page1.png)
