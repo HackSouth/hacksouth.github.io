@@ -10,7 +10,7 @@ tags:
  - Digital Overdose Con 
  - Rookie Speaker
 ---
-
+// A journey through the rookie talk, prep and the details behind the amazing con.
 <!--more-->
 
 ![DOC](/assets/images/BeccaQ/page1.png)
