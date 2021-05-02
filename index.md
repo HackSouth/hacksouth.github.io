@@ -2,6 +2,8 @@
 layout: single
 title: Hack South Cyber Community
 author_profile: true
+related: true
+id: true
 header:
   og_image: /assets/images/hslogo_block.png
 ---

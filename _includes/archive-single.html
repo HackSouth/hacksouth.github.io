@@ -10,7 +10,7 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
+<div class="{{ include.type | default: 'list' }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
@@ -24,14 +24,12 @@
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    {% if post.read_time %}
-      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
+    {% include page__meta.html type=include.type %}
+    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">
+      {% if include.type == "list" %}
+        {% if post.header.teaser %}<img src="{{ post.header.teaser }}" alt="" style="float:right; margin-right:10px; margin-left:20px; margin-bottom:10px; height:120px;">{% endif %}
+      {% endif %}
+      {{ post.excerpt | markdownify | strip_html | truncate: 512 }}</p>
     {% endif %}
-
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{% if post.header.teaser %}<img src="{{ post.header.teaser }}" alt="" style="float: right;margin-right:10px; margin-left:20px; margin-bottom:10px; height:120px;">{% endif %}{{ post.excerpt | markdownify | strip_html | truncate: 1024 }}</p>{% endif %}
-    <i class="fas fa-tags"></i>
-    {% for tag in post.tags %}
-      <a href="/tags/#{{ tag }}" class="page__meta btn" rel="tag">{{ tag }}</a>
-    {% endfor %}
   </article>
 </div>

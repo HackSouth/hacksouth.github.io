@@ -1,0 +1,6 @@
+# User interface text and labels
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  related_label              : "Recent posts"
