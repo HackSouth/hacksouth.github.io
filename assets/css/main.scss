@@ -55,16 +55,16 @@ img.bio-flag {
   display: inline-block;
 }
 
+.archive__item-teaser {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
 .calendar-events {
   list-style: none;
 }
 
 .calendar-event-date {
   font-weight: bold;
-}
-
-.archive__item-teaser {
-  justify-content: center;
-  display: flex;
-  align-items: center;
 }
