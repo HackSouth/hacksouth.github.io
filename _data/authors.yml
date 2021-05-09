@@ -21,6 +21,9 @@ spymky:
   bio: "Systems architect, security ethusiast, CTF player."
   avatar: "/assets/images/authors/spymky.png"
   links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://spymky.dev/"
     - label: "Hack The Box"
       icon: "fab fa-fw fa-font-awesome-flag"
       url: "https://www.hackthebox.eu/home/users/profile/128268"
