@@ -86,8 +86,8 @@ AtomicNicos:
       url: "https://keybase.io/atomicnicos"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/AtomicNicos"  
-      
+      url: "https://github.com/AtomicNicos"
+
 MunX:
   name: MunX
   bio: "Hacker, Security Analyst, Researcher, Penetration Tester, OSINTeer, Wannabe Philanthropist"
@@ -120,3 +120,18 @@ BeccaQ:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/beccaish"
+
+jaco-za:
+  name: "Jaco"
+  bio: "Hack South member and DFIR analyst looking to train more Blue Teamers. Author of SocVel."
+  avatar: "/assets/images/authors/jaco-za.jpg"
+  links:
+    - label: "Blog"
+      icon: "fas fa-fw fa-blog"
+      url: "http://www.dfir.co.za/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jaco_za"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jaco-za"
