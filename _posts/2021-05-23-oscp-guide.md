@@ -1,9 +1,15 @@
-# A Guide for Preparing and Passing the OSCP Exam
+---
+title: "OSCP Exam Guide: Preparing and Passing"
+author: "oncybersec"
+header:
+  teaser: /assets/images/OSCP/oscp.png
+categories:
+ - Community
+tags:
+ - OSCP
+---
 
-![OSCP logo](/assets/images/OSCP/oscp.png){:.align-center}
-
-Table of Contents
-=================
+## Table of Contents
 
 * [Introduction](#introduction)
 * [Experience](#experience)
@@ -21,6 +27,8 @@ Table of Contents
 ## Introduction
 
 So you are planning to pursue the Offensive Security Certified Professional (OSCP) certification and are thinking about starting the Penetration Testing with Kali Linux (PWK) labs. This post covers some additional OSCP preparation that you can do before and after taking the PWK labs. It includes various tips that I used on how to prepare for and pass the OSCP. These tips are categorised into the following sections: pre-OSCP, PWK labs, post-labs, and exam. Links to useful resources are also provided for each section towards the end of the guide. Some of the tips provided in the pre-OSCP section may also apply to the PWK labs section. One key tip that applies to every stage of your preparation is backups. Things can go wrong and you could end up losing all your progress so ensure that you regularly back up your data.
+
+![OSCP logo](/assets/images/OSCP/oscp.png){:.align-center}
 
 ## Experience
 
@@ -93,13 +101,13 @@ Your exam date is fast approaching and you are wondering if there is anything mo
 - **Perform HTTP(S) enumeration last:** compared to other services, the HTTP(S) service covers a large area for enumeration and so one should look for low-hanging fruit in other services before enumerating HTTP(S).
 - **Set a time limit to avoid rabbit holes:** spend 30 minutes max on each port to avoid rabbit holes – if you don’t make any progress on port X after this time limit, move to another port. Return to port X after trying the other ports.
 - **Set a time limit on each machine:** set a 2-hour timer to work on each machine. If after 2 hours you are still stuck on the machine, move to another machine.
-- **Take frequent breaks:** you should be taking frequent breaks e.g. 15-minute breaks every 1-2 hours or when you make an important breakthrough in a machine. Although this is a 24-hour exam, you should also get some sleep.  
+- **Take frequent breaks:** you should be taking frequent breaks e.g. 15-minute breaks every 1-2 hours or when you make an important breakthrough in a machine. Although this is a 24-hour exam, you should also get some sleep.
 - **Document what you tried and why it didn't work:** this will allow you to keep a log of the different things you tried that didn’t work. This will prevent you from retrying the same technique repeatably and will make it easier to think of possible alternative techniques to try.
 - **Once you have enough points to pass, focus on the report:** ensure that you have not left out any steps by replicating each step in your report against the exam machines. It is also important to start your report before ending your exam time. This is because if you end your exam earlier, the 24-hours for the report will start from that point onwards.
 
 ## Conclusion
 
-This guide covered tips that I used to prepare for and pass the OSCP. The tips that were discussed covered each stage of my OSCP journey: pre-OSCP, PWK labs, post-labs and exam. Passing the OSCP exam is not an easy task and requires a lot of time and preparation to pass the exam. Doing some extra preparation before and after the PWK labs can help you develop and improve your penetration testing methodology, which will assist with taking the exam. The last section includes resources that I found useful when preparing for the OSCP. I hope that this guide will help you on your journey to become an OSCP.  
+This guide covered tips that I used to prepare for and pass the OSCP. The tips that were discussed covered each stage of my OSCP journey: pre-OSCP, PWK labs, post-labs and exam. Passing the OSCP exam is not an easy task and requires a lot of time and preparation to pass the exam. Doing some extra preparation before and after the PWK labs can help you develop and improve your penetration testing methodology, which will assist with taking the exam. The last section includes resources that I found useful when preparing for the OSCP. I hope that this guide will help you on your journey to become an OSCP.
 
 ![OSCP figure](/assets/images/OSCP/oscp_figure.jpg){:.align-center}
 
@@ -108,15 +116,15 @@ This guide covered tips that I used to prepare for and pass the OSCP. The tips t
 ### Pre-OSCP Resources
 
 - Methodology:
-  - [OSCP: Developing a Methodology (FalconSpy)](https://falconspy.medium.com/oscp-developing-a-methodology-32f4ab471fd6) 
+  - [OSCP: Developing a Methodology (FalconSpy)](https://falconspy.medium.com/oscp-developing-a-methodology-32f4ab471fd6)
   - [HackTricks](https://book.hacktricks.xyz/)
   - [0xdf hacks stuff](https://0xdf.gitlab.io/)
   - [OSCP Enumeration Cheat Sheet](https://github.com/oncybersec/oscp-enumeration-cheat-sheet)
-- Note taking: 
-  - [CherryTree](https://github.com/giuspen/cherrytree) 
+- Note taking:
+  - [CherryTree](https://github.com/giuspen/cherrytree)
   - [OSCP Cherry Tree template](https://411hall.github.io/assets/files/CTF_template.ctb)
-  - [Flameshot (screenshot software)](https://github.com/flameshot-org/flameshot)   
-- [Autorecon](https://github.com/Tib3rius/AutoRecon): automated enumeration 
+  - [Flameshot (screenshot software)](https://github.com/flameshot-org/flameshot)
+- [Autorecon](https://github.com/Tib3rius/AutoRecon): automated enumeration
 - OSCP-like machines:
   - [TJ Null’s OSCP-like machines list](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8)
   - [IppSec Hack the Box machines from Tj Null’s OSCP-like machines](https://www.youtube.com/playlist?list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf)
@@ -131,17 +139,17 @@ This guide covered tips that I used to prepare for and pass the OSCP. The tips t
   - [Windows Privilege Escalation Fundamentals (FuzzySecurity)](http://www.fuzzysecurity.com/tutorials/16.html)
   - [Basic Linux Privilege Escalation (g0tmi1k)](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
   - [Privilege escalation workshop (Sagi Shahar)](https://github.com/sagishahar/lpeworkshop)
-  - [Windows Privilege escalation course (Tib3rius)](https://www.udemy.com/course/windows-privilege-escalation/) 
-  - [Linux Privilege escalation course (Tib3rius)](https://www.udemy.com/course/linux-privilege-escalation/) 
+  - [Windows Privilege escalation course (Tib3rius)](https://www.udemy.com/course/windows-privilege-escalation/)
+  - [Linux Privilege escalation course (Tib3rius)](https://www.udemy.com/course/linux-privilege-escalation/)
   - Windows privilege escalation checklists:
-    - [HackTricks](https://book.hacktricks.xyz/windows/checklist-windows-privilege-escalation) 
-    - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md) 
+    - [HackTricks](https://book.hacktricks.xyz/windows/checklist-windows-privilege-escalation)
+    - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md)
   - Linux privilege escalation checklists:
-    - [HackTricks](https://book.hacktricks.xyz/linux-unix/linux-privilege-escalation-checklist) 
-    - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md) 
+    - [HackTricks](https://book.hacktricks.xyz/linux-unix/linux-privilege-escalation-checklist)
+    - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md)
   - Windows privilege escalation tools:
     - [WinPEAS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS/winPEASexe)
-    - [WinPEAS.bat](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS/winPEASbat): works on Windows machines that do not support .NET 4 
+    - [WinPEAS.bat](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS/winPEASbat): works on Windows machines that do not support .NET 4
   - Linux privilege escalation tools:
     - [Linux Smart Enumeration](https://github.com/diego-treitos/linux-smart-enumeration)
     - [LinPEAS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS)
@@ -151,13 +159,13 @@ This guide covered tips that I used to prepare for and pass the OSCP. The tips t
 
 ### PWK Labs Resources
 
-- [PWK Labs Learning Path](https://help.offensive-security.com/hc/en-us/articles/360050473812) 
+- [PWK Labs Learning Path](https://help.offensive-security.com/hc/en-us/articles/360050473812)
 - [National Vulnerability Database](https://nvd.nist.gov/)
 - Post-exploitation:
-  - [Windows](https://sushant747.gitbooks.io/total-oscp-guide/content/loot_windows_-_for_credentials_and_other_stuff.html) 
-  - [Linux](https://sushant747.gitbooks.io/total-oscp-guide/content/tcp-dumps_on_pwnd_machines.html) 
-- [Offensive Security Forums](https://forums.offensive-security.com/) 
-- [Offensive Security Community Chat](https://discord.com/invite/offsec) 
+  - [Windows](https://sushant747.gitbooks.io/total-oscp-guide/content/loot_windows_-_for_credentials_and_other_stuff.html)
+  - [Linux](https://sushant747.gitbooks.io/total-oscp-guide/content/tcp-dumps_on_pwnd_machines.html)
+- [Offensive Security Forums](https://forums.offensive-security.com/)
+- [Offensive Security Community Chat](https://discord.com/invite/offsec)
 
 ### Post-Labs Resources
 
@@ -172,7 +180,7 @@ This guide covered tips that I used to prepare for and pass the OSCP. The tips t
 - Reporting:
   - [OSCP lab and exam report templates](https://github.com/whoisflynn/OSCP-Exam-Report-Template)
   - [OSCP lab and exam report example 1](https://www.offensive-security.com/pwk-online/PWKv1-REPORT.doc)
-  - [OSCP lab and exam report example 2](https://www.offensive-security.com/pwk-online/PWK-Example-Report-v1.pdf) 
-- [Unofficial OSCP Approved Tools](https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707) 
-- [Set timer for 30 minutes using Google Search](https://www.google.com/search?q=set+timer+30+minutes) 
-- [Enabling logging in Terminator](https://stackoverflow.com/questions/34472973/how-to-activate-automatic-logging-in-terminator#answer-38187645) 
+  - [OSCP lab and exam report example 2](https://www.offensive-security.com/pwk-online/PWK-Example-Report-v1.pdf)
+- [Unofficial OSCP Approved Tools](https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707)
+- [Set timer for 30 minutes using Google Search](https://www.google.com/search?q=set+timer+30+minutes)
+- [Enabling logging in Terminator](https://stackoverflow.com/questions/34472973/how-to-activate-automatic-logging-in-terminator#answer-38187645)
