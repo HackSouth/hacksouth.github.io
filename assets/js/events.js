@@ -7,6 +7,8 @@ $(function() {
 
     $.getJSON('https://www.googleapis.com/calendar/v3/calendars/ksmjt575c3eijb9veeukl56j8vp02seo@import.calendar.google.com/events?singleEvents=true&orderBy=startTime&key=AIzaSyDBYQkd46PpGDbk2sl0ya-SiyZ_z9a790s&' + dateRange, function(data) {
       $.each(data.items, function(key, val) {
+        if (!val.summary || val.summary.toUpperCase() === "BSIDES MEETUP") { return; }
+
         if (val.start.dateTime) {
           var eventStart = moment(val.start.dateTime).format("D MMM");
         } else {
