@@ -40,7 +40,7 @@ A team from Benin finshed the top 5 spots, with South Africa 6th (myself) and th
 
 ![African DFIR](/assets/images/mooncakeza/african_dfir/placement.png){:.align-center}
 
-![African DFIR](/assets/images/mooncakeza/african_dfir/top10.png){:height="400px" width="300px"}
+![African DFIR](/assets/images/mooncakeza/african_dfir/top10.png){:height="400px" width="300px"}{:.align-center}
 
 I did write ups for all 4 weeks which you can check out on my blog [https://www.logoff.co.za](https://www.logoff.co.za) to get an idea of what the challenges were like.
 
