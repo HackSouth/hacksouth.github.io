@@ -12,8 +12,6 @@ tags:
  - CTF
 ---
 
-## African Digital Forensics CTF
-
 The [United Nations Cybercrime Unit](https://twitter.com/UN__Cyber) in Africa, lead by [Carmen Corbin_UN](https://twitter.com/CarmenCorbin_UN) created a unique Digital Forensics CTF competition for the month of May. This was only open for the African continent for people who are keen to see how their skills are in the digital forensics cybersecurity field. I for one do not work in the digital forensics field so I wanted to see how I would do in this but having worked as a systems administrator for most of my career, and now trying to make a move into offensive / forensics security, I was keen to find out.
 
 ![African DFIR](/assets/images/mooncakeza/african_dfir/logo1.png){:.align-center}
