@@ -154,7 +154,7 @@ oncybersec:
 mooncakeza:
   name: "mooncakeza"
   bio: "chookity pok!"
-  avatar: "/assets/images/authors/mooncakeza.jpg"
+  avatar: "/assets/images/authors/mooncakeza.png"
   links:
     - label: "Blog"
       icon: "fas fa-fw fa-blog"
