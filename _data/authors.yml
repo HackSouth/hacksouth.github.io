@@ -151,7 +151,7 @@ oncybersec:
       icon: "fab fa-fw fa-github"
       url: https://github.com/oncybersec
       
-  mooncakeza:
+mooncakeza:
   name: "mooncakeza"
   bio: "chookity pok!"
   avatar: "/assets/images/authors/mooncakeza.jpg"
