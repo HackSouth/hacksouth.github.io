@@ -150,3 +150,21 @@ oncybersec:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/oncybersec
+      
+  mooncakeza:
+  name: "mooncakeza"
+  bio: "chookity pok!"
+  avatar: "/assets/images/authors/mooncakeza.jpg"
+  links:
+    - label: "Blog"
+      icon: "fas fa-fw fa-blog"
+      url: "https://www.logoff.co.za"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/geoffchisnall"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/geoffchisnall"
+    - label: "Keybase"
+      icon: "fas fa-fw fa-key"
+      url: "https://keybase.io/mooncakeza"
