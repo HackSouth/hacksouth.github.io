@@ -12,6 +12,8 @@ tags:
  - CTF
 ---
 
+## African Digital Forensics CTF
+
 ![African DFIR](/assets/images/mooncakeza/african_dfir/logo1.png){:.align-center}
 <br>
 ![African DFIR](/assets/images/mooncakeza/african_dfir/logo2.png){:.align-center}
