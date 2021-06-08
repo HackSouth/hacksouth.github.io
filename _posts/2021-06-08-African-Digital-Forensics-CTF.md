@@ -50,7 +50,7 @@ I did write ups for all 4 weeks which you can check out on my blog [https://www.
 - [Week 4 - Android Dump](https://www.logoff.co.za/posts/African-Digital-Forensics-CTF-Week-4/)
 
 
-To all the contestants, well done and so happy to have seen so many Cybersecurity Enthusias take on this challenge.
+To all the contestants, well done and so happy to have seen so many Cybersecurity Enthusiasts take on this challenge.
 
 I want to give shout out to everyone who had a hand in creating this CTF and gave a lot of people in Africa the chance to compete.
 
