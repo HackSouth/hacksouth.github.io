@@ -1,4 +1,3 @@
-
 ---
 title: "African Digital Forensics CTF"
 author: "mooncakeza"
