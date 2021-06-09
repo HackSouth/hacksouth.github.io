@@ -36,7 +36,7 @@ For me, having a full time job, I couldn’t spend every minute of the day tryin
 <br>
 At the end of the month I was pretty surprized to have ended in the top 10!
 <br>
-A team from Benin finshed the top 5 spots, with South Africa 6th (myself) and the rest of the top 10 was rounded up by Tansania.
+A team from Benin finished the top 5 spots, with South Africa 6th (myself) and the rest of the top 10 was rounded up by Tanzania.
 
 ![African DFIR](/assets/images/mooncakeza/african_dfir/placement.png){:.align-center}
 
