@@ -27,7 +27,7 @@ tags:
 }
 </style>
 
-<a href="https://giphy.com/stickers/verizon-transparent-VIujgxqJPYLHVocwsG"><iframe src="https://giphy.com/embed/VIujgxqJPYLHVocwsG" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></a>
+<img src="/assets/images/payitforward/pif.gif" alt="Pay it forward!"/>
 
 <h1>There is no such thing in life as a free lunch. <br/> Well, welcome to the exception to the rule (cos, who likes rules anyway - yuck!)</h1>
 <!--more-->
