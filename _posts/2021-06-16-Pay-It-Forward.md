@@ -1,5 +1,5 @@
 ---
-title: "Pay IT Forward - PWK Vouchers"
+title: "Pay It Forward - PWK Vouchers"
 author: MunX
 header:
   teaser: /assets/images/payitforward/pwk.jpg
