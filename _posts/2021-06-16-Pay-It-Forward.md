@@ -27,15 +27,15 @@ tags:
 }
 </style>
 
-<iframe src="https://giphy.com/embed/VIujgxqJPYLHVocwsG" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/verizon-transparent-VIujgxqJPYLHVocwsG">via GIPHY</a></p>
+<a href="https://giphy.com/stickers/verizon-transparent-VIujgxqJPYLHVocwsG"><iframe src="https://giphy.com/embed/VIujgxqJPYLHVocwsG" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></a>
 
-<h1>There is no such thing in life as a free lunch. </br> Well, welcome to the exception to the rule (cos, who likes rules anyway - yuck!)</h1>
+<h1>There is no such thing in life as a free lunch. <br/> Well, welcome to the exception to the rule (cos, who likes rules anyway - yuck!)</h1>
 <!--more-->
 
 <p> A few years ago <a target="_blank" href="https://telspace.co.za/"><i class="fas fa-external-link-square-alt"></i> Telspace Systems</a> gave me an opportunity and it changed my life. I am so grateful that there are people in the world (like those at Telspace) who do this kind of thing. It became a personal priority to be able to keep this kind of momentum going, and do my utmost to give the same kind of opportunities to others.</p>
 
 <h2> DRUM ROLL </h2>
-<p> As South Africans in the industry will know, many people face "barriers to entry", some of those and training is an expense that many people in our country simply cannot afford... so I am excited to see what can be achieved if that barrier is completely removed. </br> It is with great excitement, that I'm able to share that this intention has now become a reality. After discussions with the Social Responsibility Program group at <a target="_blank" href="https://www.offensive-security.com/"><i class="fas fa-external-link-square-alt"></i> Offensive Security</a>, <a target="_blank" href="https://hacksouth.africa/"><i class="fas fa-external-link-square-alt"></i> HackSouth</a> have been given 10 <a target="_blank" href="https://www.offensive-security.com/pwk-oscp//"><i class="fas fa-external-link-square-alt"></i> PWK</a> Vouchers. </p>
+<p> As South Africans in the industry will know, many people face "barriers to entry", some of those and training is an expense that many people in our country simply cannot afford... so I am excited to see what can be achieved if that barrier is completely removed. <br/> It is with great excitement, that I'm able to share that this intention has now become a reality. After discussions with the Social Responsibility Program group at <a target="_blank" href="https://www.offensive-security.com/"><i class="fas fa-external-link-square-alt"></i> Offensive Security</a>, <a target="_blank" href="https://hacksouth.africa/"><i class="fas fa-external-link-square-alt"></i> HackSouth</a> have been given 10 <a target="_blank" href="https://www.offensive-security.com/pwk-oscp//"><i class="fas fa-external-link-square-alt"></i> PWK</a> Vouchers. </p>
 <p><strong><span style="background-color: white; color: black;padding: 2px;">Yes, you read that correctly - TEN!</span></strong>
 <p> Each voucher includes 90 days lab time, the course PDF and videos, as well as one exam voucher. </p>
 <p> I have no doubt that this is going to change the lives of 10 people, and I'm grateful to be a part of this process. So, enough rambling - let's get to the important stuff! </p>
@@ -54,7 +54,7 @@ tags:
 
   <br/>
   <h4 id="REQUIREMENTS:">REQUIREMENTS:</h4>
-  <p>Simply put, these vouchers are earmarked for individuals who are underrepresented in the community, or cannot afford the training required to get into the Information Security industry. </br> This means we're looking for people who have basic technical abilities, the drive and passion required in this industry, as well as the time to dedicate to the labs in order to make the most of this opportunity.</p>
+  <p>Simply put, these vouchers are earmarked for individuals who are underrepresented in the community, or cannot afford the training required to get into the Information Security industry. <br/> This means we're looking for people who have basic technical abilities, the drive and passion required in this industry, as well as the time to dedicate to the labs in order to make the most of this opportunity.</p>
 
 
   <br/>
@@ -70,7 +70,7 @@ tags:
   <h4 id="WALK-THE-WALK">2. WALK THE WALK</h4>
 
 
-  <p>This is your chance to show us what you can do! Are you active on <a target="_blank" href="https://www.hackthebox.eu/"><i class="fas fa-external-link-square-alt"></i> Hack The Box?</a>, <a target="_blank" href="https://www.offensive-security.com/labs/"><i class="fas fa-external-link-square-alt"></i> OffSec Proving Grounds?</a>, <a target="_blank" href="https://tryhackme.com/"><i class="fas fa-external-link-square-alt"></i> TryHackMe</a>? Have you built your own home lab? </br> Do you have a blog where you share what you've learnt? Do you build or create? We don't care how you get your hacky on, we just want to see it in action!</p>
+  <p>This is your chance to show us what you can do! Are you active on <a target="_blank" href="https://www.hackthebox.eu/"><i class="fas fa-external-link-square-alt"></i> Hack The Box?</a>, <a target="_blank" href="https://www.offensive-security.com/labs/"><i class="fas fa-external-link-square-alt"></i> OffSec Proving Grounds?</a>, <a target="_blank" href="https://tryhackme.com/"><i class="fas fa-external-link-square-alt"></i> TryHackMe</a>? Have you built your own home lab? <br/> Do you have a blog where you share what you've learnt? Do you build or create? We don't care how you get your hacky on, we just want to see it in action!</p>
 
 
 

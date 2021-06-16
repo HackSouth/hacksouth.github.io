@@ -91,7 +91,7 @@ AtomicNicos:
 MunX:
   name: MunX
   bio: "Hacker, Security Analyst, Researcher, Penetration Tester, OSINTeer, Wannabe Philanthropist"
-  avatar: "/assets/images/authors/munx.jpg"
+  avatar: "/assets/images/authors/munx.png"
   links:
     - label: "Blog"
       icon: "fas fa-fw fa-blog"
