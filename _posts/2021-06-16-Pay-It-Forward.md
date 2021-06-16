@@ -37,7 +37,7 @@ tags:
 
 
 <h2> DRUM ROLL </h2>
-<p> As South Africans in the industry will know, many people face "barriers to entry", some of those and training is an expense that many people in our country simply cannot afford... so I am excited to see what can be achieved if that barrier is completely removed.</p>
+<p> As South Africans in the industry will know, many people face "barriers to entry", training is an expense that many people in our country simply cannot afford... so I am excited to see what can be achieved if that barrier is completely removed.</p>
 
 <p> It is with great excitement, that I'm able to share that this intention has now become a reality. After discussions with the Social Responsibility Program group at <a target="_blank" href="https://www.offensive-security.com/"><i class="fas fa-external-link-square-alt"></i> Offensive Security</a>, <a target="_blank" href="https://hacksouth.africa/"><i class="fas fa-external-link-square-alt"></i> HackSouth</a> has been given 10 <a target="_blank" href="https://www.offensive-security.com/pwk-oscp//"><i class="fas fa-external-link-square-alt"></i> PWK</a> Vouchers.</p>
 <p><strong><span style="background-color: white; color: black;padding: 2px;">Yes, you read that correctly - TEN!</span></strong>
