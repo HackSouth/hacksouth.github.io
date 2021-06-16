@@ -1,6 +1,6 @@
 ---
 title: "Pay IT Forward - PWK Vouchers"
-author: munx
+author: MunX
 header:
   teaser: /assets/images/payitforward/pwk.jpg
 excerpt_separator: "<!--more-->"
@@ -11,7 +11,6 @@ tags:
  - PWK
  - OSCP
  - Paying It Forward
----
 ---
 
 <style>
