@@ -18,6 +18,7 @@ tags:
 * [Post-Labs](#post-labs)
 * [Exam](#exam)
 * [Conclusion](#conclusion)
+* [Pay It Forward – PWK Vouchers](#pay-it-forward--pwk-vouchers)
 * [Resources](#resources)
   * [Pre-OSCP Resources](#pre-oscp-resources)
   * [PWK Labs Resources](#pwk-labs-resources)
@@ -110,6 +111,10 @@ Your exam date is fast approaching and you are wondering if there is anything mo
 This guide covered tips that I used to prepare for and pass the OSCP. The tips that were discussed covered each stage of my OSCP journey: pre-OSCP, PWK labs, post-labs and exam. Passing the OSCP exam is not an easy task and requires a lot of time and preparation to pass the exam. Doing some extra preparation before and after the PWK labs can help you develop and improve your penetration testing methodology, which will assist with taking the exam. The last section includes resources that I found useful when preparing for the OSCP. I hope that this guide will help you on your journey to become an OSCP.
 
 ![OSCP figure](/assets/images/OSCP/oscp_figure.jpg){:.align-center}
+
+## Pay It Forward – PWK Vouchers
+
+Munx from Hack South is running a giveaway where you have a chance to get 1 of 10 PWK vouchers. This giveaway is targeted at those individuals who are underrepresented in the InfoSec community or cannot afford the PWK training. More details on this and how to apply for a PWK voucher can be found [here](https://hacksouth.africa/community/Pay-It-Forward/).
 
 ## Resources
 
