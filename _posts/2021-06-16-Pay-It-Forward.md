@@ -41,6 +41,7 @@ tags:
 
 <p> It is with great excitement, that I'm able to share that this intention has now become a reality. After discussions with the Social Responsibility Program group at <a target="_blank" href="https://www.offensive-security.com/"><i class="fas fa-external-link-square-alt"></i> Offensive Security</a>, <a target="_blank" href="https://hacksouth.africa/"><i class="fas fa-external-link-square-alt"></i> HackSouth</a> has been given 10 <a target="_blank" href="https://www.offensive-security.com/pwk-oscp//"><i class="fas fa-external-link-square-alt"></i> PWK</a> Vouchers.</p>
 <p><strong><span style="background-color: white; color: black;padding: 2px;">Yes, you read that correctly - TEN!</span></strong>
+<p> As Hack South is a South African community, vouchers will be awarded to South Africans. Any applicant outside of SA may be considered on a special basis, this will however be limited to only one voucher. </p>
 <p> Each voucher includes 90 days lab time, the course PDF and videos, as well as one exam voucher. </p>
 <p> I have no doubt that this is going to change the lives of 10 people, and I'm grateful to be a part of this process. So, enough rambling - let's get to the important stuff! </p>
 
@@ -56,7 +57,7 @@ tags:
   </ul>
 
   <h4 id="REQUIREMENTS:">REQUIREMENTS:</h4>
-  <p>Simply put, these vouchers are earmarked for individuals who are underrepresented in the community, or cannot afford the training required to get into the Information Security industry. <br/> This means we're looking for people who have basic technical abilities, the drive and passion required in this industry, as well as the time to dedicate to the labs in order to make the most of this opportunity.</p>
+  <p>Simply put, these vouchers are earmarked for individuals who are underrepresented in the community, or cannot afford the training required to get into the Information Security industry. <br/> This means we're looking for people who have basic technical abilities, the drive and passion required in this industry, as well as the time to dedicate to the labs in order to make the most of this opportunity. </p>
 
   <h4 id="CRITERIA">CRITERIA</h4>
   <p>We want to make it as simple as possible to "apply" for a voucher, and it's broken down into these three steps.</p>
