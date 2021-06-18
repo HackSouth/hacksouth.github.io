@@ -71,7 +71,7 @@ tags:
   <p>Lastly, we'll want to "meet" you (under the current circumstances, this is likely to happen virtually) for a casual chat.</p>
 
   <h4 id="MORE-INFO">MORE INFO</h4>
-  <p>Keep an eye on my <a target="_blank" href="https://www.the-munx.com/"><i class="fas fa-external-link-square-alt"></i> website</a>, the HackSouth <a target="_blank" href="https://discord.com/invite/U3FDH5nv?utm_source=Discord%20Widget&utm_medium=Connect"><i class="fas fa-external-link-square-alt"></i> discord</a> and associated social media pages for more details and dedicated chat channels.</p>
+  <p>Keep an eye on my <a target="_blank" href="https://www.the-munx.com/"><i class="fas fa-external-link-square-alt"></i> website</a>, the HackSouth <a target="_blank" href="https://discord.com/invite/hacksouth"><i class="fas fa-external-link-square-alt"></i> discord</a> and associated social media pages for more details and dedicated chat channels.</p>
   
   <h4>Do your best to impress us and you could find yourself with one of these PWK vouchers!</h4>
 
