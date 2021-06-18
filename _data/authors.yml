@@ -168,3 +168,18 @@ mooncakeza:
     - label: "Keybase"
       icon: "fas fa-fw fa-key"
       url: "https://keybase.io/mooncakeza"
+
+CryDeTaan:
+  name: "CryDeTaan"
+  bio: "I am no genius, just an average Joe, but I have a few notes I thought I may as well share.... I try to share some thoughts and ideas, call it abstract, about random things, call it entropy 👌."
+  avatar: "/assets/images/authors/crydetaan.jpg"
+  links:
+    - label: "Blog"
+      icon: "fas fa-fw fa-blog"
+      url: "https://abstractentropy.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/CryDeTaan"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/CryDeTaan"
