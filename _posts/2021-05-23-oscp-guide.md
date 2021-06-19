@@ -114,7 +114,7 @@ This guide covered tips that I used to prepare for and pass the OSCP. The tips t
 
 ## Pay It Forward – PWK Vouchers
 
-Munx from Hack South is running a giveaway where you have a chance to get 1 of 10 PWK vouchers. This giveaway is targeted at those individuals who are underrepresented in the InfoSec community or cannot afford the PWK training. More details on this and how to apply for a PWK voucher can be found [here](https://hacksouth.africa/community/Pay-It-Forward/).
+Now you know how to pass, but did you know that Hack South is giving away 10 PWK vouchers? Check out [this blog](https://hacksouth.africa/community/Pay-It-Forward/) to know more.
 
 ## Resources
 
