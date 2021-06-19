@@ -31,7 +31,7 @@ tags:
 
 <h1>There is no such thing in life as a free lunch. <br/> Well, welcome to the exception to the rule (cos, who likes rules anyway - yuck!)</h1>
 
-<p> A few years ago <a target="_blank" href="https://telspace.co.za/"><i class="fas fa-external-link-square-alt"></i> Telspace Systems</a> gave me an opportunity and it changed my life. I am so grateful that there are people in the world (like those at Telspace) who do this kind of thing. It became a personal priority to be able to keep this kind of momentum going, and do my utmost to give the same kind of opportunities to others.</p>
+<p> A few years ago <a target="_blank" rel="noopener noreferrer" href="https://telspace.co.za/"><i class="fas fa-external-link-square-alt"></i> Telspace Systems</a> gave me an opportunity and it changed my life. I am so grateful that there are people in the world (like those at Telspace) who do this kind of thing. It became a personal priority to be able to keep this kind of momentum going, and do my utmost to give the same kind of opportunities to others.</p>
 
 <!--more-->
 
@@ -39,7 +39,7 @@ tags:
 <h2> DRUM ROLL </h2>
 <p> As South Africans in the industry will know, many people face "barriers to entry", training is an expense that many people in our country simply cannot afford... so I am excited to see what can be achieved if that barrier is completely removed.</p>
 
-<p> It is with great excitement, that I'm able to share that this intention has now become a reality. After discussions with the Social Responsibility Program group at <a target="_blank" href="https://www.offensive-security.com/"><i class="fas fa-external-link-square-alt"></i> Offensive Security</a>, <a target="_blank" href="https://hacksouth.africa/"><i class="fas fa-external-link-square-alt"></i> HackSouth</a> has been given 10 <a target="_blank" href="https://www.offensive-security.com/pwk-oscp//"><i class="fas fa-external-link-square-alt"></i> PWK</a> Vouchers.</p>
+<p> It is with great excitement, that I'm able to share that this intention has now become a reality. After discussions with the Social Responsibility Program group at <a target="_blank" rel="noopener noreferrer" href="https://www.offensive-security.com/"><i class="fas fa-external-link-square-alt"></i> Offensive Security</a>, <a target="_blank" rel="noopener noreferrer" href="https://hacksouth.africa/"><i class="fas fa-external-link-square-alt"></i> HackSouth</a> has been given 10 <a target="_blank" rel="noopener noreferrer" href="https://www.offensive-security.com/pwk-oscp//"><i class="fas fa-external-link-square-alt"></i> PWK</a> Vouchers.</p>
 <p><strong><span style="background-color: white; color: black;padding: 2px;">Yes, you read that correctly - TEN!</span></strong>
 <p> As Hack South is a South African community, vouchers will be awarded to South Africans. Any applicant outside of SA may be considered on a special basis, this will however be limited to only one voucher. </p>
 <p> Each voucher includes 90 days lab time, the course PDF and videos, as well as one exam voucher. </p>
@@ -66,14 +66,14 @@ tags:
   <p>We want to know a bit about you, why do you want to get your OSCP? We also need to know more about how you meet the requirements above. You can email this through to the-munx at protonmail dot com. </p>
 
   <h4 id="WALK-THE-WALK">2. WALK THE WALK</h4>
-  <p>This is your chance to show us what you can do! Are you active on <a target="_blank" href="https://www.hackthebox.eu/"><i class="fas fa-external-link-square-alt"></i> Hack The Box?</a>, <a target="_blank" href="https://www.offensive-security.com/labs/"><i class="fas fa-external-link-square-alt"></i> OffSec Proving Grounds?</a>, <a target="_blank" href="https://tryhackme.com/"><i class="fas fa-external-link-square-alt"></i> TryHackMe</a>? Have you built your own home lab? <br/> Do you have a blog where you share what you've learnt? Do you build or create? We don't care how you get your hacky on, we just want to see it in action!</p>
+  <p>This is your chance to show us what you can do! Are you active on <a target="_blank" rel="noopener noreferrer" href="https://www.hackthebox.eu/"><i class="fas fa-external-link-square-alt"></i> Hack The Box?</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.offensive-security.com/labs/"><i class="fas fa-external-link-square-alt"></i> OffSec Proving Grounds?</a>, <a target="_blank" rel="noopener noreferrer" href="https://tryhackme.com/"><i class="fas fa-external-link-square-alt"></i> TryHackMe</a>? Have you built your own home lab? <br/> Do you have a blog where you share what you've learnt? Do you build or create? We don't care how you get your hacky on, we just want to see it in action!</p>
 
   <h4 id="TALK-THE-TALK">3. TALK THE TALK</h4>
   <p>Lastly, we'll want to "meet" you (under the current circumstances, this is likely to happen virtually) for a casual chat.</p>
 
   <h4 id="MORE-INFO">MORE INFO</h4>
-  <p>Keep an eye on my <a target="_blank" href="https://www.the-munx.com/"><i class="fas fa-external-link-square-alt"></i> website</a>, the HackSouth <a target="_blank" href="https://discord.com/invite/hacksouth?utm_source=Discord%20Widget&utm_medium=Connect"><i class="fas fa-external-link-square-alt"></i> discord</a> and associated social media pages for more details and dedicated chat channels.</p>
+  <p>Keep an eye on my <a target="_blank" rel="noopener noreferrer" href="https://www.the-munx.com/"><i class="fas fa-external-link-square-alt"></i> website</a>, the HackSouth <a target="_blank" rel="noopener noreferrer" href="https://discord.com/invite/hacksouth?utm_source=Discord%20Widget&utm_medium=Connect"><i class="fas fa-external-link-square-alt"></i> discord</a> and associated social media pages for more details and dedicated chat channels.</p>
   
   <h4>Do your best to impress us and you could find yourself with one of these PWK vouchers!</h4>
 
-  <p>I recommend you join HackSouth Discord and look for the <strong>pay-it-forward</strong> <a target="_blank" href="https://discord.gg/XUCzKmRh"><i class="fas fa-external-link-square-alt"></i> channel</a>  dedicated to this "giveaway". That's the place where the mods can answer any questions, provide feedback, provide mentorship and put you in touch with other industry professionals.</p>
+  <p>I recommend you join HackSouth Discord and look for the <strong>pay-it-forward</strong> <a target="_blank" rel="noopener noreferrer" href="https://discord.com/invite/hacksouth?utm_source=Discord%20Widget&utm_medium=Connect"><i class="fas fa-external-link-square-alt"></i> channel</a>  dedicated to this "giveaway". That's the place where the mods can answer any questions, provide feedback, provide mentorship and put you in touch with other industry professionals.</p>
