@@ -183,3 +183,18 @@ CryDeTaan:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CryDeTaan"
+
+toastedsteaksandwich:
+  name: "Ashiq Amien"
+  bio: "Security consultant, interested in DeFi and blockchain security. CTF and bug hunting n00b."
+  avatar: "/assets/images/authors/toastedsteaksandwich.jpg"
+  links:
+    - label: "Blog"
+      icon: "fas fa-fw fa-blog"
+      url: "https://ashiq.co.za"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/AshiqAmien"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/toastedsteaksandwich"
