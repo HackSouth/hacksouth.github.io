@@ -35,13 +35,12 @@ tags:
 
 <!--more-->
 
-
 <h2> DRUM ROLL </h2>
-<p> As South Africans in the industry will know, many people face "barriers to entry", training is an expense that many people in our country simply cannot afford... so I am excited to see what can be achieved if that barrier is completely removed.</p>
+<p> As <b>South Africans</b> in the industry will know, many people face "barriers to entry", training is an expense that many people in our country simply cannot afford... so I am excited to see what can be achieved if that barrier is completely removed.</p>
 
 <p> It is with great excitement, that I'm able to share that this intention has now become a reality. After discussions with the Social Responsibility Program group at <a target="_blank" rel="noopener noreferrer" href="https://www.offensive-security.com/"><i class="fas fa-external-link-square-alt"></i> Offensive Security</a>, <a target="_blank" rel="noopener noreferrer" href="https://hacksouth.africa/"><i class="fas fa-external-link-square-alt"></i> HackSouth</a> has been given 10 <a target="_blank" rel="noopener noreferrer" href="https://www.offensive-security.com/pwk-oscp//"><i class="fas fa-external-link-square-alt"></i> PWK</a> Vouchers.</p>
-<p><strong><span style="background-color: white; color: black;padding: 2px;">Yes, you read that correctly - TEN!</span></strong>
-<p> As Hack South is a South African community, vouchers will be awarded to South Africans. Any applicant outside of SA may be considered on a special basis, this will however be limited to only one voucher. </p>
+<p style="text-align: center;"><strong><span style="background-color: white; color: black;padding: 2px; display: inline-block">Yes, you read that correctly - TEN!</span></strong>
+<p><b> As Hack South is a South African community, vouchers will be awarded to South Africans. </b></p>
 <p> Each voucher includes 90 days lab time, the course PDF and videos, as well as one exam voucher. </p>
 <p> I have no doubt that this is going to change the lives of 10 people, and I'm grateful to be a part of this process. So, enough rambling - let's get to the important stuff! </p>
 
