@@ -44,7 +44,7 @@ tags:
 <p> Each voucher includes 90 days lab time, the course PDF and videos, as well as one exam voucher. </p>
 <p> I have no doubt that this is going to change the lives of 10 people, and I'm grateful to be a part of this process. So, enough rambling - let's get to the important stuff! </p>
 
-<h3> Do you wanna get certified, but don't have the means or are would be considered as someone who is under-represented in the industry? HOW CAN WE HELP YOU? </h3>
+<h3> Do you wanna get certified, but don't have the means or would you be considered as someone who is under-represented in the industry? HOW CAN WE HELP YOU? </h3>
   <h4>OVERVIEW</h4>
   <ul>
     <li><a class="no-underline" href="#REQUIREMENTS:">REQUIREMENTS:</a></li>
