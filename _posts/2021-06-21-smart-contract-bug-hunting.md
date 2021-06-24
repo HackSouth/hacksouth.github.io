@@ -3,6 +3,7 @@ title: "Smart Contract Bug Hunting"
 author: toastedsteaksandwich
 header:
   teaser: /assets/images/smart-contract-bug-hunting/bug.png
+excerpt_separator: "<!--more-->"
 categories:
  - Bug Bounty
 tags:
@@ -12,9 +13,7 @@ tags:
  - Smart Contracts
 ---
 
-## Introduction
-
-I've recently swapped out playing CTFs in my free time to trying to catch bugs in my free time, usually for a bounty. Since bug bounty platforms are usually focused on web or mobile applications, I thought it might be interesting to introduce an emerging branch of bug bounty, focusing on smart contracts. 
+I've recently swapped out playing CTFs in my free time to trying to catch bugs in my free time, usually for a bounty. Since bug bounty platforms are usually focused on web or mobile applications, I thought it might be interesting to introduce an emerging branch of bug bounty, focusing on smart contracts.<!--more-->
 
 For anyone unfamiliar, a [bug bounty program](https://en.wikipedia.org/wiki/Bug_bounty_program) is a way for whitehat hackers to disclose security vulnerabilies for different platforms, generally in exchange for a monetary bounty. The exact bounty largely depends on the likeihood of the vulnerability being exploited, along with the severity if exploited. Payouts can range anywhere from [$100 to $1m](https://immunefi.com/explore/).
 
