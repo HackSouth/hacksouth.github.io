@@ -15,7 +15,7 @@ tags:
 
 I've recently swapped out playing CTFs in my free time to trying to catch bugs in my free time, usually for a bounty. Since bug bounty platforms are usually focused on web or mobile applications, I thought it might be interesting to introduce an emerging branch of bug bounty, focusing on smart contracts.<!--more-->
 
-For anyone unfamiliar, a [bug bounty program](https://en.wikipedia.org/wiki/Bug_bounty_program) is a way for whitehat hackers to disclose security vulnerabilies for different platforms, generally in exchange for a monetary bounty. The exact bounty largely depends on the likeihood of the vulnerability being exploited, along with the severity if exploited. Payouts can range anywhere from [$100 to $1m](https://immunefi.com/explore/).
+For anyone unfamiliar, a [bug bounty program](https://en.wikipedia.org/wiki/Bug_bounty_program) is a way for whitehat hackers to disclose security vulnerabilities for different platforms, generally in exchange for a monetary bounty. The exact bounty largely depends on the likelihood of the vulnerability being exploited, along with the severity if exploited. Payouts can range anywhere from [$100 to $1m](https://immunefi.com/explore/).
 
 
 ## Live hunting
@@ -32,4 +32,4 @@ Over the last few months I've tried both styles of bug hunting, and both coming 
 
 On the flip side, when hunting for bugs on a live contract, I've found that it can be disheartening to spend your weekend (or weekends!) with no concrete results to show for it. At the same time, finding one high-impact bug can make the entire process worth it. I've [recently disclosed](https://iosiro.com/blog/88mph-bug-bounty-post-mortem) a critical bug that affected over $6.5m worth of cryptoassets, with the outcome outweighing the many hours spent without result. My motivation to hunt has been restored since then. 😄
 
-Overall, I don't think there is no best style when it comes to bug hunting - it's whatever works for you in your time. The important thing is to keep learning and trying to recognize your progress as you go. Enjoy the hunt!  
+Overall, I don't think there is a best style when it comes to bug hunting - it's whatever works for you in your time. The important thing is to keep learning and trying to recognize your progress as you go. Enjoy the hunt!  
