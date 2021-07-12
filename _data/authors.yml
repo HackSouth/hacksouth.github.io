@@ -198,3 +198,18 @@ toastedsteaksandwich:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/toastedsteaksandwich"
+
+crypticG00se:
+  name: "Christo (Goose/crypticG00se) Goosen"
+  bio: "Lead Infosec/Devops/Backend, Ex CTO, OWASP Cape Town & Bsides Cape Town organizer. Blueteam, OSINT ctfs, Crypto currencies & photographer."
+  avatar: "/assets/images/authors/goose.jpg"
+  links:
+    - label: "Blog"
+      icon: "fas fa-fw fa-blog"
+      url: "https://christogoosen.co.za"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/crypticg00se"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/c-goosen"
