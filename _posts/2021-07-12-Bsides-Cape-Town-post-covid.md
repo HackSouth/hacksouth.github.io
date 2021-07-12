@@ -65,7 +65,7 @@ Sponsorship in a non-physical world is a new frontrier for us. We are still work
 but you can contact us at **sponsorship@bsidescapetown.co.za**.
 
 ## Volunteering
-Though volunteering will be very this year, we are open to anyone who wants to get involved. I have been very encouraged by
+Though volunteering will be different this year (more online), we are open to anyone who wants to get involved. I have been very encouraged by
 the number of people who have contacted me so far to get involved. Please email charles@bsidescapetown.co.za or me at christo@bsidescapetown.co.za.
 
 ## Check out pervious years videos!
