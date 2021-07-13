@@ -28,7 +28,7 @@ We apologise to the community for missing 2020, but we aim to continue the work 
 ## 2021 and beyond
 We appreciated BSIDES Cape Town as it allowed people from all over South Africa to come together in a physical location to hack, catch up and enjoy talks together.
 We would still like to keep that format going, but until lockdowns are more premitting, we will keep BSIDES Cape Town 2021 an online event.
-We will combine the powers of Hack South and BSIDES Cape Town, to have a confenrece running on the Hack South Discord for interaction
+We will combine the powers of Hack South and BSIDES Cape Town, to have a conference running on the Hack South Discord for interaction
 and YouTube.com for livestreamed talks.
 
 We are sad to not have an in person event as focus, but also we celebrate that this opens the opportunity for international speakers.
