@@ -22,9 +22,9 @@ Vortimo is the brain child of Roelof Temmingh, the man that brought us Maltego. 
 
 ## What is OSINT?  
 
-[OSINT](https://portswigger.net/daily-swig/osint-what-is-open-source-intelligence-and-how-is-it-used) according to PortSwigger is intelligence “drawn from publicly available material”, according to the CIA. Most intelligence experts extend that definition to mean information intended for public consumption.
+[OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence) or Open-Source intelligence according to ***Wikipedia*** is a multi-factor (qualitative, quantitative) methodology for collecting, analyzing and making decisions about data accessible in publicly available sources to be used in an intelligence context. In the intelligence community, the term "open" refers to overt, publicly available sources (as opposed to covert or clandestine sources). OSINT under one name or another has been around for hundreds of years. With the advent of instant communications and rapid information transfer, a great deal of actionable and predictive intelligence can now be obtained from public, unclassified sources. It is not related to open-source software or collective intelligence.  
 
-OSINT is information that can be accessed without specialist skills or tools, although it can include sources only available to subscribers, such as newspaper content behind a paywall, or subscription journals.  
+OSINT is the collection and analysis of information that is gathered from public, or open, sources.[1] OSINT is primarily used in national security, law enforcement, and business intelligence functions and is of value to analysts who use non-sensitive intelligence in answering classified, unclassified, or proprietary intelligence requirements across the previous intelligence disciplines.  
 
 ## What is Vortimo and who is Roelof Temmingh?  
 
