@@ -2,7 +2,7 @@
 title: "Vortimo Demo"
 author: AngusRed
 header:
-  teaser: /assets/images/Vortimo/85_horiz2.png
+  teaser: /images/Vortimo/Vortimo%20Logo.png
 excerpt_separator: "<!--more-->"
 categories:
  - OSINT
@@ -14,6 +14,8 @@ tags:
 Vortimo is the brain child of Roelof Temmingh, the man that brought us Maltego. On Wednesday 4 August 2021 he will be giving us a demo on his new OSINT web augmentation tool, Vortimo!
 
 <!--more-->
+
+![Vortimo](/assets/images/Vortimo/85_horiz2.png){: .align-center}  
 
 ## What is OSINT?  
 
