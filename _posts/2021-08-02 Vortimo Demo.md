@@ -1,6 +1,6 @@
 ---
 title: "Vortimo Demo"
-author: 
+author: AngusRed
 header:
   teaser: /assets/images/Vortimo/85_horiz2.png
 excerpt_separator: "<!--more-->"
