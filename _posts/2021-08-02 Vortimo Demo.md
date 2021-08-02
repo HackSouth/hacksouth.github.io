@@ -51,14 +51,15 @@ Elements can be text, images or entire webpages and you can mark these right the
 
 To find a page, Vortimo allows you to search by:
 
-Time (when you’ve seen it)  
-Site (where you’ve seen it)  
-Both site and title of page  
-Free text search (what you’ve seen)  
-By object extracted (what)  
-By image  
-Free text Exif search  
-Image size  
+* Time (when you’ve seen it)    
+* Site (where you’ve seen it)  
+* Both site and title of page  
+* Free text search (what you’ve seen)  
+* By object extracted (what)  
+* By image  
+* Free text Exif search  
+* Image size   
+ 
 It’s important to understand that all of these control surfaces can be combined – for example ‘where on Twitter (site) is the name ‘’ (object) combined with the word ‘OSINT’ (free text search) seen in the last week (time) ?’  
 
 ### Recall/Recall Pages  
