@@ -1,5 +1,5 @@
 ---
-title: "Vortimo Demo"
+title: "Vortimo Demo: Wed 4 Aug, 1800 SAST"
 author: AngusRed
 header:
   teaser: /assets/images/Vortimo/Vortimo%20Logo.png
