@@ -91,7 +91,7 @@ The objects extracted from the previous step can now be [enriched by links or wi
 
 ### Want to know more?  
 
-Come [join](https://hacksouth.africa/community/Joining-Hack-South/) the [Hack South](https://hacksouth.africa) Discord server on Wednesday 4 August at 6PM SAST/4PM UTC to watch the demo! Reminders are in [#Events](https://discord.com/channels/687602309395382282/811544241762467912/871650974169694278). 
+Come [join](https://hacksouth.africa/community/Joining-Hack-South/) the [Hack South](https://hacksouth.africa) Discord server on Wednesday 4 August at 6PM SAST/4PM UTC to watch the demo! Reminders are in [#Events](https://hacksouth.africa/events/). 
 
 For more infomation on Vortimo please check out their [site](https://www.vortimo.com/) and follow them on [Twitter](https://twitter.com/VortimoTech/status/1422145508160811008)  
 
