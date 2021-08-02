@@ -2,7 +2,7 @@
 title: "Vortimo Demo"
 author: AngusRed
 header:
-  teaser: /images/Vortimo/Vortimo%20Logo.png
+  teaser: /assets/images/Vortimo/Vortimo%20Logo.png
 excerpt_separator: "<!--more-->"
 categories:
  - OSINT
