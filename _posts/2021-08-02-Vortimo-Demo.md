@@ -11,7 +11,10 @@ tags:
  - Demo
  - Web Augmentation
 ---
-Vortimo is the brain child of Roelof Temmingh, the man that brought us Maltego. On Wednesday 4 August 2021 he will be giving us a demo on his new OSINT web augmentation tool, Vortimo!
+  
+  
+
+Vortimo is the brain child of Roelof Temmingh, the man that brought us Maltego. On Wednesday 4 August 2021 he will be giving us a demo on his new OSINT web augmentation tool, Vortimo! Vortimo has many uses and functions, some of which we will cover on Wednesday. We can break down certain functions by what we find on their [site]
 
 <!--more-->
 
