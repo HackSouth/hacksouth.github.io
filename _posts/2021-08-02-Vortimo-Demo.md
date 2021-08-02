@@ -42,19 +42,19 @@ Vortimo has many uses and functions, some of which we will cover on Wednesday 4 
 
 ### Record/Record Pages  
 
-Vortimo saves all web pages you’ve visited locally on your hard drive – exactly how you saw them in your browser.
+Vortimo [saves](https://www.vortimo.com/#tab-46bf15b9ef4db9f8331) all web pages you’ve visited locally on your hard drive – exactly how you saw them in your browser.
 
 Using an unobtrusive control, you can switch recording on, off, or to manual recording mode. You can also toggle tag visibility.  
 
 ### Augment/Augmented Browsing  
 
-All text and images of pages are stored – but you can choose to tag & annotate specific elements for quick enrichment, reporting and recall.
+All text and images of pages are stored – but you can choose to [tag](https://www.vortimo.com/#tab-f358584b3e94cde0a72) & annotate specific elements for quick enrichment, reporting and recall.
 
 Elements can be text, images or entire webpages and you can mark these right there in your browser without leaving the page you’re on.  
 
 ### Search  
 
-To find a page, Vortimo allows you to search by:
+To [find](https://www.vortimo.com/#tab-f181ef6abb75a54acd5) a page, Vortimo allows you to search by:
 
 * Time (when you’ve seen it)    
 * Site (where you’ve seen it)  
@@ -69,17 +69,17 @@ It’s important to understand that all of these control surfaces can be combine
 
 ### Recall/Recall Pages  
 
-Pages that have been recorded can be played back – exactly how they appeared when you visited them. Recorded pages can be rendered as either PDF, PNG or as MHTML. All elements can be exported for easy integration into other tools.  
+Pages that have been recorded can be [played back](https://www.vortimo.com/#tab-418b6b618018bb4ed44) – exactly how they appeared when you visited them. Recorded pages can be rendered as either PDF, PNG or as MHTML. All elements can be exported for easy integration into other tools.  
 
 ### Scrape/Scrape while you browse  
 
-**Objects are extracted** from all the pages that you’ve browsed – **automatically**. It’s generic parsing of the text – so it works everywhere. No need for complex recipes or regex code.  
+**[Objects are extracted](https://www.vortimo.com/#tab-d50ba9c194ac77e1815)** from all the pages that you’ve browsed – **automatically**. It’s generic parsing of the text – so it works everywhere. No need for complex recipes or regex code.  
 [For supported types click here]  
 When selecting the object, the page and snippet where the object was found is shown in the main panel.  
 
 ### Enrich  
 
-The objects extracted from the previous step can now be [enriched by links or widgets].
+The objects [extracted](https://www.vortimo.com/#tab-f1edb6a0db9568da9a8) from the previous step can now be [enriched by links or widgets].
 
 **Widgets make API calls** to popular service providers and enrich the data even further. Links are just that – **links to popular OSINT sites** where you can find more information on the extracted object.  
 
@@ -87,7 +87,7 @@ The objects extracted from the previous step can now be [enriched by links or wi
 
 ![Reporting](/assets/images/Vortimo/report_x.gif){: .align-center}  
 
-**Reports** are organized by tag. Any element (object, image or URL)  can be tagged either in the UI or **directly from the browser**. This design means that you can add elements to your report at great speed. Reports can be exported to PDF. 
+**[Reports](https://www.vortimo.com/#tab-3c567bc6e5030bc7c4a)** are organized by tag. Any element (object, image or URL)  can be tagged either in the UI or **directly from the browser**. This design means that you can add elements to your report at great speed. Reports can be exported to PDF. 
 
 ### Want to know more?  
 
