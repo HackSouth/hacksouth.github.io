@@ -17,7 +17,7 @@ tags:
 ## **UPDATE 2021-11-03: The plans for Bsides Cape Town has changes since this post**  
 
 > ~  
-> Please view the [updated post](https://hacksouth.africa/conference/Bsides-Cape-Town-postponement/)
+> Please view the [updated post](https://hacksouth.africa/conference/Bsides-Cape-Town-postponement/)  
 > ~  
   
 ---  
