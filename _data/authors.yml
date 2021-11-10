@@ -214,7 +214,6 @@ crypticG00se:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/c-goosen"
 
-
 Megladon:
   name: "Megladon"
   bio: "sudo usermod -aG El'Presidente Megladon"
@@ -226,3 +225,15 @@ Megladon:
     - label: "Keybase"
       icon: "fas fa-fw fa-key"
       url: "https://keybase.io/megladon"
+
+0xcon:
+  name: "0xcon"
+  bio: "Building the Gauteng and ZA information security community. We welcome both the new and experienced alike"
+  avatar: "/assets/images/0xcon/logo.png"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://0xcon.co.za/"
+    - label: "2021 Virtual Conference"
+      icon: "fas fa-fw fa-calendar"
+      url: "https://www.linkedin.com/events/6859938708657844224/"
