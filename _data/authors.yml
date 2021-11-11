@@ -230,6 +230,7 @@ Megladon:
   name: "0xcon"
   bio: "Building the Gauteng and ZA information security community. We welcome both the new and experienced alike"
   avatar: "/assets/images/0xcon/logo.png"
+  youtube: "https://www.youtube.com/channel/UCPuXhjTq4_6nMFm19hySmtA"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
