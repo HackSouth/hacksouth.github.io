@@ -20,6 +20,9 @@ description: South Africa's largest cybersecurity community. Hackers, makers, br
 minimal_mistakes_skin: dark
 search: false
 locale: en
+# Try override GitHub pages messing up HTTPS/HTTP
+url: https://hacksouth.africa
+baseurl: /
 
 twitter:
   username: hack_south
