@@ -1,6 +1,6 @@
 ---
 title: "Getting into Infosec/Cyber Security"
-author: 
+author: Sp3ctrlM0nki3
 header:
   teaser: /assets/images/getintoinfosec/preview2.jpg
 excerpt_separator: "<!--more-->"
@@ -11,8 +11,9 @@ tags:
  - Careers
  - Infosec
  - OSCP
- - 
 ---
+
+![Preview](/assets/images/getintoinfosec/preview2.jpg){:.align-center}
 
 ### TL;DR
 
@@ -37,7 +38,7 @@ From there I was hooked but unfortunately in the pursuit of career vs passion, c
 Fast forward many years later and I find myself the victim of a global pandemic [along with many others] and with the onset of COVID19, I lost my job, and the world went into a lockdown. I was left with the daunting question of what to do now, I spent most of my working career in the Hospitality sector, dabbling here and there in the IT sphere.
 In my previous position I was the Contracts & Negotiation Manager for a Tour company but also, IT support/ Helpdesk / the IT liaison for our external supplier / Database admin as well as IT procurement. Clearly an abuse of my passion by the company but I digress.  
 
-![Homer Studying](https://media.giphy.com/media/q1mHcB8wOCWf6/giphy.gif){: .align-right} 
+![Homer Studying](https://media.giphy.com/media/q1mHcB8wOCWf6/giphy.gif){:.align-center}
 
  
 ### The Learning Curve
@@ -49,7 +50,7 @@ What I wanted is basically, I wanted to break into things legally and get paid t
 
 So, I now had certifications, what now? I studied hard but I have no practical skills, no way of practicing either since we only had 1 laptop in the house, and it was my wife’s work laptop. So, trying to hack her laptop or messing around with potentially dangerous items could be detrimental to her business.  
 
-![Loading](https://media.giphy.com/media/hL9q5k9dk9l0wGd4e0/giphy.gif){: .align-right}
+![Loading](https://media.giphy.com/media/hL9q5k9dk9l0wGd4e0/giphy.gif){:.align-center}
 
 
 ### Skills loading in progress   
@@ -57,9 +58,8 @@ This is when I discovered TryHackMe [THM](https://tryhackme.com/) and HackTheBox
 
 Another tangent – in the time of THM and HTB, I also discovered HackerOne and Hacker101[for CTFs]. Youtube channels of [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor) who I have been following long before I got into cyber sec, [John Hammond](https://www.youtube.com/c/JohnHammond010), [David Bombal](https://www.youtube.com/c/DavidBombal), [HackerSploit](https://www.youtube.com/c/HackerSploit) and [NullByte](https://www.youtube.com/c/NullByteWHT). I also learnt that I needed to re-evaluate my twitter account to tailor it to my passion, as well as learn discord and get involved in groups there.  
 
-![Unemployment](https://media.giphy.com/media/EQKtfl2Np0ME05furr/giphy.gif){: .align-right}
+![Unemployment](https://media.giphy.com/media/EQKtfl2Np0ME05furr/giphy.gif){:.align-center}
 
- 
  
 ### The Wild Hunt   
 Now the real challenge was about to begin, and this was finding and landing that first job in cyber sec. and to make it even harder let’s do it during a pandemic. I had more failures than success in this area, <span style="color: yellow">but more on that later</span>, and it was starting to feel like it was never going to happen. I had my CV on all the ‘major’ recruitment sites and I was looking for any Entry Level Job within infosec. I was searching for keywords such as: Entry Level / No experience / Minimal experience / willing to learn / remote / work from home. Job titles I searched for started out like the following: Junior Pen tester / Cyber Sec Analyst / IT Analyst / Pentester / Blue Teamer / SOC Analyst / IT Security Analyst. There were instances where I would have received some communication regarding an application, first round interviews, very few screening calls, but unfortunately I still had no luck.  
@@ -71,19 +71,18 @@ This also didn’t help, I was still in the same position as before, the change 
 I eventually started sending my CV to companies who weren’t looking and said that when they are ready to open the doors for new people to keep me in mind.
  **<span style="color: yellow">"You lose 100% of the chances you don’t take"[2]</span>**  
  
-
 This stuck with me throughout my journey, I figured if I backed myself to study and make it through that, I should back myself in my pursuit to find that job.
 **<span style="color: cyan">Stats for the geeks:</span>**  
 
 Just a few rough numbers to paint a picture of how difficult it was to get into infosec, in an entry level position.
 <span style="color: cyan">In 2020:</span>  
 
-·         Jobs applied for  -         	             > 180 [approx.]  
-·         Rejections -                    	             >= 126 [approx.]  
-·         Feedback [good/bad] -              	 < 50 [from recruiters regarding my application]  
-·         Interviews –                                   	17 interviews  
-·         2nd round Interviews –               	4  
-·         Job Landed –                                  	0  
+| Jobs applied for | > 180 [approx.] |
+| Rejections | >= 126 [approx.] |
+| Feedback [good/bad] | < 50 [from recruiters regarding my application] |
+| Interviews | 17 interviews |
+| 2nd Round Interviews | 4 |
+| Job Landed | 0 |
  
 As you can see it was a really grim picture to the point where at the end of 2020, somewhere around mid-November, I decided to take a break from applying and searching for jobs. I then started looking at how I could stand out from the rest in 2021.  
  
@@ -95,7 +94,7 @@ I also took the time to learn a programming language, as this would make pentest
 
 So with a revitalised mind set after my December break, the new look CV - modified to catch the eye of the right recruiter and a few additional feathers in my cap for Infosec, I was back on the prowl and looking for the right job.  
 
-![He shoots he scores](https://media.giphy.com/media/3otPoN361gYGbwqNgc/giphy.gif){: .align-right}  
+![He shoots he scores](https://media.giphy.com/media/3otPoN361gYGbwqNgc/giphy.gif){:.align-center}  
 
 
 ### He shoots, He scores  
@@ -109,7 +108,7 @@ I thought this is it, if I can't land this then I need to really re-evaluate wha
 The company has since grown and we now have 6 consultants in total, with varying levels of experience, ranging from 0 to 20 years. Some with certifications and some without, the CEO/Director of the company Bevan Lane, has lived up to his promise of helping you with certifications. I am now an ISO/IEC 27001 Lead Implementer, certified by PECB.
 <span style="color: yellow">My next ambitious step is to get my OSCP and if I can create a little pentest division within this company.</span>    
 
-![The Great gatsby](https://media.giphy.com/media/g9582DNuQppxC/giphy-downsized-large.gif){: .align-right}
+![The Great gatsby](https://media.giphy.com/media/g9582DNuQppxC/giphy-downsized-large.gif){:.align-center}
 
 
 ### Mamma I made it  
@@ -153,12 +152,12 @@ Thank you for reading to the end but before you leave take a moment to check out
 ![Bad_Boys](https://media.giphy.com/media/YOvOkaS5ZKfimDIgwJ/giphy.gif){:.align-center}
 
 
-
 ### Pay It Forward  
 If you have the knowledge and skills but need that extra boost to get certified, then check  out [this blog](https://hacksouth.africa/community/Pay-It-Forward/), Hack South is giving away a limited amount of PWK vouchers.  
 
 ![OSCP](/assets/images/OSCP/oscp.png){:.align-center}
- 
+
+
 ### Be a Part of Something Great  
 If you want to be part of a growing community of Hackers/Tech Enthusiasts/Tinkerers and all round great people then [join](https://hacksouth.africa/community/Joining-Hack-South/) the [Hack South](https://hacksouth.africa/) Discord.  
  
