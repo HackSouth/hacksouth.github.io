@@ -241,3 +241,18 @@ Megladon:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/0xc0ffee_jhb"
+      
+Sp3ctrlM0nki3:
+  name: "S3ctrlM0nki3"
+  bio: "Consultant by day and Ethical Hacker by night, OSINT enthusiast.Gamer. Wannabe Tinkerer"
+  avatar: "/assets/images/author/sp3ctrlm0nki3.jpg"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/rowan-botha-5122a112b/
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Sp3ctrM0nki31"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Sp3ctralM0nki3"
