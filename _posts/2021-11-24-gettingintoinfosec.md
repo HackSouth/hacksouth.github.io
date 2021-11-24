@@ -30,7 +30,7 @@ tags:
 By **Sp3ctrlM0nki3**  
  
 So, I’ll start at the beginning . My passion for cyber sec started in a computer lab in high school where I created my first ‘virus’. It was a little **<span style="color: yellow">.bat</span>** virus which would remove the **<span style="color: yellow">System 32 Folder</span>** from your windows system.
- **<span style="color: yellow">" del c:WINDOWSsystem32*.*/q “ [1]</span>**  
+ **<span style="color: yellow">" del c:WINDOWSsystem32*.*/q " [1]</span>**  
  
  
 From there I was hooked but unfortunately in the pursuit of career vs passion, career won, and cyber sec had to take a back seat – although never leaving.
