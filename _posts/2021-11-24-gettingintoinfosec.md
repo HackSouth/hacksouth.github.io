@@ -29,8 +29,8 @@ tags:
 **My journey into cyber security/infosec.**  
 By **Sp3ctrlM0nki3**  
  
-So, I’ll start at the beginning . My passion for cyber sec started in a computer lab in high school where I created my first ‘virus’. It was a little **<span style="color: yellow">.bat</span>** virus which would remove the **<span style=”color: yellow”>System 32 Folder</span>** from your windows system.
- **<span style=”color: yellow”>” del c:WINDOWSsystem32*.*/q “ [1]</span>**  
+So, I’ll start at the beginning . My passion for cyber sec started in a computer lab in high school where I created my first ‘virus’. It was a little **<span style="color: yellow">.bat</span>** virus which would remove the **<span style="color: yellow">System 32 Folder</span>** from your windows system.
+ **<span style="color: yellow">" del c:WINDOWSsystem32*.*/q “ [1]</span>**  
  
  
 From there I was hooked but unfortunately in the pursuit of career vs passion, career won, and cyber sec had to take a back seat – although never leaving.
@@ -41,7 +41,7 @@ In my previous position I was the Contracts & Negotiation Manager for a Tour com
 
  
 ### The Learning Curve
-So left with the decision of what to do now, I took this as the opportunity to pursue my passion of cyber security. I now had the opportunity, and this was it, I took everything I had and invested in myself studying and learning all that I could, and between April 2020 through to October 2020. I studied remotely and earned 14 certifications/course certifications all ranging from – **<span style=”color: yellow”>A+ / N+ / Sec+ / Server+ / CASP+ / CISA / CySA+ / CCNA and my CEH v10</span>**  
+So left with the decision of what to do now, I took this as the opportunity to pursue my passion of cyber security. I now had the opportunity, and this was it, I took everything I had and invested in myself studying and learning all that I could, and between April 2020 through to October 2020. I studied remotely and earned 14 certifications/course certifications all ranging from – **<span style="color: yellow">A+ / N+ / Sec+ / Server+ / CASP+ / CISA / CySA+ / CCNA and my CEH v10</span>**  
 
 Tangent to my story, I did not pursue the CompTIA A+ N+ etc. recognition certification because during my studies, I decided that I wanted to do pentesting/hacking. And from what I understand, you only need to understand the networking and server concepts but don’t really need to have the CompTIA recognition - It’s probably nice to have.  
  
@@ -62,21 +62,21 @@ Another tangent – in the time of THM and HTB, I also discovered HackerOne and 
  
  
 ### The Wild Hunt   
-Now the real challenge was about to begin, and this was finding and landing that first job in cyber sec. and to make it even harder let’s do it during a pandemic. I had more failures than success in this area, <span style=”color: yellow”>but more on that later</span>, and it was starting to feel like it was never going to happen. I had my CV on all the ‘major’ recruitment sites and I was looking for any Entry Level Job within infosec. I was searching for keywords such as: Entry Level / No experience / Minimal experience / willing to learn / remote / work from home. Job titles I searched for started out like the following: Junior Pen tester / Cyber Sec Analyst / IT Analyst / Pentester / Blue Teamer / SOC Analyst / IT Security Analyst. There were instances where I would have received some communication regarding an application, first round interviews, very few screening calls, but unfortunately I still had no luck.  
+Now the real challenge was about to begin, and this was finding and landing that first job in cyber sec. and to make it even harder let’s do it during a pandemic. I had more failures than success in this area, <span style="color: yellow">but more on that later</span>, and it was starting to feel like it was never going to happen. I had my CV on all the ‘major’ recruitment sites and I was looking for any Entry Level Job within infosec. I was searching for keywords such as: Entry Level / No experience / Minimal experience / willing to learn / remote / work from home. Job titles I searched for started out like the following: Junior Pen tester / Cyber Sec Analyst / IT Analyst / Pentester / Blue Teamer / SOC Analyst / IT Security Analyst. There were instances where I would have received some communication regarding an application, first round interviews, very few screening calls, but unfortunately I still had no luck.  
 
 I then switched up the search criteria on titles to the following in the hopes of landing more interviews. I started searching: Database admin / IT admin / IT support / IT helpdesk. Because I had experience in these areas and thought if I could get my foot in the door, I could work my way up into where I wanted to be.  
 
 This also didn’t help, I was still in the same position as before, the change didn’t make any difference. I still wasn’t getting any interviews or callbacks etc. One thing I did learn however from changing my search titles, was that I was selling myself short. If you want to be in infosec, persevere, search for that title, search for that job, go after that company and don’t deviate.  
 
 I eventually started sending my CV to companies who weren’t looking and said that when they are ready to open the doors for new people to keep me in mind.
- **<span style=”color: yellow”>“You lose 100% of the chances you don’t take”[2]</span>**  
+ **<span style="color: yellow">“You lose 100% of the chances you don’t take"[2]</span>**  
  
 
 This stuck with me throughout my journey, I figured if I backed myself to study and make it through that, I should back myself in my pursuit to find that job.
-**<span style=”color: cyan”>Stats for the geeks:</span>**  
+**<span style="color: cyan">Stats for the geeks:</span>**  
 
 Just a few rough numbers to paint a picture of how difficult it was to get into infosec, in an entry level position.
-<span style=”color: cyan”>In 2020:</span>  
+<span style="color: cyan">In 2020:</span>  
 
 ·         Jobs applied for  -         	             > 180 [approx.]  
 ·         Rejections -                    	             >= 126 [approx.]  
@@ -102,12 +102,12 @@ So with a revitalised mind set after my December break, the new look CV - modifi
 
 My job hunting began with new vigour and new hope, my CV went out and I set alerts for myself on the various platforms. So that as soon as something new went live, it would get it immediately and apply.  
 
-It was slow in the beginning but I eventually came across a **<span style=”color: yellow”>status post</span>** on LinkedIn that they were looking for consultants who wanted to get into infosec – little to no experience required and would be willing to help with certifications if you have none.  
+It was slow in the beginning but I eventually came across a **<span style="color: yellow">status post</span>** on LinkedIn that they were looking for consultants who wanted to get into infosec – little to no experience required and would be willing to help with certifications if you have none.  
 
 I thought this is it, if I can't land this then I need to really re-evaluate what I’m looking for and where I want to be [I’m sure some of you have hit this wall before]. Sent my CV, had an interview, waiting a very long time – almost eternity – for feedback, any feedback really. And I got the job as a contractor for 6 months with the company, as a cyber security consultant – which evolved into a 12 month contract [currently in progress] for Infosec Consulting ZA.  
 
 The company has since grown and we now have 6 consultants in total, with varying levels of experience, ranging from 0 to 20 years. Some with certifications and some without, the CEO/Director of the company Bevan Lane, has lived up to his promise of helping you with certifications. I am now an ISO/IEC 27001 Lead Implementer, certified by PECB.
-<span style=”color: yellow”>My next ambitious step is to get my OSCP and if I can create a little pentest division within this company.</span>    
+<span style="color: yellow">My next ambitious step is to get my OSCP and if I can create a little pentest division within this company.</span>    
 
 !The Great gatsby](https://media.giphy.com/media/g9582DNuQppxC/giphy-downsized-large.gif){: .align-right}
 
