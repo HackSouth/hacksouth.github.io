@@ -83,10 +83,10 @@ Just a few rough numbers to paint a picture of how difficult it was to get into 
 | Interviews | 17 interviews |
 | 2nd Round Interviews | 4 |
 | Job Landed | 0 |
- 
+
 As you can see it was a really grim picture to the point where at the end of 2020, somewhere around mid-November, I decided to take a break from applying and searching for jobs. I then started looking at how I could stand out from the rest in 2021.  
  
-I started looking at how I could make myself more marketable and also started asking people in the industry what is it that I’m doing wrong and how do I go about getting noticed.  I reached out to a few people in twitter sphere and I will be honest very few came back to help. One person who did help me was [4n6lady](https://twitter.com/4n6lady) . She asked for my CV at the time and took the time to give me a few pointers on how to tailor my CV, to promote my skills, platforms I’ve been using, tools and experience to help me land that job in infosec.  
+I started looking at how I could make myself more marketable and also started asking people in the industry what is it that I’m doing wrong and how do I go about getting noticed.  I reached out to a few people in twitter sphere and I will be honest very few came back to help. One person who did help me was [4n6lady](https://twitter.com/4n6lady). She asked for my CV at the time and took the time to give me a few pointers on how to tailor my CV, to promote my skills, platforms I’ve been using, tools and experience to help me land that job in infosec.  
 
 With her advice and the help of my wife, I modified my CV highlighting my skills and all the necessary tools that I have been using. The platforms that I have been practising on [THM and HTB], and the communities that I belonged to.  
 
