@@ -109,7 +109,7 @@ I thought this is it, if I can't land this then I need to really re-evaluate wha
 The company has since grown and we now have 6 consultants in total, with varying levels of experience, ranging from 0 to 20 years. Some with certifications and some without, the CEO/Director of the company Bevan Lane, has lived up to his promise of helping you with certifications. I am now an ISO/IEC 27001 Lead Implementer, certified by PECB.
 <span style="color: yellow">My next ambitious step is to get my OSCP and if I can create a little pentest division within this company.</span>    
 
-!The Great gatsby](https://media.giphy.com/media/g9582DNuQppxC/giphy-downsized-large.gif){: .align-right}
+![The Great gatsby](https://media.giphy.com/media/g9582DNuQppxC/giphy-downsized-large.gif){: .align-right}
 
 
 ### Mamma I made it  
