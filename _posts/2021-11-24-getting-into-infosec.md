@@ -22,7 +22,7 @@ tags:
 [He shoots, He scores](https://hacksouth.africa/community/Getting-into-Infosec-Cyber-Security/#step-5-He-shoots-He-scores)  
 [Mamma I made it](https://hacksouth.africa/community/Getting-into-Infosec-Cyber-Security/#step-6-Mamma-I-made-it)  
 [Pay It Forward](https://hacksouth.africa/community/Getting-into-Infosec-Cyber-Security/#step-7-Pay-It-Forward)  
-[Be Part of Something Great](https://hacksouth.africa/community/Getting-into-Infosec-Cyber-Security/#step-8-Be-Part-of-Something-Great)  
+[Be a Part of Something Great](https://hacksouth.africa/community/Getting-into-Infosec-Cyber-Security/#step-8-Be-a-Part-of-Something-Great)  
 
 
 
@@ -30,7 +30,7 @@ tags:
 By **Sp3ctrlM0nki3**  
  
 So, I’ll start at the beginning . My passion for cyber sec started in a computer lab in high school where I created my first ‘virus’. It was a little **<span style="color: yellow">.bat</span>** virus which would remove the **<span style="color: yellow">System 32 Folder</span>** from your windows system.
- **<span style="color: yellow">" del c:WINDOWSsystem32*.*/q " [1]</span>**  
+ **<span style="color: yellow"><code>del c:WINDOWSsystem32*.*/q </code>[1]</span>**  
  
  
 From there I was hooked but unfortunately in the pursuit of career vs passion, career won, and cyber sec had to take a back seat – although never leaving.
@@ -159,7 +159,7 @@ If you have the knowledge and skills but need that extra boost to get certified,
 
 ![OSCP](/assets/images/OSCP/oscp.png){:.align-center}
  
-### Be Part of Something Great  
+### Be a Part of Something Great  
 If you want to be part of a growing community of Hackers/Tech Enthusiasts/Tinkerers and all round great people then [join](https://hacksouth.africa/community/Joining-Hack-South/) the [Hack South](https://hacksouth.africa/) Discord.  
  
  
