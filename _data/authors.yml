@@ -245,7 +245,7 @@ Megladon:
 Sp3ctrlM0nki3:
   name: "Sp3ctrlM0nki3"
   bio: "Consultant by day and Ethical Hacker by night. OSINT enthusiast. Gamer. Wannabe Tinkerer"
-  avatar: "/assets/images/author/sp3ctrlm0nki3.jpg"
+  avatar: "/assets/images/authors/sp3ctrlm0nki3.jpg"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"

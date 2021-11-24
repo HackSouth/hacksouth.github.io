@@ -15,6 +15,13 @@ tags:
 
 ![Preview](/assets/images/getintoinfosec/preview2.jpg){:.align-center}
 
+**My journey into cyber security/infosec.**  
+By **Sp3ctrlM0nki3**  
+ 
+So, I’ll start at the beginning. My passion for cyber sec started in a computer lab in high school where I created my first ‘virus’. It was a little **<span style="color: yellow">.bat</span>** virus which would remove the **<span style="color: yellow">System 32 Folder</span>** from your windows system.
+ **<span style="color: yellow"><code>del c:WINDOWSsystem32*.*/q </code>[1]</span>**  
+<!--more--> 
+
 ### TL;DR
 
 [The Learning Curve](https://hacksouth.africa/community/Getting-into-Infosec-Cyber-Security/#step-2-The-Learning-Curve)  
@@ -24,15 +31,6 @@ tags:
 [Mamma I made it](https://hacksouth.africa/community/Getting-into-Infosec-Cyber-Security/#step-6-Mamma-I-made-it)  
 [Pay It Forward](https://hacksouth.africa/community/Getting-into-Infosec-Cyber-Security/#step-7-Pay-It-Forward)  
 [Be a Part of Something Great](https://hacksouth.africa/community/Getting-into-Infosec-Cyber-Security/#step-8-Be-a-Part-of-Something-Great)  
-
-
-
-**My journey into cyber security/infosec.**  
-By **Sp3ctrlM0nki3**  
- 
-So, I’ll start at the beginning . My passion for cyber sec started in a computer lab in high school where I created my first ‘virus’. It was a little **<span style="color: yellow">.bat</span>** virus which would remove the **<span style="color: yellow">System 32 Folder</span>** from your windows system.
- **<span style="color: yellow"><code>del c:WINDOWSsystem32*.*/q </code>[1]</span>**  
- 
  
 From there I was hooked but unfortunately in the pursuit of career vs passion, career won, and cyber sec had to take a back seat – although never leaving.
 Fast forward many years later and I find myself the victim of a global pandemic [along with many others] and with the onset of COVID19, I lost my job, and the world went into a lockdown. I was left with the daunting question of what to do now, I spent most of my working career in the Hospitality sector, dabbling here and there in the IT sphere.
