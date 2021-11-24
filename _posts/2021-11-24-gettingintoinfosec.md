@@ -69,7 +69,7 @@ I then switched up the search criteria on titles to the following in the hopes o
 This also didn’t help, I was still in the same position as before, the change didn’t make any difference. I still wasn’t getting any interviews or callbacks etc. One thing I did learn however from changing my search titles, was that I was selling myself short. If you want to be in infosec, persevere, search for that title, search for that job, go after that company and don’t deviate.  
 
 I eventually started sending my CV to companies who weren’t looking and said that when they are ready to open the doors for new people to keep me in mind.
- **<span style="color: yellow">“You lose 100% of the chances you don’t take"[2]</span>**  
+ **<span style="color: yellow">"You lose 100% of the chances you don’t take"[2]</span>**  
  
 
 This stuck with me throughout my journey, I figured if I backed myself to study and make it through that, I should back myself in my pursuit to find that job.
