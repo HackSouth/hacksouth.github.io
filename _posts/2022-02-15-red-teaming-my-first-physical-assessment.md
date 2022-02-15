@@ -2,7 +2,7 @@
 title: "Red Teaming - My first physical assessment"
 author: chrismeistre
 header:
-  teaser: /assets/images/redteamfirst/red-team-500px.jpg
+  teaser: /assets/images/redteamingfirst/red-team-500px.jpg
 excerpt_separator: "<!--more-->"
 categories:
  - Careers
@@ -11,7 +11,7 @@ tags:
  - Penetration Testing
 ---
 
-![Preview](/assets/images/redteamfirst/red-team-500px.jpg){:.align-center}
+![Preview](/assets/images/redteamingfirst/red-team-500px.jpg){:.align-center}
 
 **Red Teaming - My first physical assessment**  
 By **chrismeistre**  
