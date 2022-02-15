@@ -1,164 +1,292 @@
 ---
-title: "Getting into Infosec/Cyber Security"
-author: Sp3ctrlM0nki3
+title: "Red Teaming - My first physical assessment"
+author: chrismeistre
 header:
-  teaser: /assets/images/getintoinfosec/preview2.jpg
+  teaser: /assets/images/redteamfirst/red-team-500px.jpg
 excerpt_separator: "<!--more-->"
 categories:
  - Careers
 tags:
- - Getting into Infosec
- - Careers
- - Infosec
- - OSCP
+ - Red Teaming
+ - Penetration Testing
 ---
 
-![Preview](/assets/images/getintoinfosec/preview2.jpg){:.align-center}
+![Preview](/assets/images/redteamfirst/red-team-500px.jpg){:.align-center}
 
-**My journey into cyber security/infosec.**  
-By **Sp3ctrlM0nki3**  
+**Red Teaming - My first physical assessment**  
+By **chrismeistre**  
  
-So, I’ll start at the beginning. My passion for cyber sec started in a computer lab in high school where I created my first ‘virus’. It was a little **<span style="color: yellow">.bat</span>** virus which would remove the **<span style="color: yellow">System 32 Folder</span>** from your windows system.
- **<span style="color: yellow"><code>del c:WINDOWSsystem32*.*/q </code>[1]</span>**  
-<!--more--> 
+I've recently been given the opportunity to perform my first physical assessment during a black box engagement for a client.
 
-### TL;DR
+In short, the black box permitted us to try anything to gain access to their infrastructure, and assess their IT security awareness and defenses.  
 
-[The Learning Curve](https://hacksouth.africa/community/Getting-into-Infosec-Cyber-Security/#step-2-The-Learning-Curve)  
-[Skills loading in progress](https://hacksouth.africa/community/Getting-into-Infosec-Cyber-Security/#step-3-Skills-loading-in-progress)  
-[The Wild Hunt](https://hacksouth.africa/community/Getting-into-Infosec-Cyber-Security/#step-4-The-Wild-Hunt)  
-[He shoots, He scores](https://hacksouth.africa/community/Getting-into-Infosec-Cyber-Security/#step-5-He-shoots-He-scores)  
-[Mamma I made it](https://hacksouth.africa/community/Getting-into-Infosec-Cyber-Security/#step-6-Mamma-I-made-it)  
-[Pay It Forward](https://hacksouth.africa/community/Getting-into-Infosec-Cyber-Security/#step-7-Pay-It-Forward)  
-[Be a Part of Something Great](https://hacksouth.africa/community/Getting-into-Infosec-Cyber-Security/#step-8-Be-a-Part-of-Something-Great)  
- 
-From there I was hooked but unfortunately in the pursuit of career vs passion, career won, and cyber sec had to take a back seat – although never leaving.
-Fast forward many years later and I find myself the victim of a global pandemic [along with many others] and with the onset of COVID19, I lost my job, and the world went into a lockdown. I was left with the daunting question of what to do now, I spent most of my working career in the Hospitality sector, dabbling here and there in the IT sphere.
-In my previous position I was the Contracts & Negotiation Manager for a Tour company but also, IT support/ Helpdesk / the IT liaison for our external supplier / Database admin as well as IT procurement. Clearly an abuse of my passion by the company but I digress.  
+I was excited about this, and when the time finally came, I wasn't left wanting.
 
-![Homer Studying](https://media.giphy.com/media/q1mHcB8wOCWf6/giphy.gif){:.align-center}
+If you're reading this as an aspiring hacker, or just someone interested in cyber security or the infosec community, you've probably heard at least one story of a red teamer performing a physical assessment.  I have listened to many interviews and read stories, so I thought I knew what to expect.
 
- 
-### The Learning Curve
-So left with the decision of what to do now, I took this as the opportunity to pursue my passion of cyber security. I now had the opportunity, and this was it, I took everything I had and invested in myself studying and learning all that I could, and between April 2020 through to October 2020. I studied remotely and earned 14 certifications/course certifications all ranging from – **<span style="color: yellow">A+ / N+ / Sec+ / Server+ / CASP+ / CISA / CySA+ / CCNA and my CEH v10</span>**  
+The TD;LR is that it's definitely not as hard as I imagined it would be.
 
-Tangent to my story, I did not pursue the CompTIA A+ N+ etc. recognition certification because during my studies, I decided that I wanted to do pentesting/hacking. And from what I understand, you only need to understand the networking and server concepts but don’t really need to have the CompTIA recognition - It’s probably nice to have.  
- 
-What I wanted is basically, I wanted to break into things legally and get paid to do it. Why you may ask, because no system will be the same, no network will be the same, environments are forever changing and each new one brings on a new challenge and that’s what I wanted.  
+What I'd like to discuss in this article are the technical (a few) and social engineering (a lot) aspects of this engagement.  
 
-So, I now had certifications, what now? I studied hard but I have no practical skills, no way of practicing either since we only had 1 laptop in the house, and it was my wife’s work laptop. So, trying to hack her laptop or messing around with potentially dangerous items could be detrimental to her business.  
+### Our goal
 
-![Loading](https://media.giphy.com/media/hL9q5k9dk9l0wGd4e0/giphy.gif){:.align-center}
+We decided that our goal for this engagement would be to fully compromise their internal network, and take over the domain controller.  There was a feeling in the team that if we could just gain access into the internal network, the escalation to taking over the domain controller should not be too hard.
 
+#### A side note
 
-### Skills loading in progress   
-This is when I discovered TryHackMe [THM](https://tryhackme.com/) and HackTheBox [HTB](https://www.hackthebox.com/). TryHackMe was my go-to platform since they offered a more convenient option when practicing skills than HackTheBox at the time – it could be different now, I’m not sure. But I made sure I at least did one machine a day in THM to keep my skills relevant [on free only, because broke]. I nicely got my rank up and got my skill level to a decent level for any entry level job, or so I thought.  
+It is normally the case that once we get on the internal network, we're able to escalate to a domain administrator with relative ease.  Especially for companies that haven't gone through an internal vulnerability assessment or penetration test.  A lot of companies spend all their time and money on securing they external facing infrastructure, which is definitely a good thing.  They do however forget that their internal network could be riddled with opportunities for an attacker.
 
-Another tangent – in the time of THM and HTB, I also discovered HackerOne and Hacker101[for CTFs]. Youtube channels of [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor) who I have been following long before I got into cyber sec, [John Hammond](https://www.youtube.com/c/JohnHammond010), [David Bombal](https://www.youtube.com/c/DavidBombal), [HackerSploit](https://www.youtube.com/c/HackerSploit) and [NullByte](https://www.youtube.com/c/NullByteWHT). I also learnt that I needed to re-evaluate my twitter account to tailor it to my passion, as well as learn discord and get involved in groups there.  
+### The start of the engagement
 
-![Unemployment](https://media.giphy.com/media/EQKtfl2Np0ME05furr/giphy.gif){:.align-center}
+Whenever we start with an engagement, we go through a checklist of things to do.  
 
- 
-### The Wild Hunt   
-Now the real challenge was about to begin, and this was finding and landing that first job in cyber sec. and to make it even harder let’s do it during a pandemic. I had more failures than success in this area, <span style="color: yellow">but more on that later</span>, and it was starting to feel like it was never going to happen. I had my CV on all the ‘major’ recruitment sites and I was looking for any Entry Level Job within infosec. I was searching for keywords such as: Entry Level / No experience / Minimal experience / willing to learn / remote / work from home. Job titles I searched for started out like the following: Junior Pen tester / Cyber Sec Analyst / IT Analyst / Pentester / Blue Teamer / SOC Analyst / IT Security Analyst. There were instances where I would have received some communication regarding an application, first round interviews, very few screening calls, but unfortunately I still had no luck.  
+Amongst other things, it involves:
+1. Obtaining information (through OSINT) about the company and their employees
+2. Compile a list of externally accessible devices (domains and IPs)
+3. Do enumeration on the devices to determine what services are accessible to us
+4. Look for low hanging fruit and/or weaknesses to exploit from the comfort of our offices
 
-I then switched up the search criteria on titles to the following in the hopes of landing more interviews. I started searching: Database admin / IT admin / IT support / IT helpdesk. Because I had experience in these areas and thought if I could get my foot in the door, I could work my way up into where I wanted to be.  
+During this black box, we spent a good number of days with the first phase.  Although we found a number of critical vulnerabilities, it was not anything that would gain us access into the internal network.
 
-This also didn’t help, I was still in the same position as before, the change didn’t make any difference. I still wasn’t getting any interviews or callbacks etc. One thing I did learn however from changing my search titles, was that I was selling myself short. If you want to be in infosec, persevere, search for that title, search for that job, go after that company and don’t deviate.  
+### Phishing
 
-I eventually started sending my CV to companies who weren’t looking and said that when they are ready to open the doors for new people to keep me in mind.
- **<span style="color: yellow">"You lose 100% of the chances you don’t take"[2]</span>**  
- 
-This stuck with me throughout my journey, I figured if I backed myself to study and make it through that, I should back myself in my pursuit to find that job.
-**<span style="color: cyan">Stats for the geeks:</span>**  
+The second phase involved performing a phishing attack on the company.  
 
-Just a few rough numbers to paint a picture of how difficult it was to get into infosec, in an entry level position.
-<span style="color: cyan">In 2020:</span>  
+The goal of phishing during a black box engagement is different to just performing a phishing attack assessment.  For a black box, we are not testing to see how many clicks there are, or how many credentials are captured.  We want to obtain valid credentials, and at the same time go undetected.
 
-| Jobs applied for | > 180 [approx.] |
-| Rejections | >= 126 [approx.] |
-| Feedback [good/bad] | < 50 [from recruiters regarding my application] |
-| Interviews | 17 interviews |
-| 2nd Round Interviews | 4 |
-| Job Landed | 0 |
+We were able to obtain a small number of valid emails addresses through OSINT.  
 
-As you can see it was a really grim picture to the point where at the end of 2020, somewhere around mid-November, I decided to take a break from applying and searching for jobs. I then started looking at how I could stand out from the rest in 2021.  
- 
-I started looking at how I could make myself more marketable and also started asking people in the industry what is it that I’m doing wrong and how do I go about getting noticed.  I reached out to a few people in twitter sphere and I will be honest very few came back to help. One person who did help me was [4n6lady](https://twitter.com/4n6lady). She asked for my CV at the time and took the time to give me a few pointers on how to tailor my CV, to promote my skills, platforms I’ve been using, tools and experience to help me land that job in infosec.  
+I'm still working on my own methodology for phishing attacks, but here are a few things I do, which have proved quite successful so far:
+1. Register a domain that is very similar to the company's domain.  An example would be if you're going to attack google.com, perhaps something like googlesupport.com is a good idea.  We have also registered a number of domain names that are generic.  I alternate between using a very targetted domain and generic ones, depending on who the target is.
+2. Use web portals that you find during the first phase (enumerating) of the engagement, and setup a login page that looks similar.  A lot of our clients are using security and spam solutions for emails, so it's been getting a lot more difficult to create email content and fake pages based on ones that already exist.  This is where my experience as a web application developer comes in, as I'm able to create pages pretty much from scratch, to still look the same, but be totally different.  I also have a very generic login page that I use, where I just swop out the client's logo each time.
+3. Craft the emails that will go out to seem urgent enough that if they don't respond soon, they might end off in trouble.  This is also where a lot of time is spent, to compile and send off emails to see if it triggers any junk, spam or malicious filters.
+4. Once the credentials are submitted on the page, redirect them to a page or a document that you appear legitimate.  It's good if you can find a page that is hosted on their own website.  If nothing happens when they submit their credentials on the form, they might contact the IT department to determine if something is the matter.
 
-With her advice and the help of my wife, I modified my CV highlighting my skills and all the necessary tools that I have been using. The platforms that I have been practising on [THM and HTB], and the communities that I belonged to.  
+The first attempt at the phishing attack was not successful.  We did not even get one click, which was very surprising to me, because this specific combination of email and landing page has always been successfully used.
 
-I also took the time to learn a programming language, as this would make pentesting easier going forward. I started a few Python programming courses in the beginning of January 2021 and finished all 4 courses by the end of March 2021.    
+I let it be for a few days, and then started delving into why it could possibly not have worked.  It turned out that due to an error on our server, at the exact time we started the phishing campaign, none of the emails even reached the targets.
 
-So with a revitalised mind set after my December break, the new look CV - modified to catch the eye of the right recruiter and a few additional feathers in my cap for Infosec, I was back on the prowl and looking for the right job.  
+With this information at hand, we launched another attack.  This time there was nothing for about 30 minutes, which is also odd, so I thought we had another issue.  My frustration subsided as soon as the notification came in that we had a data submission.  This means a target had clicked on the linked in the email, went to our fake site and filled in their username and password.
 
-![He shoots he scores](https://media.giphy.com/media/3otPoN361gYGbwqNgc/giphy.gif){:.align-center}  
+We used this information to access this person's emails.  Looking for keywords in their emails, we learned the following:  
+1.  The VPN software they are using has enabled 2FA on it.  This meant that if we wanted to gain access through their VPN, we would have to gain access to this person's cellphone or do a vhishing attack to obtain the auth token needed to complete the 2FA request while connecting to the VPN.
+2.  We found a number of usernames and passwords used to access external services.
+3.  We observed that the IT department had noticed our phishing attacks, and warned the users that if they have clicked on the link in the email, to immediately contact the IT support team to change passwords.  To make sure our compromised user did not see that email, we deleted it from their inbox.  
+4.  A complete contact list is available in the directory functionality of the webmail software, which allowed us to get a list of a lot more targets for a phishing attack.  We could also set it up that the emails are sent directly from this person's email address by making use of the webmail functionality.
 
+Based on the information we found about the steps taken when the phishing attack was noticed, we proceeded with a third attack.
 
-### He shoots, He scores  
+We chose a smaller set of email addresses from users that appeared to be in less technical positions.  The thinking is that users like these would be less likely to detect that the email they are receiving is not legitimate.  We were again able to get at least one submission of valid credentials before the IT department detected the attack and proceeded to act against it.  The password was changed the day after our attack.
 
-My job hunting began with new vigour and new hope, my CV went out and I set alerts for myself on the various platforms. So that as soon as something new went live, it would get it immediately and apply.  
+Obtaining a valid set of credentials ended up being very important to us, even though we couldn't use it to gain access to the internal network from the external devices with it.
 
-It was slow in the beginning but I eventually came across a **<span style="color: yellow">status post</span>** on LinkedIn that they were looking for consultants who wanted to get into infosec – little to no experience required and would be willing to help with certifications if you have none.  
+This phase turned out a lot more difficult to implement because the IT department was quite good at detecting this.  It's not something I've come across often while performing phishing.
 
-I thought this is it, if I can't land this then I need to really re-evaluate what I’m looking for and where I want to be [I’m sure some of you have hit this wall before]. Sent my CV, had an interview, waiting a very long time – almost eternity – for feedback, any feedback really. And I got the job as a contractor for 6 months with the company, as a cyber security consultant – which evolved into a 12 month contract [currently in progress] for Infosec Consulting ZA.  
+### Vhishing
 
-The company has since grown and we now have 6 consultants in total, with varying levels of experience, ranging from 0 to 20 years. Some with certifications and some without, the CEO/Director of the company Bevan Lane, has lived up to his promise of helping you with certifications. I am now an ISO/IEC 27001 Lead Implementer, certified by PECB.
-<span style="color: yellow">My next ambitious step is to get my OSCP and if I can create a little pentest division within this company.</span>    
+Our next phase would include vhishing attacks.  This is where we engage with a target over the phone, in order to get them to provide us with sensitive information, or get them to perform actions on their computers for us.
 
-![The Great gatsby](https://media.giphy.com/media/g9582DNuQppxC/giphy-downsized-large.gif){:.align-center}
+This company had a lot of stores all over the country, so there were a lot of opportunities for vhishing.  We gained a list of these stores and their contact details through OSINT.
 
+It took me a few days to actually get onto the first attack.  This would be the first time that I officially do this during an engagement, and I was trying to wrap my head around what the end goal is going to be here.  Am I going to get them to install something like Anydesk on their PC that allowed me remote access, am I going to get them to open an email that I'll send them that contains something reverse shell, am I going to just get their passwords, or what am I supposed to do.
 
-### Mamma I made it  
+I eventually decided I'm just going to wing it.  The rough plan was :  
+1.  Phone them up
+2.  Introduce myself as John from head office IT 
+3.  Ask to speak to someone that could be sitting in front of the computer that could assist me troubleshoot an issue
+4.  See what happens and go from there
 
-I'm happy to have made it into infosec, it’s a tough industry to get into and the strange part is – it’s a known problem. After getting into the industry somehow my social media channels new I made it in and I started seeing posts about how tough it is to get into cyber sec/infosec.  
+It took about 8 tries before I got one of the stores to actually pick up the phone.  I introduced myself, and it happened to be that the person I was speaking to was actually sitting in front of the computer.  I explained that we can see there is an issue with her antivirus, and we need to resolve it before something infects the computer and destroys the data.
 
-Posts about the ‘gatekeepers’ of infosec and companies searching for candidates who could do it all, had it all and were willing to take home less than what they were valued. I could believe what I was reading, but I could relate because I went through this.  
+This person was more than willing to assist.  I said I just needed to know which username and password was being used on that computer, to make sure we're going to be working on the right computer.  Without hesititation, they provided their username and password.  I took a chance and asked if they perhaps know the password for the server too, but unfortunately they did not know that.
 
-I understand that HR won't always know what to look for, understand the terms and that sometimes job ads are just cut and paste, but it shouldn’t be so hard. I have also heard of the recruiters who, when reviewing a CV, use CTRL+F and search your CV for the keywords they put in the job ads, and if it’s not there you get ‘tossed’ to the side never to be looked at again – unless they are desperate.  
+I proceeded to get them to open their web browser, and see if they can go to a website.  Unfortunately it appeared they were behind a proxy.  I then had them open a command shell to run a ping against an external website, but there didn't seem to be any access to the Internet from the workstation.  As they were seeing an error on the screen, I decided to take this opportunity to explain to them that it appears we're not going to be able to fix the problem remotely, so we will have to send out a IT person to come to the store.  This would set us up to do a physical penetration test at this store.
 
-I’m not saying companies should take anyone, but at least give the CV a proper review and if the candidate doesn’t have what it takes to be in your company RIGHT NOW, give them that constructive criticism/feedback.    
+Before ending the call, I also asked for the manager's name, surname and cellphone number, which I was given.  
 
-I would have loved it if someone told me what I was doing wrong in my applications or what areas I needed to focus to stand a better chance to land that interview.
-So here are my tips to you:  
+I proceeded to phone a number of stores with a similar script, obtaining information at each store.  I was surprised that with just a bit of friendliness, you can solicit information from people without it triggering any suspicion.
 
-1.   Modify your CV to highlight your skills:  
-Tools – Nmap, Wireshark, Burpsuite etc.  
-OS that you familiar with – Windows / Linux / MAC OS  
-platform you are familiar with – THM / HTB / Hacker1 etc.  
- 
-2.   Learn a programming language, enough to be able to read the code and understand at least 80% of it and add it as part of your skills.  
-3.   Put the important things first, credentials should be on the first page of your CV along with the items I have mentioned.  
-4.   Put your most recent duties, from your previous job or current job, on the first page as well – recruiters will want to see what you are doing now rather than what you did.   You want to hook them to your CV and once they are there, they can read the rest.  
-5.   Ask someone who is in the industry if they would mind reviewing your CV, try for someone who has a position you want. Don’t be discouraged if you don’t get a response, but don’t stop asking.  
-6.   Highlight your Expertise, list the things you're good at – this is the time to boast about how good you are in certain areas.  
-7.   Don’t lie on your CV, a very basic tip but also very important – if you can't do something, be honest and say so. It shows integrity and that you are aware of what you need to work on.  
-8.   Do your research on Colleges/Institutions that you’re thinking of using for your studies, not all of them are accredited or recognized by any specific body.  
-  
-Do all the above and keep applying, it will eventually happen for you like it did for me. It’s easy to say this now sitting on the other side, but I went through countless applications, endless rejections [I’m currently still getting rejection emails from companies I applied to last year]. But all I needed is someone to take a chance on me, and someone will take a chance on you.  
- 
-**Footnote**  
-I would like to give a shoutout to all the people who helped me, in their own way, to get me here.  
-Leigh Botha – Director of L&S People Solutions  
-Bevan Lane  – Director of Infosec Consulting ZA  
-[4n6lady](https://twitter.com/4n6lady)  – Twitter contact who helped me with insight into getting into the industry.  
- 
-You all made it possible.  
+#### A side note
 
-Thank you for reading to the end but before you leave take a moment to check out the below, you’ll thank me later.  
+During one conversation, I was informed of an actual IT problem that they were experiencing.  I assured her that someone would be sent to look into this issue, setting myself up for a store visit if needed.  I still feel bad that I never got to that store and I hope that eventually someone did sort out her problem.
 
-![Bad_Boys](https://media.giphy.com/media/YOvOkaS5ZKfimDIgwJ/giphy.gif){:.align-center}
+### Moving onto the physical assessment
+
+With the vhishing phase done, and having set ourselves up to a reason to access the stores and the IT infrastructure there, we proceeded to the next phase, which would be the physical.
+
+### The Recon
+
+I had a number of stores that were relatively close to me, so I decided to do some recon on them first, before deciding which will be the target or targets.
+
+One good thing about the Covid pandemic, is that we are all forced to wear masks.  That makes it easier to hide.  The timing was also good, because I hadn't cut my hair in a while.  
+
+My plan was to try and do the following at each store:
+
+1.  Establish what type of security is implemented.  This would include determining where security guards are placed,  how they interact with clients,  how busy the shop is, what type of access control there is to access high value areas, how accessible these high values areas are and how much movement there is in those areas.
+2.  Check if there are any network connections that aren't being used in the store somewhere.  If these are available, it might be possible to put a dropbox in without anyone noticing.
+3.  Determine if there are any other opportunities for an attack.
+4.  Do a quick Wifi scan using my phone to see what access points are available.
 
 
-### Pay It Forward  
-If you have the knowledge and skills but need that extra boost to get certified, then check  out [this blog](https://hacksouth.africa/community/Pay-It-Forward/), Hack South is giving away a limited amount of PWK vouchers.  
+With the first store, I just went in with an open mind.  And based on my plan, here is what I found:  
+1.  There is one security guard at the entrance, that seems very interested in making sure everyone has sanitised their hands.  I observed him while making my way through the rest of the store.  He appeared to be searching bags of people as they exit the store.
+2.  There are CCTV cameras all over.
+3.  The store is quite busy, with a lot of movement inside.
+4.  Casually browsing around, I found a vacant network connection that also had a power plug right next to it.  The way it was placed, provided a perfect opportunity to place a dropbox without it being noticed.  The only problem was that it was in view of the security guard, but after considering a few options around that area, I was confident I had a way to place the dropbox without drawing attention to myself.
+5.  I found that accessing the offices where the computers and most likely the server are stored would be easy.  There was no access control, with doors open.  Glancing down the passage as I walked past, I saw what looked like a server cabinet.
+6.  I found a number of Wifi access points active in the store, and took note of the security protocol each used.
 
-![OSCP](/assets/images/OSCP/oscp.png){:.align-center}
+This store had ample opportunity to be a target, so I decided to head back to the office to set up and come back to see what we can achieve.
+
+### Building the dropbox and other equipment
+
+I'll try and go into a little bit of details here, but my plan is to write this up into a separate article.  It was my first time setting up a dropbox, so there was quite a bit of experimenting and testing that went into this.  Luckily there have been plenty of red teamers before my time, and they write about it all over the Internet.
+
+#### Raspberry Pi Zero W
+
+This was the only device available to me, while I waited for the other one to be delivered.  I added a Ethernet and Battery HAT, because the device only has a built-in wifi connection.  The battery was to keep it running in case of a power failure, or someone unplugging the device.
+
+I installed Kali on there, because then I would automatically have all my favourite tools as well.
+
+I set it up that it acted as a wireless access point (hostapd), so that I could connect to it using my phone or laptop in case I needed to do any manual setting up once I am in the store.
+
+For persistence and connecting to our C2 server, I used an automated script (using autossh) to create a reverse SSH connection.  I also set it up as a VPN (OpenVPN) client, to connect to our server automatically.
+
+Not having a 3d printer, or able to order cases for the Pi, I had to get creative with the box I was going to use.  I put on some stickers and a warning label, which would hopefully look like it fit wherever I would leave it.  Everything was ready to connect to a power source and to the network connection.  
+
+I tested it extensively in the office, making sure that once I had a reverse SSH connection, I can access the network, perform scans and run utilities.  
+
+Being a developer I love automating things, so to have this dropbox fire up the first time, connect to everything it was supposed to and give me access was such an awesome moment for me.
+
+The Pi device doesn't have a lot of memory, so I knew I wouldn't be able to run memory intensive scans like Nessus.  I figured if I can just get a port scan of the network, I could pivot (proxychains) into the network and use further utilities from my own attack box.
+
+#### USB Drive
+
+Having a rough idea of what I'm going to face when I get access to the computers, I decided to also just prepare some utilities to use on the computers.
+
+- Mimikatz (dump passwords and hashes in case I could log in as Administrator somewhere)
+- Custom built persistent reverse shell (I spent a few hours on building a reverse shell that would execute while evading antivirus and Microsoft Defender)
+- PowerView.ps1 (script to enumerate the domain)
+- plink (setup a reverse SSH on the workstations or servers)
+- Copy and paste scripts that I could use to create exclusion lists on Defender or disable it completely
+
+##### A side note
+
+I added Mimikatz and PowerView into a password protected zip file.  The last thing I wanted was to plug in the device, have the antivirus automatically scan the USB drive and then delete my utilities.
+
+#### Other equipment
+
+- Screwdriver (in case I needed to open the case)
+- Extra Ethernet cable, connection extender and connection splitter (in case I needed to hook into another connection that is already being used)
+- 2-prong plug
+- USB charging cable
+- Laptop with Kali installed, and setup to automatically connect to the Pi via Wifi
+- Live Kali installation on a bootable USB
+- Company ID badge
 
 
-### Be a Part of Something Great  
-If you want to be part of a growing community of Hackers/Tech Enthusiasts/Tinkerers and all round great people then [join](https://hacksouth.africa/community/Joining-Hack-South/) the [Hack South](https://hacksouth.africa/) Discord.  
- 
- 
-[1] The code is for reference and educational purposes only, I take no responsibility for the malicious use of the code by the reader.  
-[2] This is an adaptation of Wayne Gretzky’s - You miss 100% of the shots you don't take.  
+### Going to the shop
+
+I decided to go to the store at a time I thought it would be even busier.  By this time I had my hair cut, not really because of the engagement, but just coincidence.  
+
+By the time I stopped at the store, and got out the car, I was relatively at ease.  It was as I was approaching the door that I had stream of thoughts enter my head about what could go wrong.
+
+#### A side note 
+
+It's at this point it's worth noting that we had full permission to do what I was about to do.  There is normally a letter that we get, that we can carry with us.  It's called a "get out of jail free" card.  You normally pull this out if anyone that catch on to what you are doing, and want to phone the police on you.  The letter contains details about why you are at the store and who they can contact at their own head offices to validate the story.  For anyone attempting this, I would recommend that you always keep that letter on you.
+
+As I passed through the door, my mind was completely focused, and I walked straight to the security guard.  I introduced myself, explained to him that I was there to provide IT support, and asked if he would be so kind as to direct me to where the offices were.  It helped that I was able to provide him a name as well of the person I'm supposed to meet.  The friendly guard happily showed me which direction to go.   I could probably have just walked past him to the offices, but in my mind it was important to setup this contact with the him.  Now he is familiar with me, he knows why I am there, and probably won't even look at me twice when he sees me again.
+
+I walked to the offices, and had another brainwave.  I got out my phone, and pretended that I was speaking to someone as I walked into the passage way that branched off to the offices.  Making sure I could be heard by anyone in earshot, I pretended that I was telling the IT department that I just arrived and I will give them a "sitrep" as soon as I know what is going on.  This worked out perfectly, because someone actually heard me and came out of their office before I even "hang up".  They looked at me, and asked if I'm from the IT department.  I confirmed that I was, and gave them the name of the person (manager name that I obtained through the vhishing) I needed to make contact with.  This happened to be the same person standing in front of me.
+
+With that first point of contact out of the way, and having gone smoothly, I now had access to the office, and the computers it contained.
+
+#### Successes
+
+- I had full access to the server cabinet, and in fact I could close the door behind me in the server room and carry on uninterupted.
+- All workstations were logged in as local administrator users.
+- The server was logged in as Administrator.
+- The dropbox worked and I could access it via Wifi.
+- As I had access to the server cabinet, I didn't need to hide the dropbox, I just plugged it directly into the network switch.
+- Disabling the antivirus or creating exception rules didn't require passwords.
+- Workstations were all logged into various sensitive applications.
+
+#### Little hurdles
+- There was no DHCP on the network, so through a bit of trial and error I found an IP address I could use
+
+
+#### Failures
+
+- No Internet connectivity on any of the computers, servers or dropbox (no reverse shell, no reverse SSH).
+- Mimikatz didn't work because the version of the operating systems were so outdated.
+- Powerview not available on the server or workstation.
+
+I decided to limit my time to about an hour on site, before I made contact with the manager again.  I explained that I couldn't determine yet what the issue was, and that I would have to come back later, or the following day.  They were quite happy with this, so I left.
+
+On the way out, I greeted the security guard again, and he must've felt comfortable with my presence, because he did not search my bags on the way out.
+
+### Back to the drawing board
+
+We needed a way to access my dropbox once it was connected to their network.  We decided to put a 3G router in the dropbox container as well, which would then give it connection to the Internet.  This way the reverse SSH and VPN connection would run though that 3G connection, while still giving access to the local network via the network cable.
+
+I also got a version of Mimikatz onto my flash drive that should work on the older operating systems.
+
+As with the previous visit to the store, just before I reach the doorway of the store, I have the same rush of thoughts of everything that could go wrong.  It's amplified this time because at the entrance they have "cash in transit" security guards busy loading money from an ATM.  For some reason the big guns they are carry makes it an especially scary moment for me.  I force myself not to hesitate though, because I don't want my nervousness to set these guys off.  
+
+
+#### A side note
+
+In our country, "cash in transit" security guards are often (daily) targeted because of the valuable items they transport.  It's for this reason that they are extra alert.
+
+I pass them and by the time I walk past the security guard, this time just greeting him in passing, I am focused again.
+
+I make my way to the manager to just let them know I am back, and proceed to the server room.  I start getting my stuff unpacked, and I hook my dropbox directly into the network switch again.  Within a minute or so, I pick up that the reverse SSH connection had successfully established, and I can access the dropbox from our C2 server.
+
+While trying to get Mimikatz to run on the server (which for some reason still doesn't want to), an automated task starts up and displays information on the screen.  I take note of a username and password that appears on the screen.  It's cleartext credentials for another server.
+
+With remote access gained, I head back to the office to move onto the next phase.
+
+### Let's start
+
+The first thing I do is start with device enumeration, to see what devices and IP ranges I can access.  It goes good for a few minutes, and then it freezes.  I lose access, and cannot get it back.  I decide to leave it for a while, to see if it comes back up.
+
+When I was at the store on this day, I noticed that in the server room it was extremely hot.  It's worth noting the server room is just a little room, with no airconditioning.  I realised that the Pi must be freezing up because of the heat.  
+
+After an hour, there is still nothing.
+
+### Nope, let's try... again
+
+I decide that because I basically have carte blanche in their offices, and no one really pays any attention to me because they are all familiar with me by this time, I might as well just set up a laptop with Kali, and go put it in the server cabinet.  There is no need for any stealth at this stage.
+
+I set up a laptop with the same reverse connection functionality as the dropbox.
+
+I head back with my laptop, hook it up into the server cabinet, make sure I have remote access, and head back to the office.  By now I have been there so many times I feel like I actually belong there, so it doesn't even cross my mind that I'm not supposed to be there. 
+
+### Finally
+
+Once I was back at the office the actual work of hacking could start.  We figured out we could access the complete network, and very soon after our initial discovery scanning we were able to compromise the Active Directory domain.
+
+We were able to determine a number of ways we can compromise the domain controller, including a path that involved using the credentials we obtained from the phishing attack.
+
+#### A side note
+
+It's worth noting that compromising the domain controller without valid credentials initially is a lot more worrysome.  This means that we could've skipped the whole phishing and vhishing attack to gain credentials and still be successful.
+
+The laptop was fetched from the store a short while after, again without any questions being asked why IT equipment was being carried out the store.
+
+### Lessons I learned
+
+- Be prepared for anything
+- Roll with whatever happens
+- If you can establish a rapor with someone, you are seen as a "familiar"
+- Be confident and act like you belong
+
+
+### Protecting your company
+
+- Enable 2FA for any login portals that are accesible from the Internet
+- When a phishing attack is noticed, communicate by means other than email that an attacker might have access to
+- Provide ongoing training to staff members about phishing and vhishing attacks, carefully explaining to them the impact
+- Make sure policies are in place to cater for external service providers access to stores
+- Do not neglect physical access security
+- Segment the network in such a way that compromising one store does not give the attacker access to the complete network
