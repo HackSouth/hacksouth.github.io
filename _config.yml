@@ -82,9 +82,9 @@ author:
 
 # Analytics
 analytics:
-  provider: "google-universal"
+  provider: "google-gtag"
   google:
-    tracking_id: "UA-174550030-1"
+    tracking_id: "G-G5GBWTRK3H"
     anonymize_ip: true
 
 footer:
