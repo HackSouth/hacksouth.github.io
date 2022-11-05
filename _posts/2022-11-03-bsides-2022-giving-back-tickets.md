@@ -30,4 +30,4 @@ If you wish to attend Bsides Cape Town 2022 and would like to tell us your story
 
 
 ### Conclusion
-Claim your 1 of 10 tickets if you are application is successful!
+Claim your 1 of 10 tickets if your application is successful!
