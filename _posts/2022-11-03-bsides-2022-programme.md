@@ -30,9 +30,9 @@ Map: [Google Maps](https://www.google.com/maps/dir/Cape+Town+International+Airpo
 Venue: https://tobmce.co.za/
 More about venue: https://bsidescapetown.co.za/bsides-conf/2022-location
 ### Event Program
+
 | Time        | Track 1                                                                      | Track 2                                                                                         |
 |-------------|------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-
 | 08h00-09h00 | Registration                                                                 |                                                                                                 |
 | 09h00       | Opening remarks                                                              |                                                                                                 |
 | 09h10       | Entersekt Open                                                               |                                                                                                 |
@@ -50,6 +50,7 @@ More about venue: https://bsidescapetown.co.za/bsides-conf/2022-location
 | 16h35       | Prize Giving                                                                 | Move back to Track 1                                                                            |
 | 17h00       | Closing Ceremony                                                             | Move back to Track 1                                                                            |
 |             | AFTER PARTY                                                                  |                                                                                                 |
+
 ### Workshop:
 Iosiro will host a workshop. We will announce signup soon. For a sneek peak: [Workshop](https://iosiro.notion.site/Workshop-Introduction-to-Smart-Contract-Security-7b412d4fd420437fab1f053268cb1512)
 
