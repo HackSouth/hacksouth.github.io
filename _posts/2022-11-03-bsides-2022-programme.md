@@ -32,6 +32,7 @@ More about venue: https://bsidescapetown.co.za/bsides-conf/2022-location
 ### Event Program
 | Time        | Track 1                                                                      | Track 2                                                                                         |
 |-------------|------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+
 | 08h00-09h00 | Registration                                                                 |                                                                                                 |
 | 09h00       | Opening remarks                                                              |                                                                                                 |
 | 09h10       | Entersekt Open                                                               |                                                                                                 |
