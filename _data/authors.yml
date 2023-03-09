@@ -67,26 +67,29 @@ dane.g:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/0xc0ffee_jhb"
 
-AtomicNicos:
-  name: AtomicNicos
-  bio: "Developer, Hackademic, OSINTeer, Wannabe Infosec Contributor"
-  avatar: "/assets/images/authors/atomicnicos.jpg"
+AtomicMaya:
+  name: AtomicMaya
+  bio: "AppSec Engineer, Developer, ex-Hackademic, OSINTeer, Infosec Contributor, "
+  avatar: "/assets/images/authors/atomicmaya.jpg"
   links:
     - label: "Blog"
       icon: "fas fa-fw fa-blog"
-      url: "https://atomicnicos.me"
+      url: "https://atomicmaya.me"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/nicolas-boeckh/"
+      url: "https://www.linkedin.com/in/m-boeckh/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/AtomicNicos"
+      url: "https://twitter.com/AtomicMaya_"
     - label: "Keybase"
       icon: "fas fa-fw fa-key"
-      url: "https://keybase.io/atomicnicos"
+      url: "https://keybase.io/atomicmaya"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/AtomicNicos"
+      url: "https://github.com/Maya"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://tech.lgbt/@AtomicMaya"
 
 MunX:
   name: MunX

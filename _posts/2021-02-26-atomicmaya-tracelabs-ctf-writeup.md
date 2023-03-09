@@ -1,8 +1,8 @@
 ---
 title: "Going at the TraceLabs OSINT CTF again: You don't win them all"
-author: AtomicNicos
+author: AtomicMaya
 header:
-  teaser: /assets/images/AtomicNicos-posts/Feb2021-Tracelabs/cover.png
+  teaser: /assets/images/AtomicMaya-posts/Feb2021-Tracelabs/cover.png
 excerpt_separator: "<!--more-->"
 categories:
  - CTF
@@ -62,7 +62,7 @@ tags:
   <p>Finally, the last important step is getting all of the CTF team members on Discord. Why Discord? Well, it allows for some instant communication, screen sharing and is also pretty convenient and comfortable for us to use. We have it built quite simply:</p>
 
   <div class="media-container">
-    <img src="/assets/images/AtomicNicos-posts/Feb2021-Tracelabs/discord-layout.png" alt="A snapshot of our Discord channel layout in our CTF server."/>
+    <img src="/assets/images/AtomicMaya-posts/Feb2021-Tracelabs/discord-layout.png" alt="A snapshot of our Discord channel layout in our CTF server."/>
   </div>
   <br/>
   <p>We then have one category per case assigned, for eventual evidentiary sanity checks -- which is the process of asking a teammate to check whether what we found is conclusive or whether it is a red herring.</p>
@@ -109,7 +109,7 @@ tags:
 
   <br/>
   <div class="media-container">
-    <img src="/assets/images/AtomicNicos-posts/Feb2021-Tracelabs/excel-case.png" alt="A redacted case information aggregation spreadsheet from the TraceLabs CTF."/>
+    <img src="/assets/images/AtomicMaya-posts/Feb2021-Tracelabs/excel-case.png" alt="A redacted case information aggregation spreadsheet from the TraceLabs CTF."/>
   </div>
   <br/>
 
@@ -117,7 +117,7 @@ tags:
 
   <br/>
   <div class="media-container">
-    <img src="/assets/images/AtomicNicos-posts/Feb2021-Tracelabs/excel-stats.png" alt="The statistics spreadsheet from the TraceLabs CTF."/>
+    <img src="/assets/images/AtomicMaya-posts/Feb2021-Tracelabs/excel-stats.png" alt="The statistics spreadsheet from the TraceLabs CTF."/>
   </div>
   <br/>
 
@@ -140,6 +140,6 @@ tags:
 
 ___
 
-<p>This article is originally published on AtomicNicos's Blog (<a href="https://atomicnicos.me/postx/2021/2021_02_26%2BTraceLabs-CTF-With-Hacksouth" target="_blank">original link here</a>) and was published by them on the HackSouth blog, conform to the <a href="https://atomicnicos.me/copyright">CC-BY-SA policy</a> on the website.</p>
+<p>This article is originally published on AtomicMaya's Blog (<a href="https://atomicmaya.me/post/2021/2021_02_26%2BTraceLabs-CTF-With-Hacksouth" target="_blank">original link here</a>) and was published by them on the HackSouth blog, conform to the <a href="https://atomicmaya.me/copyright">CC-BY-SA policy</a> on the website.</p>
 
 ___
