@@ -1,8 +1,8 @@
 ---
 title: "eNCA Interview on the WhatsApp Privacy Policy Changes"
-author: AtomicNicos
+author: AtomicMaya
 header:
-  teaser: /assets/images/AtomicNicos-posts/eNCA-WhatsApp-Interview/interview-screen-grab.jpg
+  teaser: /assets/images/AtomicMaya-posts/eNCA-WhatsApp-Interview/interview-screen-grab.jpg
 excerpt_separator: "<!--more-->"
 categories:
  - Community
@@ -32,8 +32,8 @@ tags:
 <p>As for how I had landed in their field of vision, I only know a part of the story:</p>
 <ol>
   <li>Vocally criticizing the WhatsApp policy in voice chat on Hack South.</li>
-  <li>Discussing this with <a target="_blank" href="https://twitter.com/uid883"><i class="fab fa-twitter-square"></i> Christo</a>  alongside <a target="_blank" href="https://twitter.com/BeeFaauBee09"><i class="fab fa-twitter-square"></i> Ibad (Bee)</a> on HackSouth (<a href="https://atomicnicos.me/postx/2021/2021_01_09+WhatsApp-Privacy-Policy-Changes-Discussion-at-Hack-South" target="_blank">see here</a>).</li>
-  <li>Publishing <a href="https://atomicnicos.me/postx/2021/2021_01_08+WhatsApp-Privacy-Policy-Changes-Analysis" target="_blank">my article</a>.</li>
+  <li>Discussing this with <a target="_blank" href="https://twitter.com/uid883"><i class="fab fa-twitter-square"></i> Christo</a>  alongside <a target="_blank" href="https://twitter.com/BeeFaauBee09"><i class="fab fa-twitter-square"></i> Ibad (Bee)</a> on HackSouth (<a href="https://atomicmaya.me/post/2021/2021_01_09+WhatsApp-Privacy-Policy-Changes-Discussion-at-Hack-South" target="_blank">see here</a>).</li>
+  <li>Publishing <a href="https://atomicmaya.me/post/2021/2021_01_08+WhatsApp-Privacy-Policy-Changes-Analysis" target="_blank">my article</a>.</li>
   <li>?</li>
   <li>Getting the proposition.</li>
 </ol>
@@ -42,6 +42,6 @@ tags:
 
 ___
 
-<p>This article is originally published on AtomicNicos's Blog (<a href="https://atomicnicos.me/postx/2021/2021_01_19+eNCA-Interview-on-the-WhatsApp-Privacy-Policy-Changes" target="_blank">original link here</a>) and was published by them on the HackSouth blog, conform to the <a href="https://atomicnicos.me/copyright">CC-BY-SA policy</a> on the website.</p>
+<p>This article is originally published on AtomicMaya's Blog (<a href="https://atomicmaya.me/post/2021/2021_01_19+eNCA-Interview-on-the-WhatsApp-Privacy-Policy-Changes" target="_blank">original link here</a>) and was published by them on the HackSouth blog, conform to the <a href="https://atomicmaya.me/copyright">CC-BY-SA policy</a> on the website.</p>
 
 ___

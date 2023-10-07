@@ -284,4 +284,4 @@ Co-Author [Megladon](https://twitter.com/IPmegladon)
 
 Co-Author [AngusRed](https://twitter.com/AngusRedBlue)
 
-Proof Editor [AtomicNicos](https://twitter.com/AtomicNicos)
+Proof Editor [AtomicMaya](https://twitter.com/AtomicMaya_)
