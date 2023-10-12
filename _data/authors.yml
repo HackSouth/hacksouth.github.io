@@ -280,3 +280,12 @@ chrismeistre:
     - label: "Resume / CV"
       icon: "fas fa-fw fa-file-contract"
       url: "https://chrismeistre.co.za/"
+
+jaredrochat:
+  name: "Jared Rochat"
+  bio: ""
+  avatar: "/assets/images/authors/jaredrochat.jpg"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jared-rochat-132116218/"
