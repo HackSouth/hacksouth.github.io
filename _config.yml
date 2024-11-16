@@ -24,9 +24,6 @@ locale: en
 url: https://hacksouth.africa
 baseurl: /
 
-twitter:
-  username: hack_south
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -66,7 +63,6 @@ author:
   location : "South Africa"
   avatar   : "/assets/images/bio-photo.png"
   bio      : "Home of the ubiquitous South.\n\nWe welcome hackers, makers, breakers, security professionals, students - even the curious! Join our Discord community."
-  twitter  : "hack_south"
   youtube  : "https://www.youtube.com/channel/UCk9CKgy1qd1l02sIX3uc__A"
   discord_widget: "https://discord.com/widget?id=687602309395382282&theme=dark"
   links:
