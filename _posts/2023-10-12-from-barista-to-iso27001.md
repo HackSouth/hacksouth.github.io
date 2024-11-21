@@ -2,7 +2,7 @@
 title: "From Barista to ISO27001"
 author: jaredrochat
 header:
-  teaser: /assets/images/from-barista-to-iso27001/header.png
+  teaser: /assets/images/from-barista-to-iso27001/header.jpg
 excerpt_separator: "<!--more-->"
 categories:
  - Career
